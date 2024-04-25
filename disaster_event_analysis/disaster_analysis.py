@@ -24,13 +24,13 @@ import copy
 import gzip
 import sys
 import traceback
-import igraph
-import csv
-import ssl
-import irrCAC
-import jsonlines
+# import igraph
+# import csv
+# import ssl
+# import irrCAC
+# import jsonlines
 
-import shap
+# import shap
 
 
 import urllib.request
@@ -120,9 +120,12 @@ if __name__ == '__main__':
     parser.add_argument("-dt", "--data", dest="data",
                         default="conflict_en", type=str,
                         help="can be chosen from disaster_en, disaster_es, disaster_fr, disaster_all_lang, conflict_en.")
+    parser.add_argument("-dsv", "--datasave", dest="data_save",
+                        default=False, action='store_true',
+                        help="save the data into csv for storage.")
     parser.add_argument("-opt", "--option", dest="option",
-                            default="rm_pair_us", type=str,
-                            help="can be chosen from rm_pair, rm_pair_us, rm_country.")
+                            default="gm_us", type=str,
+                            help="can be chosen from gm_us, rm_pair, rm_pair_us, rm_country.")
     args = parser.parse_args()
 
 
@@ -143,6 +146,7 @@ if __name__ == '__main__':
         source_route = "data/disaster_*/"
     elif args.data == "conflict_en":
         source_route = "data/conflict_news_count_en/"
+
     output_route = 'csv_output/' + args.data +'.csv'
 
     country_geography_list = pd.read_csv(data_route + "country_info/country_geo_location.csv")
@@ -176,15 +180,18 @@ if __name__ == '__main__':
             cur_count += sum(disaster_country_pair_stats[cur_disaster_type][cur_country1].values())
         print(cur_disaster_type, cur_count)
 
-    # save metadata for visualization
-    flat_data = []
-    for row_key, nested_dict in disaster_country_pair_stats_total.items():
-        for col_key, value in nested_dict.items():
-            flat_data.append({'event_country': row_key, 'report_country': col_key, 'art_num': value})
-    output_df = pd.DataFrame(flat_data)
+    if args.data_save:
+        # save metadata for visualization
+        flat_data = []
+        for row_key, nested_dict in disaster_country_pair_stats_total.items():
+            for col_key, value in nested_dict.items():
+                flat_data.append({'event_country': row_key, 'report_country': col_key, 'art_num': value})
+        output_df = pd.DataFrame(flat_data)
 
 
-    output_df.to_csv(output_route)
+        output_df.to_csv(output_route)
+
+
     # transformed the count to log scale for more fair comparison
     for cur_disaster_type in disaster_country_stats:
         for cur_alpha3 in disaster_country_stats[cur_disaster_type]:
@@ -230,6 +237,52 @@ if __name__ == '__main__':
     #     line = f.readline()
     #
     # f.close()
+
+    # global map of us media focus on other all countries
+    if args.option == "gm_us":
+        '''load democracy index'''
+        country_democracy_index_list = pd.read_csv("../../mediacloud/ner_art_sampling/bias_dataset/2019_democracy_index/2019_democracy_index.csv")
+        country_democracy_index_list = country_democracy_index_list[country_democracy_index_list["year"] == 2019]
+        country_democracy_index_list.rename(columns={'country': 'Country'}, inplace=True)
+        country_democracy_index_list["Country"] = country_democracy_index_list["Country"].apply(
+            lambda x: "United States" if x == "US" else x)
+        country_democracy_index_list["Country"] = country_democracy_index_list["Country"].apply(
+            lambda x: "United Kingdom" if x == "UK" else x)
+
+        country_unitary_state_list = pd.read_csv("../../mediacloud/ner_art_sampling/country_info/country_unitary_state.csv")
+
+        country_alpha3_full_name_list = pd.merge(country_democracy_index_list, country_geography_list, on='Country')
+        country_alpha3_full_name_list = pd.merge(country_alpha3_full_name_list, country_unitary_state_list,
+                                                 on='Country')
+
+        ''' geographic visualization '''
+        country_alpha3_list = country_alpha3_full_name_list['Alpha-3 code'].to_list()
+        country_full_name_list = country_alpha3_full_name_list['Country'].to_list()
+        country_alpha3_full_name_dict = {country_alpha3_list[i]:country_full_name_list[i] for i in range(len(country_alpha3_list))}
+
+        cur_data = pd.read_csv(output_route)
+        cur_data = cur_data[cur_data['report_country'] == 'USA']
+
+        cur_data_event_country_full_name = [country_alpha3_full_name_dict[c] if c in country_alpha3_full_name_dict else "" for c in cur_data['event_country'].to_list()]
+        cur_data_art_num = cur_data['art_num'].to_list()
+
+
+
+        # plot global articles of each country
+        a = cur_data_event_country_full_name
+        b = [c for c in cur_data_art_num]
+        print("total articles we covered: ", sum(cur_data_art_num))
+        geo = (
+            Map(init_opts=opts.InitOpts(bg_color="#FFFFFF", theme='essos', width="1500px", height='900px'))  # 图表大小
+                .add("", [list(z) for z in zip(a, b)], "world", is_map_symbol_show=False)
+                .set_series_opts(label_opts=opts.LabelOpts(is_show=False))  # 标签不显示(国家名称不显示)
+                .set_global_opts(
+                title_opts=opts.TitleOpts(title="Article numbers of each country", subtitle='article numbers'),
+                # 主标题与副标题名称
+                visualmap_opts=opts.VisualMapOpts(min_=2, max_=7), # 值映射最大值
+            )
+        )
+        geo.render("geo_art.html")
 
     if args.option == "rm_pair":
 
