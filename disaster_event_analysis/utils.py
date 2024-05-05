@@ -9,7 +9,9 @@ import numpy as np
 # we log the git commit hashes used to generate news article pairs
 import git
 
-
+# the countries used English, Spainish, or French with the most population.
+top_country_list = {'USA':["en"], "GBR": ["en"], "CAN":["en","fr"], "AUS":["en"], "MEX":["es"], "COL":["es"], "ESP": ["es"], "ARG":["es"], "COD":["fr"], "FRA":["fr"]}
+french_top_country_list = ["CAN", "FRA"]
 
 SHA = git.Repo(search_parent_directories=True).head.object.hexsha
 # SHA = "xichen_test"
