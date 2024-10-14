@@ -7,17 +7,26 @@ kb = json.load(open("gtd-disaster-instance-info.json"))
 efiles = glob.glob("gtd-passing-phase-2-en-9.23/*.jsonl")
 for ff in efiles:
     eid = ff.split("/")[-1].replace("-finalout.jsonl","")
-    # print(eid in kb, eid)
-    # if eid not in kb: continue
+    assert eid.split("-")[0]=='attack'
+    e_country=eid.split("-")[1]
+    e_date = "-".join(eid.split("-")[-3:])
+    #      .replace("-xx","-01")
+    eid = f"attack-{e_date}-{e_country}"
+
+    # print("INKB?",eid in kb, eid)
+    if eid not in kb: 
+        # print(f"NOT IN KB: file={ff} eid={eid}")
+        continue
 
     for dd in (json.loads(line) for line in open(ff)):
         # del dd['text']
 
         dd['eid']=eid
+
         # dd['e_date_orig'] = "orig" + "-".join(eid.split("-")[-3:])
-        dd['e_date'] = "-".join(eid.split("-")[-3:]).replace("-xx","-01")
-        dd['e_type']=eid.split("-")[0]
-        dd['e_country']=eid.split("-")[1]
+        dd['e_date']   = e_date
+        dd['e_type']   =eid.split("-")[0]
+        dd['e_country']=e_country
 
         # for k in ['total affected','num affected','total deaths', 'num homeless', 'num injured']:
         for k in ['num fatalities','num injured']:
