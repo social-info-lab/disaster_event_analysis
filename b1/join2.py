@@ -34,7 +34,7 @@ assert len(  set(emdat_kb.keys()) & set(gtd_kb.keys())  )==0
 kb = dict(  list(emdat_kb.items()) + list(gtd_kb.items())  )
 
 efiles = []
-efiles += glob.glob("gtd-passing-phase-2-en-9.23/*.jsonl")
+# efiles += glob.glob("gtd-passing-phase-2-en-9.23/*.jsonl")
 efiles += glob.glob("nd-passing-phase-2-en-9.23/*.jsonl")
 
 kbkeys = ["num fatalities", "num injured",
@@ -45,7 +45,7 @@ eid_newsff = {}
 for ff in efiles:
     eid = ff.split("/")[-1].replace("-finalout.jsonl","")
     eid_newsff[eid] = ff
-unseen_eids = set(kb.keys()) - set(eid_newsff)
+unseen_eids = set(kb.keys()) - set(eid_newsff.keys())
 for eid in unseen_eids:
     eid_newsff[eid] = None
 
@@ -58,7 +58,8 @@ for (eid,ff) in eid_newsff.items():
     else:
         articles = [json.loads(line) for line in open(ff)]
         out['num_articles'] = len(articles)
-        out['article_pub_countries'] = ' '.join(f"{k}:{c}" for (k,c) in Counter([a['country'] for a in articles]).most_common(100))
+        cc = Counter([a['country'] for a in articles])
+        out['pub_countries'] = ' '.join(f"{k}:{c}" for (k,c) in cc.most_common(100))
 
     out['lookup'] = (
             "in_gtd_json" if eid in gtd_kb else
