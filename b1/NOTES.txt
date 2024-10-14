@@ -1,0 +1,20 @@
+https://drive.google.com/drive/u/1/folders/12PAw6s5Vgv7p-fA5a1-fO18TJT09QtvP
+
+
+Thanks for the meeting today; the relevant output from our method is in the Google drive folder, 'Data', within 'IRG News Coverage', with description as follows:
+
+passing-phase-2-en-naturaldisaster.zip, final outputs files on English articles for natural disasters
+passing-phase-2-fr-naturaldisaster.zip, final outputs files on French articles for natural disasters 
+passing-phase-2-es-naturaldisaster.zip, final outputs files on Spanish articles for natural disasters 
+passing-phase-2-en-gtd.zip, final outputs files on English articles for attacks
+passing-phase-2-fr-gtd.zip, final outputs files on French articles for attacks 
+passing-phase-2-es-gtd.zip, final outputs files on Spanish articles for attacks  
+emdat-disaster-instance-info.json, details on casualty / cost counts of each natural disaster 
+gtd-disaster-instance-info.json, details on casualty / cost counts of each terrorist attack 
+
+
+============
+
+
+  python join.py|json2csv>data.csv
+
