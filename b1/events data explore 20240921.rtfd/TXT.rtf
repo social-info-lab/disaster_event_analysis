@@ -1,0 +1,177 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cousine-Regular;\f2\fnil\fcharset0 Cousine-Italic;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red152\green152\blue152;\red189\green189\blue189;
+\red180\green36\blue25;}
+{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c66082\c66083\c66081;\cssrgb\c78857\c78858\c78857;
+\cssrgb\c76409\c21698\c12524;}
+\margl1440\margr1440\vieww22300\viewh15260\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 By NEWS event, proportion missing values per attribute\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1 \cf2 \CocoaLigature0 > apply(d[,1:7],2,function(x) mean(is.na(x)))\
+  n_aff  tot_de   n_inj country    n_hl tot_aff    date \
+ 0.2794  0.1180  0.7343  0.0000  0.9671  0.1996  0.0000 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0 \cf0 \CocoaLigature1 \
+per-event aggregation\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1 \cf2 \CocoaLigature0 > ee=d %>% group_by(eid) %>% summarise(num_articles=n(),tot_de=tot_de[1],tot_aff=tot_aff[1],country=country[1],e_type=e_type[1]) %>% filter(!is.na(tot_de) & !is.na(tot_aff))\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0 \cf0 \CocoaLigature1 \
+\
+Filter to articles mentioning events that have both total deaths and total affected data.\
+\
+per type:\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1 \cf2 \CocoaLigature0 > ee %>% filter(!is.na(tot_de) & !is.na(tot_aff)) %>% group_by(e_type) %>% summarise(n_events=n(), n_articles=sum(num_articles), a_per_e=n_articles/n_events, mean(tot_de),sd(tot_de),mean(tot_aff),sd(tot_aff))\
+`summarise()` ungrouping output (override with `.groups` argument)\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf3 # A tibble: 7 x 8\cf2 \
+  e_type     n_events n_articles a_per_e `mean(tot_de)` `sd(tot_de)` `mean(tot_aff)` `sd(tot_aff)`\
+  
+\f2\i \cf3 <chr>
+\f1\i0 \cf2          
+\f2\i \cf3 <int>
+\f1\i0 \cf2       
+\f2\i \cf3 <int>
+\f1\i0 \cf2    
+\f2\i \cf3 <dbl>
+\f1\i0 \cf2           
+\f2\i \cf3 <dbl>
+\f1\i0 \cf2         
+\f2\i \cf3 <dbl>
+\f1\i0 \cf2            
+\f2\i \cf3 <dbl>
+\f1\i0 \cf2          
+\f2\i \cf3 <dbl>
+\f1\i0 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf4 1\cf2  avalanche         2        132    66             31.5        13.4             172           124.\
+\cf4 2\cf2  earthquake        4       \ul 1\ulnone 125   281.            13.8        18.5           \ul 38\ulnone 981.        \ul 41\ulnone 471.\
+\cf4 3\cf2  flood            47       \ul 1\ulnone 687    35.9           27.1        57.8          \ul 162\ulnone 579.       \ul 629\ulnone 731.\
+\cf4 4\cf2  landslide         2         66    33             18           4.24          \ul 77\ulnone 932.       \ul 110\ulnone 193.\
+\cf4 5\cf2  storm            24       \ul 6\ulnone 814   284.            19.1        27.9          \ul 992\ulnone 157.      3\ul 665\ulnone 481.\
+\cf4 6\cf2  volcano           1       \ul 2\ulnone 302  \ul 2\ulnone 302              1          \cf5 NA\cf2             \ul 736\ulnone 802            \cf5 NA\cf2  \
+\cf4 7\cf2  wildfire          2         83    41.5           12           9.90          \ul 63\ulnone 600         \ul 88\ulnone 247.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0 \cf0 \CocoaLigature1 \
+\
+\
+Does impact of the disaster affect coverage?\
+A little bit for storms.  rho=.471 for deaths, rho=.371 for affecteds.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 {{\NeXTGraphic Pasted Graphic.pdf \width8160 \height8560 \appleattachmentpadding0 \appleembedtype0 \appleaqc
+}¬}\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0   {{\NeXTGraphic Pasted Graphic 1.pdf \width8160 \height8560 \appleattachmentpadding0 \appleembedtype0 \appleaqc
+}¬}\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1 \cf2 \CocoaLigature0 > ee%>%group_by(e_type) %>% summarise(n_events=n(),cor(tot_de,num_articles,method='spearman'),cor(tot_aff,num_articles,method='spearman')) %>% filter(n_events>2)\
+`summarise()` ungrouping output (override with `.groups` argument)\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf3 # A tibble: 3 x 4\cf2 \
+  e_type    n_events `cor(tot_de, num_articles, method = "s\'85 `cor(tot_aff, num_articles, method = "\'85\
+  
+\f2\i \cf3 <chr>
+\f1\i0 \cf2         
+\f2\i \cf3 <int>
+\f1\i0 \cf2                                    
+\f2\i \cf3 <dbl>
+\f1\i0 \cf2                                    
+\f2\i \cf3 <dbl>
+\f1\i0 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf4 1\cf2  earthqua\'85        4                                  0.4                                     0.6   \
+\cf4 2\cf2  flood           47                                 -\cf5 0.015\ul \ulc5 2\cf2 \ulnone                                   0.019\ul 4\ulnone \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf4 3\cf2  storm           24                                  0.471                                   0.371 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0 \cf0 \CocoaLigature1 \
+\
+For all floods and storms, (geometric) mean number of articles per country where the event took place.\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1 \cf2 \CocoaLigature0 > ee %>% filter(e_type %in% c('flood','storm','earthquake')) %>% group_by(e_type,country) %>% summarise(n_events=n(),gm_arts=exp(mean(log(num_articles)))) %>% arrange(-gm_arts) %>% print(n=99)\
+`summarise()` regrouping output by 'e_type' (override with `.groups` argument)\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf3 # A tibble: 50 x 4\cf2 \
+\cf3 # Groups:   e_type [3]\cf2 \
+   e_type     country n_events gm_arts\
+   
+\f2\i \cf3 <chr>
+\f1\i0 \cf2       
+\f2\i \cf3 <chr>
+\f1\i0 \cf2       
+\f2\i \cf3 <int>
+\f1\i0 \cf2    
+\f2\i \cf3 <dbl>
+\f1\i0 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf4  1\cf2  storm      NPL            2 \ul 1\ulnone 659.  \
+\cf4  2\cf2  flood      GBR            1  690.  \
+\cf4  3\cf2  earthquake GBR            1  663   \
+\cf4  4\cf2  storm      GBR            1  650.  \
+\cf4  5\cf2  storm      PHL            2  482.  \
+\cf4  6\cf2  storm      ESP            1  392.  \
+\cf4  7\cf2  earthquake VAT            1  226.  \
+\cf4  8\cf2  earthquake SAU            1  179   \
+\cf4  9\cf2  storm      SLB            1  154.  \
+\cf4 10\cf2  storm      CAN            1  153.  \
+\cf4 11\cf2  flood      ZAF            1  106.  \
+\cf4 12\cf2  storm      SGP            1  101.  \
+\cf4 13\cf2  storm      FJI            1   98.  \
+\cf4 14\cf2  flood      CAN            2   83.5 \
+\cf4 15\cf2  flood      IND            2   72.4 \
+\cf4 16\cf2  flood      KGZ            1   66.0 \
+\cf4 17\cf2  earthquake NGA            1   57.  \
+\cf4 18\cf2  storm      PAK            1   53.  \
+\cf4 19\cf2  storm      NZL            1   44.0 \
+\cf4 20\cf2  flood      UGA            1   36   \
+\cf4 21\cf2  storm      AFG            1   31   \
+\cf4 22\cf2  storm      USA            5   27.9 \
+\cf4 23\cf2  flood      AUS            1   19.0 \
+\cf4 24\cf2  storm      CZE            1   18.0 \
+\cf4 25\cf2  flood      TUR            1   17   \
+\cf4 26\cf2  flood      KEN            3   16.0 \
+\cf4 27\cf2  flood      TJK            1   16.0 \
+\cf4 28\cf2  storm      CHN            1   12   \
+\cf4 29\cf2  flood      PAK            2   11.2 \
+\cf4 30\cf2  flood      USA            7   10.9 \
+\cf4 31\cf2  flood      SGP            1    9.  \
+\cf4 32\cf2  storm      VNM            1    7.00\
+\cf4 33\cf2  storm      IND            1    6   \
+\cf4 34\cf2  flood      IRN            2    4.47\
+\cf4 35\cf2  flood      IDN            3    3.85\
+\cf4 36\cf2  flood      NGA            3    3.53\
+\cf4 37\cf2  flood      RWA            2    3.  \
+\cf4 38\cf2  storm      NGA            1    3.  \
+\cf4 39\cf2  storm      THA            1    3.  \
+\cf4 40\cf2  flood      ISR            2    2.65\
+\cf4 41\cf2  flood      CHN            1    2   \
+\cf4 42\cf2  flood      GHA            1    2   \
+\cf4 43\cf2  flood      IRL            2    2   \
+\cf4 44\cf2  flood      MWI            1    2   \
+\cf4 45\cf2  flood      AFG            1    1   \
+\cf4 46\cf2  flood      ARM            1    1   \
+\cf4 47\cf2  flood      HKG            1    1   \
+\cf4 48\cf2  flood      TWN            1    1   \
+\cf4 49\cf2  flood      YEM            1    1   \
+\cf4 50\cf2  flood      ZWE            1    1   \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0 \cf0 \CocoaLigature1 \
+\
+\
+}
