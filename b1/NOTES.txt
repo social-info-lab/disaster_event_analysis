@@ -37,3 +37,9 @@ https://docs.google.com/spreadsheets/d/1apnqezfHevIi8zpWQJ94yieyerUvj1DOrisuf2FM
 > ee %>% filter(e_type %in% c('flood','storm','earthquake')) %>% group_by(e_type,e_country) %>% summarise(n_events=n(),gm_arts=exp(mean(log(num_articles)))) %>% arrange(-gm_arts) %>% excel
 
 
+
+oct14 new
+big file of all events including unseen events
+
+~/Desktop/irg event media/results/disaster_event_analysis/b1 % python join2.py > events.csv
+
