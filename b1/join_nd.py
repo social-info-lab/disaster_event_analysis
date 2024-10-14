@@ -17,12 +17,16 @@ for ff in efiles:
         # dd['e_date_orig'] = "orig" + "-".join(eid.split("-")[-3:])
         dd['e_date'] = "-".join(eid.split("-")[-3:]).replace("-xx","-01")
         dd['e_type']=eid.split("-")[0]
+        dd['e_country']=eid.split("-")[1]
 
         for k in ['total affected','num affected','total deaths', 'num homeless', 'num injured']:
             val = kb[eid][k] if eid in kb else ""
             val = "" if val=="-999" else val
             k2 = k.replace(" ","_").replace("num","n").replace("affected","aff").replace("total","tot").replace("homeless","hl").replace("injured","inj").replace("deaths","de")
             dd[k2] = val
+        dd['a_country'] = dd.pop('country')
+        dd['a_date'] = dd.pop('date')
+        dd['a_text'] = dd.pop('text')
 
         print(json.dumps(dd))
         

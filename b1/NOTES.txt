@@ -18,3 +18,22 @@ gtd-disaster-instance-info.json, details on casualty / cost counts of each terro
 
   python join.py|json2csv>data.csv
 
+~/Desktop/irg event media/results/disaster_event_analysis/b1 % mv data.csv data_sep21.csv
+
+
+oct13 new
+
+
+python join_nd.py|json2csv -c>data_nd.csv
+python join_gtd.py |json2csv -c > data_gtd.csv
+
+> d=read_csv("data.csv")
+
+For the spreadsheet
+https://docs.google.com/spreadsheets/d/1apnqezfHevIi8zpWQJ94yieyerUvj1DOrisuf2FMq2s/edit?gid=577766445#gid=577766445
+
+> ee=d %>% group_by(eid) %>% summarise(num_articles=n(),tot_de=tot_de[1],tot_aff=tot_aff[1],e_country=e_country[1],e_type=e_type[1])
+
+> ee %>% filter(e_type %in% c('flood','storm','earthquake')) %>% group_by(e_type,e_country) %>% summarise(n_events=n(),gm_arts=exp(mean(log(num_articles)))) %>% arrange(-gm_arts) %>% excel
+
+
