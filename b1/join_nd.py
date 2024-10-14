@@ -4,11 +4,17 @@
 import json,glob
 
 kb = json.load(open("emdat-disaster-instance-info.json"))
-efiles = glob.glob("passing-phase-2-en-var1/*.jsonl")
+# efiles = glob.glob("passing-phase-2-en-var1/*.jsonl")
+efiles = glob.glob("nd-passing-phase-2-en-9.23/*.jsonl")
 for ff in efiles:
     eid = ff.split("/")[-1].replace("-finalout.jsonl","")
     # print(eid in kb, eid)
-    # if eid not in kb: continue
+    if eid not in kb: 
+        print("NOT IN KB",ff, " -- EID",eid)
+        continue
+    # else:
+    #     print("INKB")
+    #     continue
 
     for dd in (json.loads(line) for line in open(ff)):
         # del dd['text']
