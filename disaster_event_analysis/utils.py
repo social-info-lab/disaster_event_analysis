@@ -10,11 +10,22 @@ import numpy as np
 import git
 
 # the countries used English, Spainish, or French with the most population.
-top_country_list = {'USA':["en"], "GBR": ["en"], "CAN":["en","fr"], "AUS":["en"], "MEX":["es"], "COL":["es"], "ESP": ["es"], "ARG":["es"], "COD":["fr"], "FRA":["fr"]}
+top_country_list = {'USA':["en"], "GBR": ["en"], "CAN":["en","fr"], "AUS":["en"], "GHA":["en"], "IND":["en"], "IRL":["en"],  "KEN":["en"], "NGA":["en"], "ZAF":["en"], "MEX":["es"], "COL":["es"], "ESP": ["es"], "ARG":["es"], "FRA":["fr"]}
+# top_country_list = {'USA':["en"], "GBR": ["en"], "CAN":["en","fr"], "AUS":["en"], "MEX":["es"], "COL":["es"], "ESP": ["es"], "ARG":["es"], "FRA":["fr"]}
+# top_country_list = {'USA':["en"], "GBR": ["en"], "MEX":["es"], "COL":["es"], "ESP": ["es"], "ARG":["es"], "FRA":["fr"]}
+# top_country_list = {'USA':["en"], "MEX":["es"], "COL":["es"], "ESP": ["es"], "ARG":["es"], "FRA":["fr"]}
 french_top_country_list = ["CAN", "FRA"]
+
+us_country_list = {'USA':["en"]}
+
+valid_pair_bound = 1 # only select the countries that covered the disasters/conflicts of at least the number of valid_pair_bound countries with this language as official language
+
 
 SHA = git.Repo(search_parent_directories=True).head.object.hexsha
 # SHA = "xichen_test"
+
+continent_list = ["Asia", "Europe", "Africa", "Oceania", "North America", "South America", "Antarctica"]
+
 lang_list = ['en','de','es','pl','zh','fr','ar','tr','it','ru']
 lang_full_name_list = ['English', 'German', 'Spanish', 'Polish', 'Chinese', 'French', 'Arabic', 'Turkish', 'Italian','Russian']
 lang_dict = {key:1 for key in lang_list}
@@ -275,7 +286,7 @@ month_len = 30
 
 #politic groups
 # political_group_list = ["nato","eunion","brics","csto"]
-political_group_list = ["nato","eunion","brics"]
+political_group_list = ["nato","eunion","brics", 'five_eyes']
 continent_list = ["Asia", "Europe", "Africa", "Oceania", "North America", "South America", "Antarctica"]
 
 MIN_ARTICLE_LENGTH = 100 # Articles less than 100 *words* are discarded (vary according to translation ratio across languages)

@@ -1,0 +1,282 @@
+,event,article number,death
+0,attack-2020-01-03-france,345,2
+1,attack-2020-02-19-germany,291,2
+2,attack-2020-04-04-france,217,2
+3,attack-2020-01-30-france,145,1
+4,attack-2020-02-02-united kingdom,108,1
+5,attack-2020-03-06-tunisia,100,3
+6,attack-2020-01-26-mali,99,24
+7,attack-2020-05-21-united states,86,1
+8,attack-2020-02-14-mali,85,31
+9,attack-2020-05-12-afghanistan,82,24
+10,attack-2020-02-20-syria,72,27
+11,attack-2020-05-10-afghanistan,69,11
+12,attack-2020-05-03-venezuela,68,6
+13,attack-2020-04-05-mali,65,15
+14,attack-2020-03-23-chad,64,98
+15,attack-2020-03-03-afghanistan,61,14
+16,attack-2020-04-06-mali,61,35
+17,attack-2020-03-29-mali,59,12
+18,attack-2020-05-30-burkina faso,59,13
+19,attack-2020-03-04-afghanistan,58,12
+20,attack-2020-01-09-niger,58,166
+21,attack-2020-01-14-syria,57,13
+22,attack-2020-03-19-mali,56,29
+23,attack-2020-05-29-burkina faso,54,15
+24,attack-2020-01-20-burkina faso,51,32
+25,attack-2020-01-05-kenya,49,7
+26,attack-2020-03-08-burkina faso,49,21
+27,attack-2020-05-17-united kingdom,49,1
+28,attack-2020-03-05-syria,47,150
+29,attack-2020-02-24-canada,46,1
+30,attack-2020-03-06-afghanistan,43,33
+31,attack-2020-04-21-mali,39,12
+32,attack-2020-01-04-burkina faso,39,14
+33,attack-2020-02-16-burkina faso,35,24
+34,attack-2020-04-28-syria,34,40
+35,attack-2020-04-28-mali,33,12
+36,attack-2020-01-18-yemen,33,116
+37,attack-2020-01-22-iran,32,1
+38,attack-2020-03-06-ukraine,32,1
+39,attack-2020-02-23-haiti,29,0
+40,attack-2020-05-27-afghanistan,29,15
+41,attack-2020-03-05-afghanistan,29,15
+42,attack-2020-02-09-algeria,29,2
+43,attack-2020-01-25-burkina faso,27,36
+44,attack-2020-05-15-afghanistan,27,16
+45,attack-2020-05-30-afghanistan,26,19
+46,attack-2020-04-18-belgium,26,0
+47,attack-2020-05-13-myanmar,26,2
+48,attack-2020-02-21-canada,25,1
+49,attack-2020-05-27-greece,24,0
+50,attack-2020-02-01-burkina faso,23,18
+51,attack-2020-02-05-yemen,23,15
+52,attack-2020-05-12-syria,22,22
+53,attack-2020-05-25-canada,21,0
+54,attack-2020-05-23-burkina faso,21,13
+55,attack-2020-05-09-australia,21,0
+56,attack-2020-05-10-syria,21,22
+57,attack-2020-03-10-ukraine,21,1
+58,attack-2020-02-09-benin,20,1
+59,attack-2020-03-23-nigeria,20,179
+60,attack-2020-02-07-burkina faso,20,11
+61,attack-2020-04-25-lebanon,20,0
+62,attack-2020-05-17-afghanistan,20,11
+63,attack-2020-02-10-burkina faso,20,11
+64,attack-2020-03-08-algeria,19,2
+65,attack-2020-05-07-syria,19,11
+66,attack-2020-01-03-united kingdom,18,1
+67,attack-2020-05-29-afghanistan,17,35
+68,attack-2020-02-05-iraq,17,11
+69,attack-2020-05-16-afghanistan,17,12
+70,attack-2020-05-08-libya,16,2
+71,attack-2020-01-07-kenya,16,6
+72,attack-2020-02-18-ukraine,16,1
+73,attack-2020-04-05-cameroon,16,9
+74,attack-2020-01-29-democratic republic of the congo,16,11
+75,attack-2020-03-08-afghanistan,16,11
+76,attack-2020-05-14-turkey,15,2
+77,attack-2020-05-11-burkina faso,15,28
+78,attack-2020-04-24-democratic republic of the congo,15,17
+79,attack-2020-05-18-afghanistan,15,14
+80,attack-2020-04-20-china,14,0
+81,attack-2020-04-09-syria,14,29
+82,attack-2020-01-30-chad,14,24
+83,attack-2020-03-28-saudi arabia,14,0
+84,attack-2020-05-16-mexico,13,2
+85,attack-2020-03-25-afghanistan,13,28
+86,attack-2020-01-17-burkina faso,12,20
+87,attack-2020-02-21-ethiopia,12,1
+88,attack-2020-02-02-somalia,11,18
+89,attack-2020-02-09-nigeria,11,30
+90,attack-2020-04-19-tunisia,11,0
+91,attack-2020-05-22-afghanistan,10,16
+92,attack-2020-01-12-thailand,10,2
+93,attack-2020-01-28-libya,10,2
+94,attack-2020-05-12-nigeria,10,17
+95,attack-2020-01-06-nigeria,10,30
+96,attack-2020-01-02-syria,10,15
+97,attack-2020-04-16-nigeria,10,14
+98,attack-2020-05-17-nigeria,10,20
+99,attack-2020-05-13-brazil,10,1
+100,attack-2020-05-31-nigeria,9,13
+101,attack-2020-05-16-democratic republic of the congo,9,20
+102,attack-2020-04-12-democratic republic of the congo,9,20
+103,attack-2020-04-13-kenya,9,4
+104,attack-2020-02-19-chad,9,43
+105,attack-2020-01-03-nigeria,9,29
+106,attack-2020-05-27-syria,8,19
+107,attack-2020-04-20-nigeria,8,13
+108,attack-2020-05-25-poland,8,0
+109,attack-2020-05-04-afghanistan,8,17
+110,attack-2020-05-19-afghanistan,8,11
+111,attack-2020-01-07-myanmar,8,4
+112,attack-2020-05-23-poland,7,0
+113,attack-2020-03-15-niger,7,50
+114,attack-2020-03-04-nigeria,7,18
+115,attack-2020-01-01-afghanistan,7,13
+116,attack-2020-05-26-democratic republic of the congo,7,26
+117,attack-2020-02-14-nigeria,7,21
+118,attack-2020-01-19-india,7,7
+119,attack-2020-05-03-afghanistan,7,14
+120,attack-2020-01-30-democratic republic of the congo,7,11
+121,attack-2020-04-08-turkey,6,5
+122,attack-2020-02-19-somalia,6,33
+123,attack-2020-04-10-democratic republic of the congo,6,11
+124,attack-2020-04-27-afghanistan,6,11
+125,attack-2020-03-16-italy,6,0
+126,attack-2020-02-16-central african republic,6,12
+127,attack-2020-02-28-democratic republic of the congo,6,24
+128,attack-2020-05-02-afghanistan,6,18
+129,attack-2020-02-14-afghanistan,6,11
+130,attack-2020-01-18-nigeria,6,25
+131,attack-2020-03-17-syria,6,21
+132,attack-2020-05-02-democratic republic of the congo,5,12
+133,attack-2020-03-21-russian federation,5,1
+134,attack-2020-04-28-brazil,5,0
+135,attack-2020-01-22-sudan,5,32
+136,attack-2020-01-17-somalia,5,19
+137,attack-2020-01-26-nigeria,5,14
+138,attack-2020-02-17-colombia,5,7
+139,attack-2020-05-14-nigeria,5,14
+140,attack-2020-04-02-china,5,0
+141,attack-2020-01-09-nigeria,5,12
+142,attack-2020-03-11-italy,5,0
+143,attack-2020-04-13-sudan,5,4
+144,attack-2020-05-25-democratic republic of the congo,5,14
+145,attack-2020-03-25-somalia,5,17
+146,attack-2020-03-06-thailand,4,1
+147,attack-2020-05-31-yemen,4,30
+148,attack-2020-04-29-afghanistan,4,15
+149,attack-2020-03-04-cyprus,4,0
+150,attack-2020-04-21-nigeria,4,28
+151,attack-2020-04-28-afghanistan,4,13
+152,attack-2020-03-28-burkina faso,4,16
+153,attack-2020-01-12-nigeria,4,11
+154,attack-2020-04-15-indonesia,4,2
+155,attack-2020-01-04-syria,4,14
+156,attack-2020-02-09-egypt,4,11
+157,attack-2020-04-07-mozambique,4,19
+158,attack-2020-01-10-pakistan,4,16
+159,attack-2020-01-01-ghana,4,1
+160,attack-2020-05-10-nigeria,4,20
+161,attack-2020-04-01-burkina faso,4,16
+162,attack-2020-05-19-chile,4,0
+163,attack-2020-04-30-central african republic,3,25
+164,attack-2020-03-27-afghanistan,3,11
+165,attack-2020-02-21-afghanistan,3,13
+166,attack-2020-02-29-lebanon,3,1
+167,attack-2020-05-17-egypt,3,12
+168,attack-2020-01-15-afghanistan,3,21
+169,attack-2020-05-19-niger,3,19
+170,attack-2020-02-18-pakistan,3,16
+171,attack-2020-05-08-yemen,3,48
+172,attack-2020-02-21-saudi arabia,3,0
+173,attack-2020-02-05-brazil,3,1
+174,attack-2020-03-22-lebanon,3,1
+175,attack-2020-04-19-afghanistan,3,11
+176,attack-2020-04-11-mozambique,3,30
+177,attack-2020-05-02-russian federation,3,0
+178,attack-2020-05-26-israel,2,0
+179,attack-2020-01-02-ethiopia,2,1
+180,attack-2020-03-26-afghanistan,2,12
+181,attack-2020-05-15-iran,2,0
+182,attack-2020-03-08-thailand,2,1
+183,attack-2020-03-29-afghanistan,2,11
+184,attack-2020-05-20-yemen,2,18
+185,attack-2020-03-20-afghanistan,2,25
+186,attack-2020-01-21-israel,2,3
+187,attack-2020-03-28-afghanistan,2,18
+188,attack-2020-03-21-india,2,20
+189,attack-2020-03-30-afghanistan,2,17
+190,attack-2020-03-28-cameroon,2,12
+191,attack-2020-03-07-venezuela,2,0
+192,attack-2020-05-18-bangladesh,2,0
+193,attack-2020-05-31-china,2,0
+194,attack-2020-02-03-democratic republic of the congo,2,11
+195,attack-2020-04-20-afghanistan,2,11
+196,attack-2020-02-04-maldives,2,0
+197,attack-2020-02-29-yemen,2,54
+198,attack-2020-04-09-iraq,2,8
+199,attack-2020-01-17-peru,2,0
+200,attack-2020-05-01-afghanistan,2,18
+201,attack-2020-04-11-yemen,2,38
+202,attack-2020-05-10-burundi,2,0
+203,attack-2020-04-10-italy,2,0
+204,attack-2020-04-10-mozambique,2,64
+205,attack-2020-01-02-afghanistan,2,11
+206,attack-2020-02-10-yemen,2,13
+207,attack-2020-03-16-burundi,2,1
+208,attack-2020-04-22-afghanistan,1,13
+209,attack-2020-03-12-libya,1,2
+210,attack-2020-05-29-myanmar,1,4
+211,attack-2020-03-21-afghanistan,1,12
+212,attack-2020-02-07-democratic republic of the congo,1,20
+213,attack-2020-04-05-portugal,1,0
+214,attack-2020-04-23-afghanistan,1,11
+215,attack-2020-03-30-indonesia,1,1
+216,attack-2020-02-16-afghanistan,1,12
+217,attack-2020-02-03-afghanistan,1,17
+218,attack-2020-03-11-central african republic,1,40
+219,attack-2020-02-12-sudan,1,N/A
+220,attack-2020-03-16-afghanistan,1,26
+221,attack-2020-05-04-netherlands,1,0
+222,attack-2020-04-17-philippines,1,12
+223,attack-2020-03-02-sudan,1,N/A
+224,attack-2020-04-03-colombia,1,4
+225,attack-2020-05-18-greece,1,0
+226,attack-2020-03-02-israel,1,1
+227,attack-2020-05-22-australia,0,0
+228,attack-2020-04-19-finland,0,0
+229,attack-2020-04-01-mexico,0,1
+230,attack-2020-02-20-norway,0,0
+231,attack-2020-05-02-republic of south africa,0,1
+232,attack-2020-05-23-indonesia,0,1
+233,attack-2020-04-24-philippines,0,4
+234,attack-2020-01-09-kyrgyzstan,0,0
+235,attack-2020-02-10-nicaragua,0,0
+236,attack-2020-02-17-nicaragua,0,1
+237,attack-2020-04-11-cyprus,0,0
+238,attack-2020-05-25-netherlands,0,0
+239,attack-2020-05-02-turkey,0,2
+240,attack-2020-05-28-mozambique,0,97
+241,attack-2020-04-15-maldives,0,0
+242,attack-2020-05-18-kazakhstan,0,0
+243,attack-2020-05-24-sudan,0,N/A
+244,attack-2020-04-12-ireland,0,0
+245,attack-2020-04-25-yemen,0,16
+246,attack-2020-03-28-burundi,0,13
+247,attack-2020-04-29-colombia,0,4
+248,attack-2020-03-06-uganda,0,20
+249,attack-2020-02-08-ecuador,0,0
+250,attack-2020-04-25-pakistan,0,11
+251,attack-2020-01-16-venezuela,0,8
+252,attack-2020-04-30-bangladesh,0,1
+253,attack-2020-03-10-mozambique,0,11
+254,attack-2020-04-13-russian federation,0,0
+255,attack-2020-05-13-chile,0,0
+256,attack-2020-02-26-sweden,0,0
+257,attack-2020-03-14-yemen,0,11
+258,attack-2020-02-28-bangladesh,0,0
+259,attack-2020-03-28-ecuador,0,0
+260,attack-2020-03-25-ethiopia,0,1
+261,attack-2020-03-19-norway,0,0
+262,attack-2020-03-26-kazakhstan,0,0
+263,attack-2020-05-16-new zealand,0,0
+264,attack-2020-03-12-honduras,0,1
+265,attack-2020-04-07-afghanistan,0,18
+266,attack-2020-01-16-malaysia,0,1
+267,attack-2020-04-24-mexico,0,2
+268,attack-2020-04-21-ireland,0,0
+269,attack-2020-04-27-cyprus,0,0
+270,attack-2020-05-31-ecuador,0,0
+271,attack-2020-05-25-republic of south africa,0,1
+272,attack-2020-03-18-yemen,0,38
+273,attack-2020-04-05-afghanistan,0,16
+274,attack-2020-02-24-sweden,0,0
+275,attack-2020-01-09-kosovo,0,0
+276,attack-2020-03-04-nepal,0,0
+277,attack-2020-03-11-nepal,0,0
+278,attack-2020-04-22-ireland,0,0
+279,attack-2020-03-01-australia,0,0
+280,attack-2020-02-12-paraguay,0,1

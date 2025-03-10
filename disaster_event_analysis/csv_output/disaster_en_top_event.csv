@@ -1,0 +1,189 @@
+,event,article number,death
+0,storm-india-2020-05-20,2405,90
+1,volcano-philippines-2020-01-12,2302,1
+2,storm-united kingdom-2020-02-08,1149,2
+3,storm-bangladesh-2020-05-20,1144,26
+4,storm-united states-2020-03-02,939,N/A
+5,flood-united states-2020-05-17,690,N/A
+6,earthquake-turkey-2020-01-24,663,41
+7,earthquake-puerto rico-2020-01-07,655,4
+8,storm-united states-2020-04-10,650,N/A
+9,storm-united states-2020-01-10,512,N/A
+10,storm-australia-2020-01-19,427,19
+11,flood-australia-2020-02-04,414,1
+12,storm-spain-2020-01-19,392,17
+13,storm-united states-2020-04-06,292,N/A
+14,storm-vanuatu-2020-04-06,261,3
+15,earthquake-jamaica-2020-01-28,260,N/A
+16,storm-philippines-2020-05-15,247,5
+17,earthquake-croatia-2020-03-22,225,1
+18,flood-india-2020-05-24,187,1
+19,earthquake-turkey-2020-02-23,178,9
+20,flood-united kingdom-2020-02-28,175,19
+21,storm-germany-2020-02-09,166,19
+22,flood-united states-2020-02-10,164,N/A
+23,earthquake-iran-2020-02-23,161,19
+24,storm-united states-2020-05-02,161,N/A
+25,flood-canada-2020-04-26,155,1
+26,storm-solomon islands-2020-04-02,154,48
+27,storm-fiji-2020-04-08,153,1
+28,flood-new zealand-2020-02-01,151,19
+29,earthquake-cayman islands-2020-01-28,147,N/A
+30,storm-india-2020-01-11,145,11
+31,avalanche-turkey-2020-02-04,112,41
+32,flood-republic of south africa-2020-02-07,106,3
+33,storm-el salvador-2020-05-31,101,32
+34,storm-fiji-2020-01-17,98,2
+35,storm-france-2020-02-08,94,19
+36,earthquake-united states-2020-05-15,78,N/A
+37,earthquake-united states-2020-03-31,78,N/A
+38,wildfire-china-2020-03-30,78,19
+39,flood-zambia-2020-01-xx,74,19
+40,flood-uzbekistan-2020-05-01,66,4
+41,earthquake-new zealand-2020-03-14,65,N/A
+42,storm-guatemala-2020-05-30,62,2
+43,landslide-india-2020-05-27,61,21
+44,earthquake-united states-2020-01-23,60,N/A
+45,earthquake-china-2020-05-18,57,4
+46,flood-israel-2020-01-04,56,7
+47,storm-pakistan-2020-01-11,53,107
+48,storm-tonga-2020-04-06,52,19
+49,flood-indonesia-2020-01-14,52,19
+50,earthquake-indonesia-2020-01-07,46,N/A
+51,storm-belgium-2020-02-09,46,19
+52,storm-sweden-2020-02-07,45,1
+53,flood-egypt-2020-03-11,45,40
+54,earthquake-china-2020-01-19,44,N/A
+55,storm-poland-2020-02-08,44,3
+56,flood-kenya-2020-04-18,43,285
+57,earthquake-puerto rico-2020-05-02,41,19
+58,earthquake-japan-2020-04-18,40,N/A
+59,earthquake-russian federation-2020-03-25,40,N/A
+60,flood-kazakhstan-2020-05-01,40,19
+61,earthquake-new zealand-2020-04-14,38,N/A
+62,flood-india-2020-05-10,38,29
+63,flood-brazil-2020-02-29,37,4
+64,earthquake-greece-2020-05-02,37,N/A
+65,flood-brazil-2020-03-02,37,60
+66,flood-uganda-2020-05-08,36,3
+67,earthquake-united states-2020-01-26,33,N/A
+68,earthquake-japan-2020-04-19,32,N/A
+69,storm-france-2020-01-21,31,19
+70,storm-afghanistan-2020-01-12,31,13
+71,earthquake-solomon islands-2020-01-27,29,N/A
+72,flood-indonesia-2020-01-28,28,9
+73,flood-uganda-2020-05-21,28,11
+74,earthquake-indonesia-2020-01-18,26,N/A
+75,earthquake-indonesia-2020-02-26,24,N/A
+76,flood-rwanda-2020-05-01,24,8
+77,flood-indonesia-2020-02-26,22,10
+78,earthquake-philippines-2020-03-26,22,N/A
+79,storm-tuvalu-2020-01-18,22,19
+80,flood-pakistan-2020-03-04,21,66
+81,earthquake-philippines-2020-02-06,20,N/A
+82,earthquake-indonesia-2020-03-18,20,N/A
+83,avalanche-afghanistan-2020-02-13,20,22
+84,flood-indonesia-2020-01-23,19,10
+85,flood-iran-2020-01-09,19,4
+86,storm-czech republic-2020-02-07,18,1
+87,flood-democratic republic of the congo-2020-04-16,17,52
+88,flood-yemen-2020-04-15,16,10
+89,storm-oman-2020-05-27,16,N/A
+90,flood-afghanistan-2020-05-02,16,4
+91,earthquake-papua new guinea-2020-02-09,15,N/A
+92,earthquake-indonesia-2020-01-19,14,N/A
+93,storm-honduras-2020-05-30,13,5
+94,earthquake-peru-2020-05-31,13,N/A
+95,storm-china-2020-05-01,12,20
+96,storm-slovenia-2020-02-07,10,1
+97,earthquake-russian federation-2020-01-09,9,N/A
+98,storm-vietnam-2020-04-22,9,3
+99,storm-turkey-2020-01-07,9,2
+100,flood-brazil-2020-01-17,9,61
+101,flood-malaysia-2020-04-25,8,19
+102,earthquake-indonesia-2020-04-05,7,N/A
+103,earthquake-mexico-2020-05-22,7,N/A
+104,flood-brazil-2020-02-09,7,5
+105,storm-vietnam-2020-03-02,7,5
+106,storm-sri lanka-2020-05-17,6,4
+107,flood-pakistan-2020-03-31,6,24
+108,storm-italy-2020-02-08,6,1
+109,earthquake-honduras-2020-04-16,6,N/A
+110,flood-zambia-2020-03-20,5,19
+111,landslide-peru-2020-02-23,5,15
+112,flood-iran-2020-02-24,5,21
+113,wildfire-bolivia-2020-01-xx,5,5
+114,flood-rwanda-2020-02-02,5,19
+115,flood-iran-2020-04-10,4,8
+116,flood-uganda-2020-04-17,4,5
+117,earthquake-indonesia-2020-02-05,4,N/A
+118,flood-afghanistan-2020-04-13,4,5
+119,flood-indonesia-2020-04-09,4,19
+120,storm-cuba-2020-05-25,4,19
+121,flood-indonesia-2020-05-22,3,4
+122,flood-indonesia-2020-04-30,3,2
+123,storm-madagaskar-2020-03-13,3,4
+124,flood-rwanda-2020-04-17,3,72
+125,storm-thailand-2020-04-29,3,2
+126,flood-indonesia-2020-02-11,3,19
+127,flood-rwanda-2020-03-02,3,3
+128,flood-united republic of tanzania-2020-01-27,2,29
+129,flood-malawi-2020-02-04,2,1
+130,flood-france-2020-05-11,2,19
+131,flood-indonesia-2020-03-29,2,1
+132,flood-indonesia-2020-04-20,2,19
+133,flood-china-2020-05-21,2,280
+134,flood-united republic of tanzania-2020-04-22,2,2
+135,earthquake-vanuatu-2020-03-18,2,N/A
+136,flood-ethiopia-2020-04-20,2,12
+137,flood-somalia-2020-04-20,2,26
+138,earthquake-papua new guinea-2020-01-07,1,N/A
+139,flood-afghanistan-2020-03-28,1,56
+140,flood-papua new guinea-2020-04-04,1,19
+141,landslide-ethiopia-2020-05-09,1,12
+142,flood-bolivia-2020-02-08,1,18
+143,earthquake-tonga-2020-03-17,1,N/A
+144,flood-tajikistan-2020-05-14,1,2
+145,earthquake-vanuatu-2020-05-27,1,N/A
+146,flood-colombia-2020-02-26,1,14
+147,flood-mozambique-2020-02-11,1,2
+148,flood-yemen-2020-03-25,1,2
+149,flood-namibia-2020-03-06,1,19
+150,landslide-ethiopia-2020-05-28,1,10
+151,earthquake-papua new guinea-2020-04-25,1,N/A
+152,flood-iraq-2020-03-18,1,8
+153,flood-indonesia-2020-04-04,1,4
+154,flood-indonesia-2020-02-13,1,6
+155,flood-burkina faso-2020-04-19,0,19
+156,flood-indonesia-2020-03-20,0,19
+157,storm-burundi-2020-03-16,0,2
+158,earthquake-solomon islands-2020-01-29,0,N/A
+159,flood-democratic republic of the congo-2020-05-05,0,19
+160,flood-peru-2020-01-23,0,19
+161,flood-peru-2020-03-28,0,19
+162,earthquake-papua new guinea-2020-05-07,0,N/A
+163,flood-honduras-2020-02-28,0,3
+164,flood-angola-2020-03-16,0,3
+165,flood-burundi-2020-01-28,0,3
+166,flood-angola-2020-04-18,0,30
+167,flood-congo-2020-03-30,0,20
+168,flood-bolivia-2020-02-13,0,8
+169,flood-papua new guinea-2020-02-05,0,7
+170,storm-mongolia-2020-01-xx,0,19
+171,flood-democratic republic of the congo-2020-03-17,0,19
+172,flood-argentina-2020-02-11,0,3
+173,storm-argentina-2020-01-15,0,19
+174,flood-indonesia-2020-03-04,0,2
+175,earthquake-tonga-2020-05-28,0,N/A
+176,flood-madagaskar-2020-01-01,0,40
+177,flood-peru-2020-02-17,0,15
+178,flood-indonesia-2020-05-08,0,7
+179,flood-djibouti-2020-04-20,0,8
+180,flood-burundi-2020-04-13,0,19
+181,earthquake-solomon islands-2020-05-12,0,N/A
+182,flood-papua new guinea-2020-03-21,0,12
+183,flood-chad-2020-04-20,0,19
+184,flood-ecuador-2020-02-22,0,19
+185,flood-guatemala-2020-05-09,0,3
+186,landslide-papua new guinea-2020-04-10,0,10
+187,flood-united republic of tanzania-2020-03-10,0,19
