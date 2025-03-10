@@ -1,0 +1,45 @@
+https://drive.google.com/drive/u/1/folders/12PAw6s5Vgv7p-fA5a1-fO18TJT09QtvP
+
+
+Thanks for the meeting today; the relevant output from our method is in the Google drive folder, 'Data', within 'IRG News Coverage', with description as follows:
+
+passing-phase-2-en-naturaldisaster.zip, final outputs files on English articles for natural disasters
+passing-phase-2-fr-naturaldisaster.zip, final outputs files on French articles for natural disasters 
+passing-phase-2-es-naturaldisaster.zip, final outputs files on Spanish articles for natural disasters 
+passing-phase-2-en-gtd.zip, final outputs files on English articles for attacks
+passing-phase-2-fr-gtd.zip, final outputs files on French articles for attacks 
+passing-phase-2-es-gtd.zip, final outputs files on Spanish articles for attacks  
+emdat-disaster-instance-info.json, details on casualty / cost counts of each natural disaster 
+gtd-disaster-instance-info.json, details on casualty / cost counts of each terrorist attack 
+
+
+============
+
+
+  python join.py|json2csv>data.csv
+
+~/Desktop/irg event media/results/disaster_event_analysis/b1 % mv data.csv data_sep21.csv
+
+
+oct13 new
+
+
+python join_nd.py|json2csv -c>data_nd.csv
+python join_gtd.py |json2csv -c > data_gtd.csv
+
+> d=read_csv("data.csv")
+
+For the spreadsheet
+https://docs.google.com/spreadsheets/d/1apnqezfHevIi8zpWQJ94yieyerUvj1DOrisuf2FMq2s/edit?gid=577766445#gid=577766445
+
+> ee=d %>% group_by(eid) %>% summarise(num_articles=n(),tot_de=tot_de[1],tot_aff=tot_aff[1],e_country=e_country[1],e_type=e_type[1])
+
+> ee %>% filter(e_type %in% c('flood','storm','earthquake')) %>% group_by(e_type,e_country) %>% summarise(n_events=n(),gm_arts=exp(mean(log(num_articles)))) %>% arrange(-gm_arts) %>% excel
+
+
+
+oct14 new
+big file of all events including unseen events
+
+~/Desktop/irg event media/results/disaster_event_analysis/b1 % python join2.py > events.csv
+
