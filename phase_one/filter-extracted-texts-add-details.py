@@ -8,15 +8,9 @@ df = pd.read_csv('media-id-country-mapping.csv')
 for fn in filenames:
     f = open(fn,"r")
     data = json.load(f)["arr"]
-    oldcounts = {}
-    newarr = []
     titledatearr = []
     newcounts = {}
     for d in data:
-        if d["date"] not in oldcounts:
-            oldcounts[d["date"]] = 1
-        else:
-            oldcounts[d["date"]] = oldcounts[d["date"]] + 1
         mediaid = d["media id"]
         if len(df.loc[df['media_id']==int(mediaid)]) == 0:
             continue
@@ -35,18 +29,9 @@ for fn in filenames:
         d["pub country"] = pubcountry
         chunks = d["article"].replace(". . ",". ").split(". ")
         art = ""
-        if len(chunks) == 1:
-            art = chunks[0]
-        elif len(chunks) == 2:
-            art = chunks[0] + ". " + chunks[1] + "."
-        elif len(chunks) == 3:
-            art = chunks[0] + ". " + chunks[1] + ". " + chunks[2]+"."
-        elif len(chunks) == 4:
-            art = chunks[0] + ". " + chunks[1] + ". " + chunks[2] + ". " + chunks[3] + "."
-        else:
-            art = chunks[0] + ". " + chunks[1] + ". " + chunks[2] + ". " + chunks[3] + ". " + chunks[4] + "."
+        for i in range(0,len(chunks)):
+            art = art + chunks[i] + ". "
         titledatearr.append([d["title"]+". "+art,d["date"],pubcountry])
-        newarr.append(d)
     with open(fn.replace(".json","")+'-filteredtext.json','w') as f:
         json.dump({"arr":titledatearr},f)
 
