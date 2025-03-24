@@ -109,7 +109,7 @@ def count_keywords_noperl(filenames,kws,locations):
             count = count + 1
             j = json.loads(jstring)
             arr.append({"title":j["title"],"article":j["story_text"][:1200],"media name":j["media_name"],"media id":j["media_id"],"media url":j["media_url"],"date":j["publish_date"][:10],"id":j["processed_stories_id"]})
-    with open('/mnt/nfs/work1/brenocon/ecai/mediacloud-titles-11.21/2.28exps/'+kws[0].lower()+'-'+locations[0]+'-'+date[:10]+'.json','w') as f:
+    with open('/mnt/nfs/work1/brenocon/ecai/mediacloud/exps/'+kws[0].lower()+'-'+locations[0]+'-'+date[:10]+'.json','w') as f:
         json.dump({"arr":arr},f)
     print(countarr)
     if len(locations)>0:
