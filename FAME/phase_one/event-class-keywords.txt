@@ -1,0 +1,32 @@
++ s, es, d, ed suffixes
+
+ENGLISH
+flood: flood, flooding 
+earthquake: earthquake, quake, seism, seismic
+volcano: volcano, volcanoes, volcanic
+storm: storm, stormed, blizzard, hurricane, thunderstorm, hailstorm, cyclone, snowstorm, typhoon, windstorm, rainstorm 
+avalanche: avalanche 
+landslide: mudslide, landslide, mass movement, rock fall, debris flow 
+wildfire: wildfire, forest fire, firestorm, bushfire 
+attack: attack, assault, rifle, kidnapped, kidnapper, pistol, shooting, shooter, raid, beseige, skirmish, invasion, assail, invade, kidnap, hostage, barricade, abduct, captive, bomb, explode, explosion, bombing, assassination, casualty, casualties, kill, murder 
+
+SPANISH
+flood: flood, inundaci\\u00f3n, inundado, inundar\\u00e1, inundaciones 
+earthquake: earthquake, terremoto, sismo 
+volcano: volcano, volc\\u00e1n, volcanes, volc\\u00e1nico 
+storm: storm, tormenta, tormenta el\\u00e9ctrica, hurac\\u00e1n, cicl\\u00f3n, tif\\u00f3n, granizo, huracanes, ciclones, tifones, granizada, tornado 
+avalanche: avalancha, avalanche
+landslide: landslide, deslizamiento de tierra, deslizamientos de tierra, deslizamiento de lodo, deslizamientos de lodos 
+wildfire: wildfire, incendio forestal, incendios forestales 
+attack: attack, ataque, atacado, agresor, ataques, agresi\\u00f3n, agresiones, asaltado, agredir, agredi\\u00f3, rifle, secuestrar, secuestrado, secuestro, secuestrador, pistola, disparar, disparo, tiroteo, tirador, redada, allanado, asaltando, asediar, asediado, asedia, asediando, escaramuza, invasi\\u00f3n, invadiendo, invasor, invadir, invadido, invade, atacar, asaltante, ataca, asaltando, asaltado, reh\\u00e9n, barricada, barricada, barricada, secuestrar, secuestrado, abductor, secuestra, secuestrando, cautivo, cautivos, bomba, bombas, bombardeo, bombardeos, bombas, explotar, explosi\\u00f3n, asesinato, asesinar, matar, mata, delicado, asesinatos, asesinato, asesinando, asesinado, asesino, v\\u00edctima, damnificados 
+
+FRENCH
+flood: flood, l\'inondation, inondation, inonder, inond\\u00e9 
+earthquake: earthquake, tremblement de terre, tremblements de terre, s\\u00e9isme, s\\u00e9ismes, sismique 
+volcano: volcano, volcan, volcans, volcanique 
+storm: storm, temp\\u00eate, ouragan, cyclon, cyclone, typhon, tornade, orage, orag\\u00e9, l\'orage, gr\\u00eale, gr\\u00ealait 
+avalanche: avalanche, l\'avalanche 
+landslide: landslide, glissement de terrain, glissement de boue, glissements de terrain, glissements de boue 
+wildfire: wildfire, incendie de for\\u00eat, incendies de for\\u00eat, l\'incendie de for\\u00eat, l\'incendies de for\\u00eat 
+attack: attack, attaque, attaqu\\u00e9, attaquer, attaques, agression, agressions, agress\\u00e9, fusil, kidnapper, kidnapp\\u00e9, enl\\u00e8vement, kidnappeur, pistolet, tirer, tournage, tireur, raid, perquisitionn\\u00e9, raids, assi\\u00e9ger, assi\\u00e9g\\u00e9, assi\\u00e8ge, escarmouche, invasion, envahisseur, envahir, envahi, envahit, assaillir, agresseur, assaille, assailli, otage, barricade, barricader, barricad\\u00e9, enlever, enlev\\u00e9, ravisseur, enl\\u00e8vements, enl\\u00e8vement, captif, prisonniers, bombe, bombardier, bombardement, bombes, exploser, explosion, assassinat, assassiner, tuer, tu\\u00e9, meurtre, assassin\\u00e9, meurtrier, victime 
+

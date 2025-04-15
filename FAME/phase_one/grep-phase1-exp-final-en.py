@@ -43,7 +43,7 @@ mapping = {"locust":["locust"],"flood":["flood","flooding"],"earthquake":["earth
 
 
 def load_country_dict():
-    f = open("country-igos-update-more.txt", "r")
+    f = open("country-keywords-english.txt", "r")
     Lines = f.readlines()
     count = 0
     country_dict={}

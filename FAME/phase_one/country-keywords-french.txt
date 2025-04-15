@@ -1,0 +1,5759 @@
+===	
+ABW	aruba
+ABW	aruban
+===	
+AFG	afghanistan
+AFG	afghan
+AFG	zaboul
+AFG	province de maidan-wardak
+AFG	takhar
+AFG	province de sar-e pol
+AFG	samangan
+AFG	parwan
+AFG	paktique
+AFG	paktia
+AFG	orouzgan
+AFG	nimroz
+AFG	nangarhar
+AFG	logaire
+AFG	laghman
+AFG	coundouz
+AFG	kunar
+AFG	kapisa
+AFG	kandahar
+AFG	kaboul
+AFG	jowzjan
+AFG	h\\u00e9rat
+AFG	helmand
+AFG	ghowr
+AFG	gazni
+AFG	faryab
+AFG	farah
+AFG	bamyan
+AFG	balkh
+AFG	baghlan
+AFG	badghis
+AFG	badakhshan
+AFG	khowst
+AFG	nouristan
+AFG	jourkundi
+AFG	panjshir
+AFG	kaboul
+AFG	h\\u00e9rat
+AFG	mazar-e charif
+AFG	kandahar
+===	
+AGO	angola
+AGO	angolais
+AGO	lunda sul
+AGO	luanda nord
+AGO	moxique
+AGO	cuando cobango
+AGO	za\\u00efre
+AGO	uige
+AGO	malanj\\u00e9
+AGO	luanda
+AGO	cuanza nord
+AGO	cabine
+AGO	bengo
+AGO	namib\\u00e9
+AGO	huila
+AGO	huambo
+AGO	cun\\u00e8ne
+AGO	kwanza sul
+AGO	bi\\u00e9
+AGO	benguela
+AGO	luanda
+AGO	lubango
+AGO	huambo
+AGO	benguela
+AGO	cabine
+===	
+AIA	anguille
+AIA	anguilien
+AIA	point de soufflage
+AIA	terrain sable
+AIA	colline de sable
+AIA	la vall\\u00e9e
+AIA	extr\\u00e9mit\\u00e9 est
+AIA	colline nord
+AIA	extremite ouest
+AIA	colline sud
+AIA	le quartier
+AIA	c\\u00f4t\\u00e9 nord
+AIA	port de l'\\u00eele
+AIA	george colline
+AIA	terrain pierreux
+AIA	le farrington
+===	
+ALB	albanie
+ALB	albanais
+ALB	comt\\u00e9 de berat
+ALB	comt\\u00e9 de dib\\u00ebr
+ALB	comt\\u00e9 d'elbasan
+ALB	comt\\u00e9 de gjirokast\\u00ebr
+ALB	comt\\u00e9 de korc\\u00eb
+ALB	comt\\u00e9 de kuk\\u00ebs
+ALB	comt\\u00e9 de durr\\u00ebs
+ALB	comt\\u00e9 de fier
+ALB	comt\\u00e9 de lezh\\u00eb
+ALB	comt\\u00e9 de shkod\\u00ebr
+ALB	tirana
+ALB	comt\\u00e9 de vlor\\u00eb
+===	
+AND	andorre
+AND	andorran
+AND	sant julia de loria
+AND	ordino
+AND	la massana
+AND	camper
+AND	canillo
+AND	andorre-la-vielle
+AND	escaldes-engordany
+===	
+ARE	emirats arabes unis
+ARE	\\u00e9mirats
+ARE	\\u00e9mirats arabes unis
+ARE	\\u00e9mirien
+ARE	\\u00e9mirats-unis
+ARE	\\u00e9mirats arabes unis.
+ARE	\\u00e9mirats arabes
+ARE	imarat umm al qaywayn
+ARE	ra's al khaymah
+ARE	dubai
+ARE	charjah
+ARE	fujairah
+ARE	ajman
+ARE	abu dhabi
+ARE	dubai
+ARE	abu dhabi
+ARE	charjah
+ARE	ville d'al a\\u00efn
+===	
+ARG	argentine
+ARG	argentin
+ARG	argentin
+ARG	argentin
+ARG	missions
+ARG	formose
+ARG	buenos aires f.d.
+ARG	entre rios
+ARG	corriens
+ARG	buenos aires
+ARG	tucuman
+ARG	terre de feu
+ARG	santiago del estero
+ARG	santa fe
+ARG	santa cruz
+ARG	san luis
+ARG	san juan
+ARG	salte
+ARG	rio n\\u00e9gro
+ARG	neuqu\\u00e9n
+ARG	mendoza
+ARG	la rioja
+ARG	la pampa
+ARG	jujuy
+ARG	cordoue
+ARG	chubut
+ARG	chaco
+ARG	catamarca
+ARG	buenos aires
+ARG	cordoue
+ARG	rosario
+ARG	mar del plata
+ARG	san miguel de tucuman
+===	
+ARM	arm\\u00e9nie
+ARM	arm\\u00e9nien
+ARM	ararat
+ARM	syunik
+ARM	vayots dzor
+ARM	erevan
+ARM	aragatsotn
+ARM	armavir
+ARM	gegharkunik
+ARM	kota\\u00efk
+ARM	lori
+ARM	chirak
+ARM	tavousch
+ARM	erevan
+===	
+ATG	antiguan
+ATG	barbudan
+ATG	antigua
+ATG	barbuda
+ATG	paroisse saint-philippe
+ATG	paroisse saint-pierre
+ATG	paroisse saint-paul
+ATG	paroisse sainte-marie
+ATG	paroisse saint-jean
+ATG	paroisse saint-george
+ATG	redonda
+ATG	barbuda
+===	
+AUS	australie
+AUS	australien
+AUS	aussie
+AUS	australien
+AUS	straie
+AUS	australie occidentale
+AUS	australie du sud
+AUS	territoire du nord
+AUS	victoria
+AUS	tasmanie
+AUS	queensland
+AUS	nouvelle galles du sud
+AUS	territoire de la capitale australienne
+AUS	sydney
+AUS	melbourne
+AUS	brisbane
+AUS	perth
+AUS	ad\\u00e9la\\u00efde
+AUS	c\\u00f4te d'or
+===	
+AUSNFK	l'ile de norfolk
+AUSNFK	\\u00eele norfolk
+===	
+AUT	l'autriche
+AUT	autrichien
+AUT	vienne
+AUT	vorarberg
+AUT	tyrol
+AUT	styrie
+AUT	salzbourg
+AUT	haute autriche
+AUT	basse autriche
+AUT	carinthie
+AUT	burgenland
+AUT	vienne
+===	
+AZE	azerba\\u00efdjan
+AZE	azerba\\u00efdjanais
+AZE	beyl\\u0259qan
+AZE	quartier de zangilan
+AZE	quartier de yardimli
+AZE	choucha
+AZE	quartier salyan
+AZE	quartier de sabirabad
+AZE	saatli
+AZE	quartier de bilasuvar
+AZE	neftcala
+AZE	assr du nakhichevan
+AZE	masall\\u00e9
+AZE	quartier de lerik
+AZE	l\\u0259nk\\u0259ran
+AZE	lacine
+AZE	qubadli
+AZE	imisli
+AZE	quartier de fuzuli
+AZE	jabrayil
+AZE	jalilabad
+AZE	astara
+AZE	xocali
+AZE	ağcabǝdi
+AZE	ağdam
+AZE	chirvan
+AZE	sahari lankarien
+AZE	ville de chucha
+AZE	quartier tartare
+AZE	xankǝndi
+AZE	khojavend
+AZE	z\\u0259rdab
+AZE	quartier de zaqatala
+AZE	yevlax
+AZE	oğuz
+AZE	ucar
+AZE	quartier de tovuz
+AZE	samaxi
+AZE	chaki
+AZE	sǝmkir
+AZE	quartier de kurdamir
+AZE	quartier de qabala
+AZE	quartier de qusar
+AZE	quba
+AZE	rayonne goygol
+AZE	xacmaz
+AZE	kalbajar
+AZE	qazax
+AZE	quartier de goranboy
+AZE	qax
+AZE	quartier d'isma\\u00eflli
+AZE	goycay
+AZE	chabran
+AZE	daskǝsǝn
+AZE	quartier de balakan
+AZE	barda
+AZE	baki
+AZE	abs\\u00e9ron
+AZE	quartier de l'agsu
+AZE	agdas
+AZE	quartier de gadabay
+AZE	agstafa
+AZE	gǝncǝ
+AZE	mingǝcevir
+AZE	naftalan
+AZE	qobustan
+AZE	samuux
+AZE	ville de chaki
+AZE	siyǝzǝn
+AZE	sumqayit
+AZE	xizi
+AZE	ville de yevlax
+AZE	haciqabul
+AZE	bakou
+===	
+BDI	burundi
+BDI	burundien
+BDI	makamba
+BDI	bururi
+BDI	muramvya
+BDI	gitega
+BDI	ruigi
+BDI	cankuzo
+BDI	karuzi
+BDI	bubanza
+BDI	cibitoke
+BDI	ngozi
+BDI	kayanza
+BDI	muyinga
+BDI	kirundo
+BDI	rutana
+BDI	mwaro
+BDI	mairie de bujumbura
+BDI	bujumbura rurale
+BDI	rumong\\u00e9
+BDI	bujumbura
+===	
+BEL	belgique
+BEL	belge
+BEL	capitale de bruxelles
+BEL	wallonie
+BEL	flandre
+BEL	bruxelles
+BEL	anvers
+===	
+BEN	b\\u00e9nin
+BEN	b\\u00e9ninois
+BEN	zou
+BEN	ou\\u00e9me
+BEN	mono
+BEN	bourgou
+BEN	atlantique
+BEN	atakora
+BEN	alibori
+BEN	collines
+BEN	kouffo
+BEN	donga
+BEN	littoral
+BEN	plateau
+BEN	cotonou
+===	
+BFA	burkina faso
+BFA	burkina
+BFA	boucle du mouhoun
+BFA	r\\u00e9gion des cascades
+BFA	centre-est
+BFA	centre-nord
+BFA	centre-ouest
+BFA	centre-sud
+BFA	hauts-bassin
+BFA	plateau-central
+BFA	sahel
+BFA	sud-ouest
+BFA	ouagadougou
+BFA	bobo-dioulasso
+===	
+BGD	bangladesh
+BGD	bangladesh
+BGD	division rajshahi
+BGD	division dhaka
+BGD	chittagong
+BGD	division de khulna
+BGD	division barisal
+BGD	division sylhet
+BGD	division rangpur
+BGD	division mymensingh
+BGD	dakar
+BGD	chattogramme
+BGD	khulna
+BGD	rangpur
+BGD	comilla
+BGD	rajshahi
+===	
+BGR	bulgarie
+BGR	bulgare
+BGR	razgrad
+BGR	montana
+BGR	vratsa
+BGR	varna
+BGR	dobrich
+BGR	sofia
+BGR	ruse
+BGR	plovdiv
+BGR	pl\\u00e9ven
+BGR	pernik
+BGR	pazardjik
+BGR	lovech
+BGR	haskovo
+BGR	sofia-capital
+BGR	bourgas
+BGR	blagoevgrad
+BGR	gabrovo
+BGR	kardjali
+BGR	kustendil
+BGR	choumen
+BGR	silistra
+BGR	sliv\\u00e9
+BGR	smolyan
+BGR	stara zagora
+BGR	targovishte
+BGR	veliko tarnovo
+BGR	vid\\u00e9n
+BGR	yambol
+BGR	sofia
+===	
+BHR	bahrein
+BHR	bahrein
+BHR	muharraq
+BHR	manama
+BHR	gouvernorat du sud
+BHR	nord
+===	
+BHS	bahamas
+BHS	bahamien
+BHS	san salvador
+BHS	\\u00eele d\\u00e9chiquet\\u00e9
+BHS	iles baies
+BHS	nouvelle providence
+BHS	mayaguana
+BHS	long island
+BHS	inagua
+BHS	\\u00eele du port
+BHS	port franc
+BHS	exuma
+BHS	\\u00eele aux chats
+BHS	bimini
+BHS	acclins
+BHS	point noir
+BHS	abaco centre
+BHS	centre d'andros
+BHS	\\u00e9leuth\\u00e8re centrale
+BHS	\\u00eele crooked et long cay
+BHS	grand bahama est
+BHS	grand caie
+BHS	ville de l'espoir
+BHS	\\u00eele de mangrove
+BHS	l'\\u00eele de moore
+BHS	nord abaco
+BHS	andros-nord
+BHS	\\u00e9leuth\\u00e8re du nord
+BHS	rhum ca\\u00ef
+BHS	abaco sud
+BHS	andros sud
+BHS	\\u00e9leuth\\u00e8re du sud
+BHS	puits espagnols
+BHS	grand bahama ouest
+===	
+BIH	bosnie herz\\u00e9govine
+BIH	bosnien
+BIH	herz\\u00e9govinien
+BIH	bosnie
+BIH	f\\u00e9d\\u00e9ration de bh
+BIH	srpska
+BIH	brcko
+BIH	sarajevo
+===	
+BIHBHF	f\\u00e9d\\u00e9ration de bosniak/croate
+===	
+BIHSPR	r\\u00e9publique serbe de bosnie
+===	
+BLR	bi\\u00e9lorussie
+BLR	bi\\u00e9lorusse
+BLR	vitebsk
+BLR	mogilev
+BLR	minsk
+BLR	ville de minsk
+BLR	grodnenska\\u00efa
+BLR	oblast de gomel
+BLR	brest
+BLR	minsk
+BLR	hom\\u00e9l
+===	
+BLZ	b\\u00e9lise
+BLZ	belizien
+BLZ	belizien
+BLZ	quartier de tol\\u00e8de
+BLZ	quartier sud
+BLZ	quartier de marche orange
+BLZ	quartier de corozal
+BLZ	quartier de cayo
+BLZ	quartier de belize
+===	
+BMU	bermudes
+BMU	bermudien
+BMU	warwick
+BMU	southampton
+BMU	smith's
+BMU	sandys
+BMU	saint-george's
+BMU	saint george
+BMU	pembroke
+BMU	page
+BMU	hamilton
+BMU	ville de hamilton
+BMU	devonshire
+===	
+BOL	bolivie
+BOL	bolivien
+BOL	d\\u00e9partement de tarija
+BOL	d\\u00e9partement de santa cruz
+BOL	d\\u00e9partement de potosi
+BOL	pando
+BOL	oruro
+BOL	d\\u00e9partement de la paz
+BOL	cochabamba
+BOL	d\\u00e9partement de chuquisaca
+BOL	d\\u00e9partement de b\\u00e9ni
+BOL	la paz
+BOL	santa cruz de la sierra
+BOL	cochabamba
+===	
+BRA	br\\u00e9sil
+BRA	br\\u00e9silien
+BRA	rio grande du nord
+BRA	pia\\u00efi
+BRA	pernambuco
+BRA	para\\u00efba
+BRA	para
+BRA	maranhao
+BRA	ceara
+BRA	amapa
+BRA	alagoas
+BRA	sergip\\u00e8
+BRA	sao-paulo
+BRA	santa catarina
+BRA	rio grande du sul
+BRA	rio de janeiro
+BRA	parana
+BRA	minas gerais
+BRA	mato grosso do sul
+BRA	mato grosso
+BRA	goias
+BRA	district f\\u00e9d\\u00e9ral
+BRA	esprit saint
+BRA	bahia
+BRA	tocantins
+BRA	roraima
+BRA	amazones
+BRA	acre
+BRA	rondonie
+BRA	sao-paulo
+BRA	rio de janeiro
+BRA	belo horizonte
+BRA	salvador
+BRA	fortaleza
+BRA	manaus
+BRA	br\\u00e9sil
+BRA	curitiba
+BRA	recife
+BRA	goianie
+BRA	belem
+BRA	porto alegre
+BRA	guarulhos
+BRA	mac\\u00e9io
+BRA	campinas
+BRA	sao luis
+BRA	campo grande
+BRA	natal
+BRA	ter\\u00e9sine
+BRA	nova iguacu
+BRA	duque de caxias
+BRA	joao pessoa
+BRA	sao bernardo do campo
+BRA	sao jos\\u00e9 dos campos
+BRA	ribeirao preto
+BRA	jaboatao
+BRA	sorocaba
+BRA	osasco
+BRA	aracaju
+BRA	saint andr\\u00e9
+BRA	jaboatao dos guararapes
+BRA	contag\\u00e8me
+BRA	feira de santana
+BRA	cuiaba
+BRA	londres
+BRA	juiz de fora
+BRA	uberlandie
+BRA	porto velho
+===	
+BRB	barbade
+BRB	barbadien
+BRB	saint-thomas
+BRB	saint philippe
+BRB	saint pierre
+BRB	saint michael
+BRB	sainte lucie
+BRB	saint joseph
+BRB	saint jean
+BRB	saint james
+BRB	saint george
+BRB	saint andr\\u00e9
+BRB	\\u00e9glise du christ
+===	
+BRN	bruneien
+BRN	brunei
+BRN	tutong
+BRN	temburong
+BRN	district de brunei-muara
+BRN	b\\u00e9lait
+===	
+BTN	bhoutan
+BTN	bhutanais
+BTN	bhoutani
+BTN	quartier de bumthang
+BTN	tchoukha
+BTN	dagana
+BTN	quartier de tsiang
+BTN	quartier de sarpang
+BTN	haa
+BTN	lhuntse
+BTN	mongar
+BTN	paro
+BTN	p\\u00e9magatshel
+BTN	punakha
+BTN	quartier de samtse
+BTN	samdrup jongkhar
+BTN	quartier de zhemgang
+BTN	quartier de trashigang
+BTN	quartier de thimphou
+BTN	tongsa
+BTN	wangdi phodrang
+BTN	gasa
+BTN	trashi yangste
+===	
+BWA	botswana
+BWA	ngwaketsi
+BWA	sud-est
+BWA	nord-est
+BWA	nord ouest
+BWA	kweneng
+BWA	kgatleng
+BWA	kgalagadi
+BWA	ghanzi
+BWA	chobe
+BWA	central
+BWA	ville de francistown
+BWA	gaborone
+BWA	jwaneng
+BWA	lobats\\u00e9
+BWA	selibe phikwe
+BWA	ville de sowa
+===	
+CAF	r\\u00e9publique centrafricaine
+CAF	centrafricaine
+CAF	r\\u00e9p. centrafricaine
+CAF	vakaga
+CAF	ouaka
+CAF	mbomou
+CAF	haut-mbomou
+CAF	haute-kotto
+CAF	basse-kotto
+CAF	bamingui-bangoran
+CAF	sangha-mbaere
+CAF	ouham-pende
+CAF	ouham
+CAF	ombella-m'poko
+CAF	nana-mambere
+CAF	lobaye
+CAF	k\\u00e9mo
+CAF	mambere-kade\\u00ef
+CAF	nana-grebizi
+CAF	bangui
+CAF	bangui
+===	
+CAN	canada
+CAN	canadien
+CAN	alberta
+CAN	colombie britannique
+CAN	manitoba
+CAN	nouveau-brunswick
+CAN	territoires du nord-ouest
+CAN	nouvelle-\\u00e9cosse
+CAN	nunavut
+CAN	ontario
+CAN	\\u00eele-du-prince-\\u00e9douard
+CAN	qu\\u00e9bec
+CAN	saskatchewan
+CAN	yukon
+CAN	terre-neuve-et-labrador
+CAN	toronto
+CAN	montr\\u00e9al
+CAN	calgary
+CAN	edmonton
+CAN	ottawa
+CAN	winnipeg
+CAN	mississauga
+CAN	vancouver
+CAN	brampton
+CAN	qu\\u00e9bec
+===	
+CHE	suisse
+CHE	suisse
+CHE	zurich
+CHE	zoug
+CHE	vaudois
+CHE	valais
+CHE	uri
+CHE	tessin
+CHE	thurgouie
+CHE	soleure
+CHE	schwyz
+CHE	schaffhausen
+CHE	saint-gal
+CHE	obwalde
+CHE	nidwalde
+CHE	neuch\\u00e2tel
+CHE	luzerne
+CHE	jura
+CHE	grisons
+CHE	glarus
+CHE	gen\\u00e8ve
+CHE	fribourg
+CHE	berne
+CHE	b\\u00e2le-ville
+CHE	b\\u00e2le-campagne
+CHE	appenzell rhodes australes
+CHE	appenzell rhodes int\\u00e9rieures
+CHE	argovie
+===	
+CHL	chili
+CHL	chilien
+CHL	valparaiso
+CHL	tarap\\u00e2ca
+CHL	m\\u00e9tropolitain de santiago
+CHL	r\\u00e9gion du maule
+CHL	r\\u00e9gion de los lagos
+CHL	r\\u00e9gion d'o'higgins
+CHL	r\\u00e9gion de coquimbo
+CHL	biobio
+CHL	atacama
+CHL	araucanie
+CHL	antofagasta
+CHL	aysen
+CHL	r\\u00e9gion de magallanes
+CHL	r\\u00e9gion d'arica et parinacota
+CHL	r\\u00e9gion de los rios
+CHL	\\u00f1uble
+CHL	santiago
+CHL	puente haut
+===	
+CHN	chine
+CHN	chinois
+CHN	tibet
+CHN	qingha\\u00ef
+CHN	xinjiang
+CHN	zhejiang
+CHN	yunnan
+CHN	tianjin
+CHN	sichuan
+CHN	shanxi
+CHN	shanghai
+CHN	shandong
+CHN	shaanxi
+CHN	ningxia
+CHN	jiangxi
+CHN	jiangsu
+CHN	hunan
+CHN	hubei
+CHN	h\\u00e9nan
+CHN	h\\u00e9bei
+CHN	ha\\u00efnan
+CHN	guizhou
+CHN	guangxi
+CHN	guangdong
+CHN	gansu
+CHN	f\\u00e9jian
+CHN	chongqing
+CHN	anhu
+CHN	mongolie int\\u00e9rieure
+CHN	liaoning
+CHN	jilin
+CHN	heilongjiang
+CHN	p\\u00e9kin
+CHN	shanghai
+CHN	p\\u00e9kin
+CHN	shenzhen
+CHN	guangzhou
+CHN	chengdu
+CHN	tianjin
+CHN	wouhan
+CHN	dongguan
+CHN	xi'an
+CHN	nanjing
+CHN	hangzhou
+CHN	foshan
+CHN	chongqing
+CHN	qingdao
+CHN	shenyang
+CHN	suzhou
+CHN	harbin
+CHN	hefei
+CHN	dalian
+CHN	changchun
+CHN	xiamen
+CHN	wuxi
+CHN	jinan
+CHN	taiyuan
+CHN	zhengzhou
+CHN	shijiazhuang
+CHN	kunming
+CHN	zhongshan
+CHN	nanning
+CHN	shantou
+CHN	fuzhou
+CHN	ningbo
+CHN	puyang
+CHN	shiyan
+CHN	tangshan
+CHN	changzhou
+CHN	zibo
+CHN	changsha
+CHN	guyang
+CHN	ueruemqi
+CHN	lanzhou
+CHN	huizhou
+CHN	ha\\u00efkou
+CHN	linyi
+CHN	baoding
+CHN	wenzhou
+CHN	yunfu
+CHN	huai'an
+CHN	nanchang
+CHN	hohhot
+CHN	shaoxing
+CHN	nantong
+CHN	yantai
+CHN	zhuha\\u00ef
+CHN	baotou
+CHN	kunshan
+CHN	weifang
+CHN	zunyi
+CHN	lianyungang
+CHN	ganzhou
+CHN	ordos
+CHN	jieyang
+CHN	jilin
+CHN	nanchong
+CHN	datong
+CHN	nanang
+CHN	jiangmen
+CHN	jiangyin
+CHN	fuyang
+CHN	bayan nur
+CHN	chaozhou
+CHN	qingyuan
+CHN	ta\\u00ef'an
+CHN	xining
+CHN	changshu
+CHN	huainan
+CHN	suzhou
+CHN	lu'an
+CHN	yanceng
+CHN	taizhou
+CHN	daqing
+CHN	wuhu
+CHN	dazhou
+CHN	yangzhou
+CHN	guilin
+CHN	zhaoqing
+CHN	miangang
+CHN	putien
+CHN	shangqiu
+CHN	yinchuan
+CHN	taizhou
+CHN	yiwu
+CHN	quanzhou
+CHN	jinhua
+CHN	cixi
+CHN	changde
+CHN	kaifeng
+CHN	anshan
+CHN	baoji
+CHN	suqian
+CHN	liuzhou
+CHN	zhangjiagang
+CHN	jinjiang
+CHN	bozhou
+CHN	qujing
+CHN	zhanjiang
+CHN	fushun
+CHN	luoyang
+CHN	guangou
+CHN	handan
+CHN	yichang
+CHN	h\\u00e9z\\u00e9
+CHN	liupanshui
+CHN	maoming
+CHN	qinzhou
+CHN	luohe
+CHN	xiangyang
+CHN	yangjiang
+CHN	yixing
+CHN	xuchang
+CHN	zigong
+CHN	xuzhou
+CHN	neijiang
+CHN	yiyang
+CHN	jining
+CHN	xinyang
+CHN	liaocheng
+CHN	jinzhong
+CHN	changzhi
+CHN	tianshui
+CHN	weinan
+CHN	jiaxing
+CHN	jiujiang
+CHN	annyang
+CHN	bijie
+CHN	zhuzhou
+CHN	shangrao
+CHN	huaibei
+CHN	meishan
+CHN	fuzhou
+CHN	guigang
+CHN	hengyang
+CHN	yulin
+CHN	jingzhou
+CHN	xinxiang
+CHN	yichun
+CHN	xianyang
+CHN	sanya
+CHN	shaoguan
+CHN	longyan
+CHN	yongzhou
+CHN	huzhou
+CHN	wuwei
+CHN	hanzhong
+CHN	h\\u00e9zhou
+CHN	ville de zhu cheng
+CHN	dongying
+CHN	luzhou
+CHN	meizhou
+CHN	yueyang
+CHN	laiwu
+CHN	benxi
+CHN	pingdingshan
+CHN	bengbu
+CHN	xiangtan
+CHN	lin
+CHN	zhenjiang
+CHN	baoshan
+CHN	rui'an
+CHN	laibin
+CHN	xiaogan
+CHN	ziyang
+CHN	quzhou
+CHN	zaozhuang
+CHN	pingxiang
+CHN	zhoushan
+CHN	qiqihar
+CHN	punage
+CHN	ankang
+CHN	langfang
+CHN	jiaozuo
+CHN	wanxien
+CHN	guang'an
+CHN	weiha\\u00ef
+CHN	zhabei
+CHN	xinyu
+CHN	yibin
+CHN	taicang
+CHN	chenzhou
+CHN	anqing
+CHN	xingtai
+CHN	zhaotong
+CHN	panzhihua
+CHN	chuzhou
+CHN	xuanzhou
+CHN	shangyu
+CHN	anshun
+CHN	wuzhou
+CHN	qinhuangdao
+CHN	shaoyang
+CHN	h\\u00e9gang
+CHN	ma'anshan
+CHN	deyang
+CHN	yangquan
+CHN	wanzhou
+CHN	zhumadien
+CHN	changzhi
+CHN	zangjiakou
+CHN	fuxine
+CHN	huangshi
+CHN	liaoyang
+CHN	baise
+CHN	binzhou
+CHN	yuncheng
+CHN	dezhou
+CHN	sanmenxia
+CHN	e'zhou
+CHN	mudanjiang
+CHN	leshan
+CHN	rizhao
+CHN	suivre
+CHN	puyang
+CHN	h\\u00e9bi
+CHN	jingmen
+CHN	dandong
+CHN	panshan
+CHN	jiaozhou
+CHN	suizhou
+CHN	chizhou
+CHN	ya'an
+CHN	jinzhou
+CHN	sanmin
+CHN	shuangyashan
+CHN	luanceng
+CHN	yingkou
+CHN	zangzhou
+CHN	shihezi
+CHN	wenchang
+CHN	sip\\u00e9e
+CHN	huaihua
+CHN	jiamusi
+CHN	corla
+CHN	voulant
+CHN	xinzhou
+CHN	pingdu
+CHN	ji'an
+CHN	guli
+CHN	aksu
+CHN	tanggu
+CHN	shangluo
+CHN	qionghai
+CHN	cangzhou
+CHN	beiha\\u00ef
+CHN	hengshui
+===	
+CHNTIB	tibet
+CHNTIB	tib\\u00e9tain
+===	
+CIV	c\\u00f4te d'ivoire
+CIV	ivoirien
+CIV	d'ivoire
+CIV	ivoire
+CIV	c\\u00f4te d'ivoire
+CIV	yamoussoukro
+CIV	quartier du bas-sassandra
+CIV	comoe
+CIV	quartier de la dengu\\u00e9l\\u00e9
+CIV	goh-djiboua
+CIV	quartier du lacs
+CIV	quartier des lagunes
+CIV	montagnes
+CIV	sassandra-marahoue
+CIV	quartier des savanes
+CIV	quartier de la vallee du bandama
+CIV	woroba
+CIV	quartier de zanzan
+CIV	abidjan
+CIV	abidjan
+CIV	abobo
+CIV	bouak\\u00e9
+===	
+CMR	cameroun
+CMR	camerounais
+CMR	sud-ouest
+CMR	nord ouest
+CMR	littoral
+CMR	extr\\u00e8me nord
+CMR	centre
+CMR	adamaoua
+CMR	douala
+CMR	yaound\\u00e9
+===	
+COD	r\\u00e9publique d\\u00e9mocratique du congo
+COD	congolais
+COD	sud congo
+COD	r\\u00e9publique d\\u00e9mocratique du congo
+COD	tshuapa
+COD	tshopo
+COD	tanganyika
+COD	sud-kivu
+COD	sankuru
+COD	nord-kivu
+COD	mongala
+COD	mani\\u00e8me
+COD	kasai-central
+COD	kasa\\u00ef-oriental
+COD	kasai
+COD	ituri
+COD	haut-uel\\u00e9
+COD	haut-lomami
+COD	\\u00e9quateur
+COD	bas-uel\\u00e9
+COD	lualaba
+COD	mai-ndombe
+COD	kwilu
+COD	kwango
+COD	kinshasa
+COD	bas-congo
+COD	haut-katanga
+COD	lomami
+COD	nord-ubangi
+COD	sud-ubangi
+COD	kinshasa
+COD	lubumbashi
+COD	mbuji-mayi
+COD	kananga
+COD	kisangani
+COD	bukavu
+COD	kolwezi
+COD	likasi
+COD	tshikapa
+COD	congo
+===	
+COG	congo
+COG	congolais
+COG	sangha
+COG	piscine
+COG	plateaux
+COG	niari
+COG	likouala
+COG	l\\u00e9koumou
+COG	kouilou
+COG	cuvette
+COG	bouenza
+COG	brazzaville
+COG	cuvette-ouest
+COG	pointe-noire
+COG	brazzaville
+COG	pointe-noire
+===	
+COK	les \\u00eeles cook
+COK	\\u00eele cook
+COK	aitutaki
+COK	atiu
+COK	manga\\u00efa
+COK	manih\\u00efki
+COK	ma'uke
+COK	mitiaro
+COK	palmerston
+COK	penrhyn
+COK	pukapuka
+COK	rakahanga
+COK	rarotonga
+===	
+COL	colombie
+COL	colombien
+COL	d\\u00e9partement vichada
+COL	vaup\\u00e9s
+COL	d\\u00e9partement de la valle del cauca
+COL	d\\u00e9partement tolima
+COL	d\\u00e9partement de sucre
+COL	d\\u00e9partement de santander
+COL	san andres et providence
+COL	d\\u00e9partement de risaralda
+COL	d\\u00e9partement quindio
+COL	d\\u00e9partement putumayo
+COL	d\\u00e9partement nord de santander
+COL	narino
+COL	d\\u00e9partement m\\u00e9ta
+COL	d\\u00e9partement de la magdalena
+COL	d\\u00e9partement de la guajira
+COL	d\\u00e9partement de huila
+COL	d\\u00e9partement de guaviare
+COL	d\\u00e9partement de guainia
+COL	cundinamarca
+COL	cordoue
+COL	chocolat
+COL	d\\u00e9partement c\\u00e9sar
+COL	d\\u00e9partement du cauca
+COL	d\\u00e9partement de casanar\\u00e9
+COL	caqueta
+COL	d\\u00e9partement de caldas
+COL	boyaca
+COL	bolivar
+COL	bogota d.c.
+COL	atlantique
+COL	d\\u00e9partement d'arauca
+COL	antioquia
+COL	d\\u00e9partement amazone
+COL	bogota
+COL	cali
+COL	medellin
+COL	barranquilla
+COL	cartag\\u00e8ne
+COL	cucuta
+COL	bucaramanga
+COL	ibague
+===	
+COM	comores
+COM	comorien
+COM	moheli
+COM	grande comore
+COM	anjouan
+===	
+CPV	cap-vert
+CPV	cap vert
+CPV	cap-vert
+CPV	tarrafal
+CPV	sao vicente
+CPV	santa catarina
+CPV	sal
+CPV	ribeira grande
+CPV	praia
+CPV	paul
+CPV	ma\\u00efo
+CPV	bravo
+CPV	boa vista
+CPV	mosteiros
+CPV	santa cruz
+CPV	sao domingos
+CPV	sao-filipe
+CPV	sao miguel
+CPV	porto-novo
+CPV	ribeira brava
+CPV	santa catarina du fogo
+CPV	sao salvador du monde
+CPV	tarrafal de sao nicolau
+CPV	sao lourenco dos orgaos
+CPV	ribeira grande de santiago
+===	
+CRI	costa rica
+CRI	costaricain
+CRI	san jos\\u00e9
+CRI	province de puntarenas
+CRI	province de lim\\u00f3n
+CRI	province d'her\\u00e9dia
+CRI	province de guanacaste
+CRI	province de cartago
+CRI	province d'alajuela
+===	
+CUB	cuba
+CUB	cubain
+CUB	province de villa clara
+CUB	province de santiago de cuba
+CUB	province de sancti-spiritus
+CUB	pinar del rio
+CUB	province de matanzas
+CUB	province de las tunas
+CUB	\\u00eele de la juventud
+CUB	province de holguin
+CUB	province de guantanamo
+CUB	province de granma
+CUB	la havane
+CUB	province de cienfuegos
+CUB	province de ciego de avila
+CUB	camaguey
+CUB	artemisa
+CUB	mayabeque
+CUB	la havane
+CUB	santiago de cuba
+===	
+CYM	\\u00eeles ca\\u00efmans
+CYM	ca\\u00efmans
+CYM	ville de george
+CYM	la baie ouest
+CYM	ville de bodden
+CYM	c\\u00f4t\\u00e9 nord
+CYM	extr\\u00e9mit\\u00e9 est
+CYM	\\u00eele soeur
+===	
+CYP	chypre
+CYP	chypriote
+CYP	pafos
+CYP	nicosie
+CYP	limassol
+CYP	larnaka
+CYP	k\\u00e9ryn\\u00e9e
+CYP	ammochostos
+===	
+CZE	r\\u00e9publique tch\\u00e8que
+CZE	tch\\u00e8que
+CZE	tch\\u00e9quie
+CZE	prague
+CZE	moravie du sud
+CZE	jihocesky kraj
+CZE	vysocine
+CZE	kraj de karlovarski
+CZE	kralovehradecky kraj
+CZE	liberecky kraj
+CZE	olomoucky
+CZE	moravskoslezski
+CZE	pardubic\\u00ef
+CZE	r\\u00e9gion de plzeň
+CZE	boh\\u00e8me centrale
+CZE	oustecky kraj
+CZE	zlin
+CZE	prague
+===	
+DEU	allemagne
+DEU	allemand
+DEU	allemagne
+DEU	thuringe
+DEU	schleswig-holstein
+DEU	saxe-anhalt
+DEU	saxe
+DEU	sarre
+DEU	rh\\u00e9nlande-pfalz
+DEU	rh\\u00e9nanie du nord-westphalie
+DEU	basse-saxe
+DEU	mecklenbourg-vorpommern
+DEU	hesse
+DEU	hambourg
+DEU	brême
+DEU	brandebourg
+DEU	berlin
+DEU	bavi\\u00e8re
+DEU	bade-wurttemberg
+DEU	berlin
+DEU	hambourg
+DEU	munich
+DEU	ko\\u00ebln
+DEU	francfort-suis-main
+DEU	stuttgart
+DEU	düsseldorf
+DEU	kleinzschocher
+DEU	groszschocher
+DEU	essen
+DEU	dortmund
+DEU	dresde
+DEU	brême
+===	
+DJI	djibouti
+DJI	tadjourah
+DJI	obock
+DJI	djibouti
+DJI	dikhil
+DJI	ali sabieh
+DJI	arta
+DJI	djibouti
+===	
+DMA	dominique
+DMA	dominicain
+DMA	paroisse saint-pierre
+DMA	paroisse saint-paul
+DMA	paroisse saint-patrick
+DMA	paroisse saint-marc
+DMA	paroisse saint-luc
+DMA	paroisse saint-joseph
+DMA	paroisse saint-jean
+DMA	paroisse saint-george
+DMA	paroisse saint-david
+DMA	paroisse saint-andr\\u00e9
+===	
+DNK	danemark
+DNK	danois
+DNK	danois
+DNK	r\\u00e9gion de la capitale
+DNK	jutland central
+DNK	danemark du nord
+DNK	z\\u00e9lande
+DNK	danemark du sud
+DNK	copenhague
+===	
+DNKFRO	\\u00eeles f\\u00e9ro\\u00e9
+DNKFRO	f\\u00e9ro\\u00e9
+DNKFRO	iles f\\u00e9ro\\u00e9
+===	
+DNKGRL	groenland
+DNKGRL	groenlandais
+===	
+DOM	r\\u00e9publique dominicaine
+DOM	dominicain
+DOM	dominique
+DOM	province de valverde
+DOM	santiago rodriguez
+DOM	province de santiago
+DOM	san pedro de macoris
+DOM	province de san juan
+DOM	san cristobal
+DOM	sanchez ramirez
+DOM	samana
+DOM	hermanas mirabal
+DOM	puerto plata
+DOM	peravia
+DOM	province de pedernales
+DOM	nacional
+DOM	province de monte plata
+DOM	province de monte-cristi
+DOM	mons\\u00e9nor nouel
+DOM	maria trinit\\u00e9 sanchez
+DOM	la v\\u00e9ga
+DOM	la romaine
+DOM	province de l'altagracia
+DOM	ind\\u00e9pendance
+DOM	province du maire de hato
+DOM	province d'espaillat
+DOM	el seibo
+DOM	elias pina
+DOM	province duarte
+DOM	dajabon
+DOM	province de barahona
+DOM	province de baoruco
+DOM	province d'azua
+DOM	san jos\\u00e9 de ocoa
+DOM	province de saint-domingue
+DOM	saint-domingue
+DOM	santiago de los caballeros
+DOM	saint-domingo oeste
+DOM	saint-domingo-est
+===	
+DZA	alg\\u00e9rie
+DZA	alg\\u00e9rien
+DZA	tlemcen
+DZA	tizi ouzou
+DZA	tissemsilt
+DZA	tipaza
+DZA	tindouf
+DZA	tiaret
+DZA	t\\u00e9bessa
+DZA	tamanrasset
+DZA	souk-ahras
+DZA	skikda
+DZA	sidi bel abb\\u00e8s
+DZA	s\\u00e9tif
+DZA	sa\\u00efda
+DZA	relizane
+DZA	oum el bouaghi
+DZA	ouargla
+DZA	oran
+DZA	nama
+DZA	m'sila
+DZA	mostaganem
+DZA	mila
+DZA	m\\u00e9d\\u00e9e
+DZA	mascara
+DZA	laghouat
+DZA	khenchela
+DZA	jijel
+DZA	illizi
+DZA	guelma
+DZA	gharda\\u00efa
+DZA	el tarf
+DZA	el oued
+DZA	el bayadh
+DZA	djelfa
+DZA	constantin
+DZA	chlef
+DZA	boumerd\\u00e8s
+DZA	bouira
+DZA	bordj bou arreridj
+DZA	blida
+DZA	biskra
+DZA	beja\\u00efa
+DZA	b\\u00e9char
+DZA	batna
+DZA	annaba
+DZA	alger
+DZA	a\\u00efn t\\u00e9mouchent
+DZA	a\\u00efn defla
+DZA	adrar
+DZA	bordj badji mokhtar
+DZA	timimoun
+DZA	beni abb\\u00e8s
+DZA	a guezzam
+DZA	à salah
+DZA	djanet
+DZA	el m\\u00e9nia
+DZA	touggourt
+DZA	el mghair
+DZA	ouled djellal
+DZA	alger
+DZA	oran
+===	
+ECU	\\u00e9quateur
+ECU	\\u00e9quateur
+ECU	chinchipe zamora
+ECU	province de toungurahua
+ECU	pichincha
+ECU	province de p\\u00e2tes
+ECU	onap
+ECU	province de morona-santiago
+ECU	manabi
+ECU	los rios
+ECU	loja
+ECU	imbabura
+ECU	guayas
+ECU	galapagos
+ECU	esmeraldas
+ECU	el oro
+ECU	cotopaxi
+ECU	province de chimborazo
+ECU	carchi
+ECU	canar
+ECU	bolivar
+ECU	azuay
+ECU	sucombios
+ECU	province d'orellane
+ECU	santo domingo de los tsachilas
+ECU	p\\u00e8re \\u00e9l\\u00e8ne
+ECU	quito
+ECU	guayaquil
+ECU	cuenca
+===	
+EGY	egypte
+EGY	\\u00e9gyptien
+EGY	sohag
+EGY	nord sinai
+EGY	q\\u00e9na
+EGY	matruh
+EGY	kafr el sheikh
+EGY	sud sina\\u00ef
+EGY	damiette
+EGY	port-sa\\u00efd
+EGY	beni suweif
+EGY	assout
+EGY	assouan
+EGY	suez
+EGY	sharqia
+EGY	nouvelle vall\\u00e9e
+EGY	qalyubie
+EGY	caire
+EGY	minya
+EGY	monufia
+EGY	gizeh
+EGY	isma\\u00eflie
+EGY	alexandrie
+EGY	gharbia
+EGY	faidoyum
+EGY	beheira
+EGY	mer rouge
+EGY	dakahlie
+EGY	louxor
+EGY	caire
+EGY	alexandrie
+EGY	gizeh
+EGY	shubra al khaymah
+EGY	port-sa\\u00efd
+EGY	suez
+EGY	madinat an nasr
+EGY	al mansourah
+EGY	al mahallah al kubra
+EGY	tanta
+EGY	assiut
+===	
+ERI	\\u00e9rythr\\u00e9e
+ERI	\\u00e9rythr\\u00e9e
+ERI	anseba
+ERI	d\\u00e9bubation
+ERI	sud de la mer rouge
+ERI	gash-barka
+ERI	maekel
+ERI	nord de la mer rouge
+ERI	asmara
+===	
+ESH	sahara occidental
+ESH	sahara ouest
+===	
+ESP	espagne
+ESP	espagnol
+ESP	espagnol
+ESP	murcie
+ESP	ceuta
+ESP	les \\u00eeles bal\\u00e9ares
+ESP	andalousie
+ESP	les \\u00eeles canaries
+ESP	castille-la manche
+ESP	estr\\u00e9madure
+ESP	valence
+ESP	asturies
+ESP	navarre
+ESP	madrid
+ESP	la rioja
+ESP	cantabrie
+ESP	aragon
+ESP	castille et leon
+ESP	catalogne
+ESP	galice
+ESP	pays basque
+ESP	m\\u00e9lille
+ESP	madrid
+ESP	barcelone
+ESP	valence
+ESP	s\\u00e9ville
+ESP	saragosse
+ESP	malaga
+===	
+EST	estonie
+EST	estonien
+EST	vorumaa
+EST	viljandimaa
+EST	valgamaa
+EST	tartu
+EST	saare
+EST	raplamaa
+EST	polvamaa
+EST	parnumaa
+EST	laane-virumaa
+EST	laane
+EST	jogevamaa
+EST	jarvamaa
+EST	ida-virumaa
+EST	hiiumaa
+EST	harjumaa
+===	
+ETH	ethiopie
+ETH	\\u00e9thiopien
+ETH	addis ababa
+ETH	au loin
+ETH	amhara
+ETH	binshangul gumuz
+ETH	dire dawa
+ETH	gambela
+ETH	harari
+ETH	oromiya
+ETH	somali
+ETH	tigr\\u00e9
+ETH	snnpr
+ETH	addis ababa
+===	
+FIN	finlande
+FIN	finlandais
+FIN	finlandais
+FIN	laponie
+FIN	kainuu
+FIN	ostrobothnie du nord
+FIN	ostrobothnie centrale
+FIN	ostrobothnie
+FIN	ostrobothnie du sud
+FIN	finlande centrale
+FIN	car\\u00e9lie du nord
+FIN	savoie du nord
+FIN	savoie du sud
+FIN	car\\u00e9lie du sud
+FIN	kymenlaakso
+FIN	pirkanmaa
+FIN	kanta-hame
+FIN	sud-ouest de la finlande
+FIN	uusimaa
+FIN	paijat-hame
+FIN	satakunta
+FIN	helsinki
+===	
+FJI	fidji
+FJI	fidjien
+FJI	occidental
+FJI	nord
+FJI	central
+FJI	est
+FJI	rotuma
+===	
+FRA	france
+FRA	fran\\u00e7ais
+FRA	provence-alpes-cote d'azur
+FRA	pays de la loire
+FRA	ile de france
+FRA	la corse
+FRA	centre
+FRA	bretagne
+FRA	bourgogne-franche-comte
+FRA	nouvelle-aquitaine
+FRA	la normandie
+FRA	grand-est
+FRA	occitanie
+FRA	hauts-de-france
+FRA	auvergne-rh\\u00f4ne-alpes
+FRA	paris
+FRA	marseille
+FRA	lyon
+===	
+FRAGLP	guadeloupe
+===	
+FRAGUF	guyane fran\\u00e7aise
+FRAGUF	guianais fran\\u00e7ais
+FRAGUF	guyane fran\\u00e7aise
+FRAGUF	guyane fran\\u00e7aise
+===	
+FRAMTQ	martinique
+FRAMTQ	martiniquais
+FRAMTQ	martiniquais
+===	
+FRANCL	nouvelle cal\\u00e9donie
+FRANCL	nouvelle-caledonienne
+===	
+FRAPYF	polyn\\u00e9sie fran\\u00e7aise
+FRAPYF	polyn\\u00e9sien fran\\u00e7ais
+FRAPYF	oc\\u00e9anie fran\\u00e7aise
+===	
+FRNWLF	\\u00eeles wallis-et-futuna
+FRNWLF	wallisien
+===	
+FSM	micron\\u00e9sie
+FSM	micron\\u00e9sien
+FSM	\\u00e9tat de yap
+FSM	\\u00e9tat de pohnpei
+FSM	kosrae
+FSM	chuk
+===	
+GAB	gabon
+GAB	gabonais
+GAB	woleu-ntem
+GAB	ogooue-maritime
+GAB	ogooue-lolo
+GAB	ogooue-ivindo
+GAB	nyanga
+GAB	ngouni
+GAB	moyen-ogooue
+GAB	haut-ogooue
+GAB	estuaire
+GAB	libreville
+===	
+GBR	royaume-uni
+GBR	britanique
+GBR	grande bretagne
+GBR	grande-bretagne
+GBR	britannique
+GBR	\\u00e9cossais
+GBR	\\u00e9cossais
+GBR	\\u00e9cosse
+GBR	pays de galles
+GBR	gallois
+GBR	irlandais du nord
+GBR	irlandais du nord
+GBR	femme d'irlandaise du nord
+GBR	royaume-uni.
+GBR	la grande-bretagne
+GBR	pays de galles
+GBR	\\u00e9cosse
+GBR	irlande du nord
+GBR	angleterre
+GBR	londres
+GBR	birmingham
+GBR	liverpool
+GBR	glasgow
+GBR	sheffield
+===	
+GBRFLK	les \\u00eeles falkland
+GBRFLK	\\u00eele falkland
+GBRFLK	falklands
+GBRFLK	malvinas
+===	
+GBRGIB	gibraltar
+GBRGIB	gibraltarien
+===	
+GBRIMY	\\u00eele de man
+===	
+GBRMSR	montserrat
+GBRMSR	montserratien
+===	
+GBRPCN	pitcairn
+GBRPCN	\\u00eele pitcairn
+===	
+GBRSHN	sainte-h\\u00e9l\\u00e8ne
+GBRSHN	saint-h\\u00e9l\\u00e9nien
+GBRSHN	saint-h\\u00e9l\\u00e8ne
+GBRSHN	st. h\\u00e9l\\u00e8ne
+GBRSHN	sainte-h\\u00e9l\\u00e8ne
+GBRSHN	saint-h\\u00e9l\\u00e9niens
+===	
+GBRVGB	\\u00eeles vierges britanniques
+GBRVGB	\\u00eele vierge britannique
+GBRVGB	\\u00eeles vierges (royaume-uni)
+GBRVGB	\\u00eeles vierges, britanniques
+GBRVGB	\\u00eeles vierges du royaume-uni
+===	
+GEO	g\\u00e9orgie
+GEO	g\\u00e9orgien
+GEO	tbilisi
+GEO	adjara
+GEO	kvemo kartli
+GEO	kakh\\u00e9ti
+GEO	gurie
+GEO	imereti
+GEO	shida kartli
+GEO	mtskheta-mtianeti
+GEO	racha-lechkhumi et kvemo svaneti
+GEO	samegrelo et zemo svaneti
+GEO	samtskh\\u00e9-javakheti
+GEO	abkhazie
+GEO	tbilisi
+===	
+GGY	guernesey
+GGY	guernes
+GGY	saint-pierre-du-bois
+GGY	torteval
+GGY	saint sauveur
+GGY	forêt
+GGY	saint-martin
+GGY	saint andr\\u00e9
+GGY	port de saint-pierre
+GGY	castel
+GGY	vall\\u00e9e
+GGY	saint sampson
+GGY	aurigny
+===	
+GHA	ghana
+GHA	ghan\\u00e9en
+GHA	occidental
+GHA	volta
+GHA	haut-ouest
+GHA	haut-est
+GHA	nord
+GHA	grand accra
+GHA	est
+GHA	central
+GHA	ashanti
+GHA	bono
+GHA	oti
+GHA	nord est
+GHA	ahafo
+GHA	bono est
+GHA	savane
+GHA	nord ouest
+GHA	kumasi
+GHA	accra
+===	
+GIN	guin\\u00e9e
+GIN	guin\\u00e9en
+GIN	conakry
+GIN	r\\u00e9gion de bok\\u00e9
+GIN	faranah
+GIN	r\\u00e9gion de kankan
+GIN	kindia
+GIN	r\\u00e9gion du lab\\u00e9
+GIN	r\\u00e9gion mamou
+GIN	r\\u00e9gion de nzerekore
+GIN	conakry
+GIN	camayenne
+===	
+GMB	gambie
+GMB	gambien
+GMB	occidental
+GMB	haut rivi\\u00e8re
+GMB	la banque du nord
+GMB	rivi\\u00e8re centrale
+GMB	inf\\u00e9rieure de la rivi\\u00e8re
+GMB	banjul
+===	
+GNB	guin\\u00e9e-bissau
+GNB	guin\\u00e9e-bissauan
+GNB	tombali
+GNB	quinara
+GNB	oiio
+GNB	gabu
+GNB	cacheu
+GNB	bolama
+GNB	bissau
+GNB	biombo
+GNB	bafata
+===	
+GNQ	guin\\u00e9e \\u00e9quatoriale
+GNQ	guin\\u00e9e \\u00e9quatoriale
+GNQ	annobon
+GNQ	bioko-norte
+GNQ	bioko-sur
+GNQ	centre sur
+GNQ	kie-ntem
+GNQ	litoral
+GNQ	wele-nzas
+GNQ	djibloho
+===	
+GRC	gr\\u00e8ce
+GRC	grec
+GRC	mont athos
+GRC	attique
+GRC	gr\\u00e8ce centrale
+GRC	mac\\u00e9doine centrale
+GRC	cr\\u00e8te
+GRC	mac\\u00e9doine orientale et thrace
+GRC	\\u00e9pire
+GRC	iles ioniennes
+GRC	\\u00e9g\\u00e9e du nord
+GRC	p\\u00e9loponn\\u00e8se
+GRC	\\u00e9g\\u00e9e sud
+GRC	thessalie
+GRC	ouest de la gr\\u00e8ce
+GRC	mac\\u00e9doine de l'ouest
+GRC	ath\\u00e8nes
+===	
+GRD	grenade
+GRD	grenadien
+GRD	paroisse saint-patrick
+GRD	paroisse saint-marc
+GRD	paroisse saint-jean
+GRD	paroisse saint-george
+GRD	paroisse saint-david
+GRD	paroisse saint-andr\\u00e9
+GRD	carriacou et petite martinique
+===	
+GTM	guatemala
+GTM	guat\\u00e9malt\\u00e8que
+GTM	zacapa
+GTM	totonicapan
+GTM	suchitepeque
+GTM	solola
+GTM	d\\u00e9partement de santa rosa
+GTM	san marcos
+GTM	sacatepequez
+GTM	retalhuleu
+GTM	quiche
+GTM	quetzaltenango
+GTM	peten
+GTM	jutiapa
+GTM	jalapa
+GTM	d\\u00e9partement izabal
+GTM	huehu\\u00e9tenango
+GTM	guatemala
+GTM	escuintla
+GTM	le progreso
+GTM	chiquimula
+GTM	chimaltenango
+GTM	baja v\\u00e9rapaz
+GTM	alta v\\u00e9rapaz
+GTM	ville de guatemala
+GTM	villa nueva
+===	
+GUY	guyane
+GUY	guyanais
+GUY	takutu sup\\u00e9rieur-essequibo sup\\u00e9rieur
+GUY	haut demerara-berbice
+GUY	potaro-siparuni
+GUY	pomeroon-supenaam
+GUY	maha\\u00efca-berbice
+GUY	iles essequibo-demerara ouest
+GUY	berbice-corentyne est
+GUY	demerara-maha\\u00efque
+GUY	cuyuni-mazauni
+GUY	barima-waini
+===	
+HKG	hong kong
+HKG	hong-konger
+HKG	hong kong
+HKG	rashk
+HKG	yuen long
+HKG	tsuen wan
+HKG	tai-po
+HKG	sai kung
+HKG	\\u00eeles
+HKG	centre et ouest
+HKG	wan chai
+HKG	est
+HKG	du sud
+HKG	yau tsim mong
+HKG	sham shui po
+HKG	ville de kowloon
+HKG	wong tai sin
+HKG	kwun tong
+HKG	kwai tsing
+HKG	tuen mun
+HKG	nord
+HKG	sha-tin
+HKG	hong kong
+HKG	kowloon
+HKG	victoria
+===	
+HND	honduras
+HND	hondurien
+HND	d\\u00e9partement de yoro
+HND	d\\u00e9partement de la valle
+HND	d\\u00e9partement de santa barbara
+HND	d\\u00e9partement d'olancho
+HND	d\\u00e9partement d'ocotepeque
+HND	d\\u00e9partement de lempira
+HND	d\\u00e9partement de la paz
+HND	\\u00eeles de la baie
+HND	d\\u00e9partement intibuca
+HND	d\\u00e9partement de gracias a dios
+HND	d\\u00e9partement francisco morazan
+HND	d\\u00e9partement el paraiso
+HND	d\\u00e9partement de cortes
+HND	d\\u00e9partement copan
+HND	d\\u00e9partement de comayagua
+HND	d\\u00e9partement du c\\u00f4lon
+HND	d\\u00e9partement choluteca
+HND	d\\u00e9partement de l'atlantide
+HND	t\\u00e9gucigalpa
+HND	san p\\u00e9dro sula
+===	
+HRV	croatie
+HRV	croate
+HRV	croate
+HRV	bjelovar-bilogora
+HRV	brod-posavina
+HRV	dubrovnik-neretva
+HRV	istrie
+HRV	karlovac
+HRV	koprivnica-krizevci
+HRV	krapina-zagorje
+HRV	lika-senj
+HRV	m\\u00e9dimurje
+HRV	comt\\u00e9 d'osijek-baranja
+HRV	pozega-slavonie
+HRV	primorje-gorski kotar
+HRV	sibenik-knin
+HRV	sisak-moslavina
+HRV	split-dalmatie
+HRV	varazdine
+HRV	vukovar-srijem
+HRV	zadar
+HRV	comt\\u00e9 de zagreb
+HRV	zagreb
+HRV	virovitica-podravina
+HRV	zagreb
+===	
+HTI	ha\\u00efti
+HTI	ha\\u00eftien
+HTI	sud-est
+HTI	sud
+HTI	ouest
+HTI	nord-ouest
+HTI	nord-est
+HTI	nord
+HTI	grand'anse
+HTI	centre
+HTI	artibonite
+HTI	nippes
+HTI	port-au-prince
+===	
+HUN	hongrie
+HUN	hongrois
+HUN	szabolcs-szatmar-bereg
+HUN	jasz-nagykun-szolnok
+HUN	comt\\u00e9 de heves
+HUN	hajdu-bihar
+HUN	csongrad
+HUN	borsod-abauj-zemplen
+HUN	comt\\u00e9 de bek\\u00e8s
+HUN	comt\\u00e9 de zala
+HUN	veszprem
+HUN	comt\\u00e9 de vas
+HUN	comt\\u00e9 de tolna
+HUN	comt\\u00e9 de somogy
+HUN	comt\\u00e9 de pest
+HUN	nograd
+HUN	komarom-esztergom
+HUN	győr-moson-sopron
+HUN	f\\u00e9jer
+HUN	budapest
+HUN	barania
+HUN	bacs-kiskun
+HUN	budapest
+===	
+IDN	indon\\u00e9sie
+IDN	indon\\u00e9sien
+IDN	sumatra du nord
+IDN	aceh
+IDN	yogyakarta
+IDN	sumatra du sud
+IDN	sumatra ouest
+IDN	sulawesi du nord
+IDN	sulawesi du sud-est
+IDN	sulawesi centrale
+IDN	sulawesi du sud
+IDN	riau
+IDN	nusa tenggara est
+IDN	nusa tenggara ouest
+IDN	maluku
+IDN	lampung
+IDN	kalimantan est
+IDN	kalimantan central
+IDN	kalimantan du sud
+IDN	kalimantan ouest
+IDN	java est
+IDN	java centrale
+IDN	java ouest
+IDN	jambi
+IDN	jakarta
+IDN	papouasie
+IDN	bengkulu
+IDN	bali
+IDN	banten
+IDN	gorontalo
+IDN	\\u00eeles bangka-belitung
+IDN	malouco du nord
+IDN	papouasie occidentale
+IDN	sulawesi ouest
+IDN	iles riau
+IDN	kalimantan du nord
+IDN	sud-ouest de la papouasie
+IDN	papouasie centrale
+IDN	papouasie des hauts terres
+IDN	papouasie du sud
+IDN	jakarta
+IDN	surabaya
+IDN	b\\u00e9kasi
+IDN	bandung
+IDN	m\\u00e9dan
+IDN	d\\u00e9p\\u00f4t
+IDN	tangerang
+IDN	palembang
+IDN	semarang
+IDN	makassar
+IDN	tangerang sud
+IDN	jepara
+IDN	lampung bandar
+IDN	batam
+IDN	bogor
+IDN	p\\u00e9kanbaru
+IDN	padang
+IDN	malang
+IDN	samarinde
+IDN	denpasar
+IDN	balikpapan
+IDN	serang
+IDN	situbondo
+IDN	pontianak
+IDN	banjarmasin
+IDN	ville de jambi
+IDN	cimahi
+IDN	surakarta
+===	
+IND	inde
+IND	indien
+IND	bengale-occidental
+IND	uttar pradesh
+IND	tripura
+IND	t\\u00e9langana
+IND	tamoul nadu
+IND	sikkim
+IND	rajasthan
+IND	pendjab
+IND	puducherry
+IND	odisha
+IND	nagalande
+IND	mizoram
+IND	m\\u00e9ghalaya
+IND	manipur
+IND	maharashtra
+IND	madhya pradesh
+IND	lacacadives
+IND	k\\u00e9rala
+IND	karnataka
+IND	jammu-et-cachemire
+IND	himachal pradesh
+IND	haryane
+IND	gujarat
+IND	goa
+IND	delhi
+IND	chandigarh
+IND	bihar
+IND	assam
+IND	arunachal pradesh
+IND	andhra pradesh
+IND	andaman et nicobar
+IND	chhattisgarh
+IND	jharkhand
+IND	uttarakhand
+IND	ladakh
+IND	dadra et nagar haveli et daman et diu
+IND	bombai
+IND	delhi
+IND	bengalouru
+IND	hyd\\u00e9rabad
+IND	ahmedabad
+IND	chennai
+IND	calcutta
+IND	sourate
+IND	pune
+IND	kanpur
+IND	ja\\u00efpur
+IND	navi mumbai
+IND	chance maintenant
+IND	nagpur
+IND	coimbatore
+IND	indore
+IND	vadodara
+IND	kallakurichi
+IND	patna
+IND	bhopal
+IND	ludhiane
+IND	madurai
+IND	tirunevelli
+IND	agra
+IND	rajkot
+IND	najafgarh
+IND	jamshedpur
+IND	gorakhpur
+IND	nashik
+IND	pimpri
+IND	kalian
+IND	thane
+IND	meerut
+IND	maintenantangapur
+IND	faridabad
+IND	ghaziabad
+IND	dhanbad
+IND	dombivli
+IND	varanasi
+IND	ranchi
+IND	amritsar
+IND	prayagraj
+IND	visakhapatnam
+IND	t\\u00e9ni
+IND	jabalpur
+IND	haora
+IND	tiruchirappalli
+IND	sambhaji nagar
+IND	shivaji nagar
+IND	sholapur
+IND	srinagar
+IND	tiruppur
+IND	chandigarh
+IND	jodhpur
+IND	guwahati
+IND	gwalior
+IND	vijayawada
+IND	bhiwandi
+IND	mysore
+IND	rohini
+IND	kanayannur
+IND	hubli
+IND	bhibaneswar
+IND	narela
+IND	jalandhar
+IND	thiruvananthapuram
+IND	kota
+IND	aligarh
+IND	bareilly
+IND	moradabad
+IND	raipur
+IND	gorakhpur
+IND	puducherry
+IND	bhilai
+IND	borivi
+IND	bhavnagar
+IND	cochin
+IND	amravati
+IND	sangli
+IND	coupe
+IND	bikaner
+IND	bokaro
+IND	warangal
+IND	nanded
+IND	kozhikode
+IND	roukela
+IND	guntur
+IND	dehra dun
+===	
+IRL	irlande
+IRL	irlandais
+IRL	connacht
+IRL	leinster
+IRL	munster
+IRL	ulster
+IRL	dublin
+===	
+IRN	l'iran
+IRN	iranien
+IRN	perse
+IRN	t\\u00e9h\\u00e9ran
+IRN	zanjan
+IRN	province de yazd
+IRN	semnan
+IRN	mazandaran
+IRN	markazi
+IRN	province du lorestan
+IRN	province du kurdistan
+IRN	kohgiluyeh et boyer-ahmad
+IRN	khouzestan
+IRN	province de kermanshah
+IRN	kerman
+IRN	province d'ilam
+IRN	hormozgan
+IRN	province de hamadan
+IRN	province de gilan
+IRN	far
+IRN	chaharmahal et bakhtiari
+IRN	bouchehr
+IRN	azerba\\u00efdjan orientale
+IRN	azerba\\u00efdjan ouest
+IRN	province d'ardabil
+IRN	ispahan
+IRN	golestan
+IRN	province de qazvine
+IRN	province de qom
+IRN	sistan et baluchestan
+IRN	province du khorasan du sud
+IRN	razavi khorasan
+IRN	khorasan du nord
+IRN	province d'alborz
+IRN	t\\u00e9h\\u00e9ran
+IRN	machhad
+IRN	ispahan
+IRN	karaj
+IRN	tabriz
+IRN	chiraz
+IRN	qom
+IRN	ahvaz
+IRN	succursale de pasragad
+IRN	kahriz
+IRN	kermanshah
+IRN	coup d'œil
+IRN	kerman
+IRN	orumiyeh
+IRN	zah\\u00e9dan
+IRN	hamadan
+===	
+IRQ	irak
+IRQ	irakien
+IRQ	basra
+IRQ	\\u00e9tait-ce
+IRQ	salah ad din
+IRQ	ninive
+IRQ	maysan
+IRQ	karbala'
+IRQ	arbile
+IRQ	diyala
+IRQ	dhi qar
+IRQ	duhok
+IRQ	bagdad
+IRQ	babil
+IRQ	kirkouk
+IRQ	soulaismaniya
+IRQ	an-najaf
+IRQ	al qadisiyah
+IRQ	gouvernorat d'al muthanna
+IRQ	al-anbar
+IRQ	gouvernorat de halabja
+IRQ	bagdad
+IRQ	al mawsil al jadidah
+IRQ	al basrah al qadimah
+IRQ	mousoul
+IRQ	erbil
+IRQ	basrah
+IRQ	karbala
+IRQ	kirkouk
+IRQ	abu ghurayb
+IRQ	comme soulaymaniyah
+IRQ	nasiriya
+===	
+ISL	islande
+ISL	islandais
+ISL	nord ouest
+ISL	nord-est
+ISL	est
+ISL	sud
+ISL	r\\u00e9gion de la capitale
+ISL	p\\u00e9ninsule sud
+ISL	ouest
+ISL	fjords de l'ouest
+===	
+ISR	isra\\u00ebl
+ISR	isra\\u00e9lien
+ISR	j\\u00e9rusalem
+ISR	tel aviv
+ISR	haifa
+ISR	quartier nord
+ISR	district central
+ISR	quartier sud
+ISR	r\\u00e9gion de jud\\u00e9e et samarie
+ISR	j\\u00e9rusalem
+===	
+ITA	italie
+ITA	italien
+ITA	sicile
+ITA	sardaigne
+ITA	calabre
+ITA	v\\u00e9n\\u00e9tie
+ITA	vall\\u00e9e d'aoste
+ITA	ombrie
+ITA	trentin-haut-adige
+ITA	toscane
+ITA	pouilles
+ITA	pi\\u00e9mont
+ITA	molise
+ITA	les marches
+ITA	lombardie
+ITA	ligurie
+ITA	lazio
+ITA	frioul venezia giulie
+ITA	\\u00e9milie-romagne
+ITA	campanie
+ITA	basilicer
+ITA	abruzzes
+ITA	rome
+ITA	milan
+ITA	naples
+ITA	turin
+ITA	palerme
+ITA	gênes
+===	
+JAM	jama\\u00efque
+JAM	jama\\u00efquain
+JAM	moreland de l'ouest
+JAM	paroisse de trelawny
+JAM	paroisse saint-thomas
+JAM	paroisse sainte-marie
+JAM	paroisse saint-james
+JAM	st. \\u00e9lisabeth
+JAM	paroisse sainte-catherine
+JAM	paroisse sainte-anne
+JAM	paroisse saint-andr\\u00e9
+JAM	paroisse de portland
+JAM	manchester
+JAM	kingston
+JAM	hanovre
+JAM	clarendon
+JAM	kingston
+JAM	nouveau kingston
+===	
+JOR	jordan
+JOR	jordanien
+JOR	ma'an
+JOR	irbide
+JOR	zarqa
+JOR	tafielah
+JOR	amman
+JOR	mafraq
+JOR	karak
+JOR	balqa
+JOR	ajlun
+JOR	j\\u00e9rash
+JOR	aqaba
+JOR	madaba
+JOR	amman
+JOR	zarqa
+JOR	irbide
+===	
+JPN	japon
+JPN	japonais
+JPN	yamanashi
+JPN	yamaguchi
+JPN	wakayama
+JPN	toyama
+JPN	tottori
+JPN	tokyo
+JPN	tokushima
+JPN	tochigi
+JPN	shizuoka
+JPN	shimane
+JPN	shiga
+JPN	saitama
+JPN	saga
+JPN	osaka
+JPN	okinawa
+JPN	okayama
+JPN	oita
+JPN	niigata
+JPN	nara
+JPN	nagasaki
+JPN	nagano
+JPN	miyazaki
+JPN	mie
+JPN	kyoto
+JPN	kumamoto
+JPN	kochi
+JPN	kanagawa
+JPN	kagoshima
+JPN	kagawa
+JPN	ishikawa
+JPN	hyogo
+JPN	hiroshima
+JPN	gunma
+JPN	gifu
+JPN	fukuoka
+JPN	fukui
+JPN	ehime
+JPN	a\\u00efchi
+JPN	yamagata
+JPN	miyagi
+JPN	iwate
+JPN	ibaraki
+JPN	fukushima
+JPN	chiba
+JPN	akita
+JPN	hokkaido
+JPN	aomori
+JPN	tokyo
+JPN	yokohama
+JPN	osaka
+JPN	nagoya
+JPN	sapporo
+JPN	fukuoka
+JPN	kawasaki
+JPN	kobe
+JPN	kyoto
+JPN	saitama
+JPN	hiroshima
+JPN	sendai
+JPN	chiba
+JPN	kitakyushu
+JPN	niigata
+JPN	hamamatsu
+JPN	saka\\u00ef
+JPN	kumamoto
+JPN	okayama
+JPN	shizuoka
+JPN	honcho
+JPN	kawaguchi
+JPN	kagoshima
+JPN	hachioji
+JPN	himeji
+===	
+KAZ	kazakhstan
+KAZ	kazakhstanien
+KAZ	batys qazaqstan
+KAZ	mangghystau
+KAZ	atyraou
+KAZ	aqtobe
+KAZ	kazakhstan oriental
+KAZ	aqmola
+KAZ	kazakhstan du nord
+KAZ	r\\u00e9gion de pavlodar
+KAZ	qyzylorda
+KAZ	qostanay
+KAZ	karaganda
+KAZ	jambyl
+KAZ	kazakhstan du sud
+KAZ	almaty
+KAZ	oblysy d'almaty
+KAZ	chymkent
+KAZ	ba\\u00efkonour
+KAZ	astana
+KAZ	r\\u00e9gion d'abai
+KAZ	r\\u00e9gion de jetisu
+KAZ	r\\u00e9gion d'oulytau
+KAZ	almaty
+KAZ	chymkent
+===	
+KEN	kenya
+KEN	k\\u00e9nyan
+KEN	comt\\u00e9 de pokot ouest
+KEN	comt\\u00e9 de wajir
+KEN	comt\\u00e9 d'uasin gishu
+KEN	comt\\u00e9 de turkana
+KEN	trans nzoia
+KEN	tharaka - nithi
+KEN	comt\\u00e9 de la rivi\\u00e8re tana
+KEN	comt\\u00e9 de siaya
+KEN	comt\\u00e9 de samburu
+KEN	comt\\u00e9 de nairobi
+KEN	murang'a
+KEN	comt\\u00e9 de mombasa
+KEN	comt\\u00e9 de m\\u00e9ru
+KEN	comt\\u00e9 de marsabit
+KEN	comt\\u00e9 de mandera
+KEN	laikipia
+KEN	comt\\u00e9 de kwale
+KEN	comt\\u00e9 de kitui
+KEN	comt\\u00e9 de kisumu
+KEN	comt\\u00e9 de kisii
+KEN	comt\\u00e9 de kirinyaga
+KEN	comt\\u00e9 de kilifi
+KEN	comt\\u00e9 de kiambu
+KEN	comt\\u00e9 de kericho
+KEN	comt\\u00e9 de kakamega
+KEN	comt\\u00e9 d'isiolo
+KEN	comt\\u00e9 de garissa
+KEN	comt\\u00e9 d'embu
+KEN	comt\\u00e9 de busia
+KEN	comt\\u00e9 de bungoma
+KEN	baringo
+KEN	comt\\u00e9 de nyandarua
+KEN	comt\\u00e9 de vihiga
+KEN	lamu
+KEN	comt\\u00e9 de machakos
+KEN	comt\\u00e9 de makueni
+KEN	elegeyo-marakwet
+KEN	taita taveta
+KEN	comt\\u00e9 de kajiado
+KEN	comt\\u00e9 de nyeri
+KEN	comt\\u00e9 de homa bay
+KEN	comt\\u00e9 de bomet
+KEN	comt\\u00e9 de migori
+KEN	comt\\u00e9 de nakuru
+KEN	comt\\u00e9 de narok
+KEN	comt\\u00e9 de nyamira
+KEN	nandi
+KEN	nairobi
+KEN	kakam\\u00e9ga
+KEN	mombasa
+KEN	nakuru
+===	
+KGZ	kirghizistan
+KGZ	kirghiz
+KGZ	r\\u00e9gion sst
+KGZ	batken
+KGZ	r\\u00e9gion de talas
+KGZ	r\\u00e9gion de naryn
+KGZ	issyk-kul
+KGZ	bichkek
+KGZ	r\\u00e9gion de jalal-abad
+KGZ	r\\u00e9gion chuy
+KGZ	ville sst
+KGZ	bichkek
+===	
+KHM	cambodge
+KHM	cambodgien
+KHM	pursat
+KHM	battambang
+KHM	takeo
+KHM	svay rieng
+KHM	treng piqu\\u00e9
+KHM	ŏtar meanchey
+KHM	siem-r\\u00e9ap
+KHM	ratanakiri
+KHM	proie veng
+KHM	preah vihear
+KHM	phnom penh
+KHM	pailin
+KHM	mondolkiri
+KHM	kratie
+KHM	kep
+KHM	koh-kong
+KHM	kandal
+KHM	kampot
+KHM	kampong thom
+KHM	province de kampong speu
+KHM	kampong chhnang
+KHM	kampong cham
+KHM	pr\\u00e9ah sihanouk
+KHM	banteay meanchey
+KHM	tboung khmum
+KHM	phnom penh
+KHM	takeo
+===	
+KIR	kiribati
+KIR	iles gilbert
+KIR	\\u00eeles de ligne
+KIR	iles ph\\u00e9nix
+===	
+KNA	saint-christophe-et-ni\\u00e9v\\u00e8s
+KNA	kittien
+KNA	nevisien
+KNA	saint-kitts
+KNA	saint-kitts
+KNA	st. kitts
+KNA	st. kitts-et-nevis
+KNA	pointe de palmette de la trinit\\u00e9
+KNA	\\u00eele du moyen
+KNA	basses terres de saint thomas
+KNA	saint-pierre basseterre
+KNA	saint-paul charlestown
+KNA	saint-paul capesterre
+KNA	saint marie cayon
+KNA	figue saint-jean
+KNA	saint jean capesterre
+KNA	saint james windwa
+KNA	saint george gingerland
+KNA	saint george basseterre
+KNA	pointe de sainte-anne
+KNA	\\u00e9glise du christ ville nicolas
+===	
+KOR	cor\\u00e9e du sud
+KOR	sud cor\\u00e9en
+KOR	cor\\u00e9e du sud
+KOR	r\\u00e9publique de cor\\u00e9e
+KOR	r.o.k.
+KOR	cor\\u00e9e
+KOR	ulsan
+KOR	daejeon
+KOR	da\\u00e9gu
+KOR	s\\u00e9oul
+KOR	busan
+KOR	gyeongsangbuk-do
+KOR	gyeonggi-do
+KOR	gwangju
+KOR	gangwon-do
+KOR	incheon
+KOR	chungcheongnam-do
+KOR	chungcheong nord
+KOR	jeollanam-do
+KOR	jeollabuk-do
+KOR	jeju-do
+KOR	gyeongsangnam-do
+KOR	sejong-si
+KOR	s\\u00e9oul
+KOR	busan
+KOR	incheon
+KOR	da\\u00e9gu
+KOR	gwangju
+KOR	daejeon
+KOR	suwon
+KOR	goyang-si
+KOR	seongnam-si
+KOR	changwon
+KOR	ulsan
+KOR	bucheon-si
+KOR	cheongju-si
+KOR	ansan-si
+KOR	ch\\u00e9onan
+KOR	jeonju
+KOR	hwaseong-si
+KOR	anyang-si
+KOR	kimha\\u00e9
+===	
+KSV	kosovo
+KSV	kosovar
+===	
+KWT	koweit
+KWT	kowe\\u00eftien
+KWT	hawalli
+KWT	al asimah
+KWT	gouvernorat d'al jahra
+KWT	al-farwaniyah
+KWT	al aḩmadi
+KWT	mubarak al kabir
+KWT	al ahmadi
+===	
+LAO	laos
+LAO	laotien
+LAO	xiangkhoang
+LAO	xiagnabouli
+LAO	vientiane
+LAO	province de savannakhet
+LAO	province de salavane
+LAO	phongsali
+LAO	oudomxai
+LAO	province de luang prabang
+LAO	loungnamtha
+LAO	province de khammouane
+LAO	houaphan
+LAO	province de champassak
+LAO	attapu
+LAO	xekong
+LAO	bok\\u00e9o
+LAO	bolikhamsai
+LAO	pr\\u00e9fecture de vientiane
+LAO	xaisomboun
+===	
+LBN	liban
+LBN	libanais
+LBN	mont-liban
+LBN	beyrouth
+LBN	liban-nord
+LBN	gouvernorat du sud
+LBN	beqaa
+LBN	nabatiye
+LBN	aakkar
+LBN	gouvernorat de baalbek-hermel
+LBN	beyrouth
+LBN	bayrut de ra
+===	
+LBR	lib\\u00e9ria
+LBR	lib\\u00e9rien
+LBR	comt\\u00e9 de sinoe
+LBR	nimba
+LBR	comt\\u00e9 de montserrado
+LBR	comt\\u00e9 du maryland
+LBR	comt\\u00e9 de lofa
+LBR	comt\\u00e9 de grand gedeh
+LBR	comt\\u00e9 de grand cape mount
+LBR	comt\\u00e9 de grand bassa
+LBR	comt\\u00e9 de bong
+LBR	comt\\u00e9 de bomi
+LBR	comt\\u00e9 de grand kru
+LBR	comt\\u00e9 de margibi
+LBR	comt\\u00e9 de rivi\\u00e8re cess
+LBR	comt\\u00e9 de gbarpolu
+LBR	comt\\u00e9 de la rivi\\u00e8re gee
+LBR	monrovia
+===	
+LBY	libye
+LBY	libyen
+LBY	darnah
+LBY	banghazi
+LBY	al marj
+LBY	al koufrah
+LBY	al jabal al ​​akhḑar
+LBY	tripoli
+LBY	surt
+LBY	quartier de sabha
+LBY	nalut
+LBY	quartier murzuq
+LBY	misratah
+LBY	ghat
+LBY	az zawiyah
+LBY	ash shati'
+LBY	al jufrah
+LBY	an nuqat al khams
+LBY	al boutnan
+LBY	jabal al ​​gharbi
+LBY	al-jafarah
+LBY	al marqab
+LBY	al waḩat
+LBY	wadi al ḩayat
+LBY	tripoli
+LBY	benghazi
+===	
+LCA	sainte-lucie
+LCA	sainte-lucienne
+LCA	st. lucie
+LCA	sainte lucie
+LCA	vieux-fort
+LCA	soufri\\u00e8re
+LCA	micoud
+LCA	laborie
+LCA	gros-\\u00eelet
+LCA	denner
+LCA	choiseul
+LCA	coul\\u00e9es
+LCA	anse-la-raye
+LCA	canaris
+===	
+LIE	liechtenstein
+LIE	liechtensteiner
+LIE	vaduz
+LIE	triesenberg
+LIE	triesen
+LIE	schellenberg
+LIE	schaan
+LIE	rougell
+LIE	planche
+LIE	mauren
+LIE	gamprin
+LIE	eschen
+LIE	balseurs
+===	
+LKA	sri lanka
+LKA	sri lankais
+LKA	province de l'ouest
+LKA	province uva
+LKA	province du sud
+LKA	province de sabaragamuwa
+LKA	province du nord-ouest
+LKA	province du centre-nord
+LKA	province centrale
+LKA	province du nord
+LKA	province de l'est
+LKA	colombo
+===	
+LSO	lesotho
+LSO	thaba-tseka
+LSO	quelque chose
+LSO	quartier nek de qacha
+LSO	quartier de mokhotlong
+LSO	quartier de mohale's hoek
+LSO	quartier de maseru
+LSO	quartier de mafeteng
+LSO	l\\u00e9rib\\u00e9
+LSO	butha-buthe
+LSO	b\\u00e9r\\u00e9a
+===	
+LTU	lituanie
+LTU	lituanien
+LTU	alytus
+LTU	kaunas
+LTU	comt\\u00e9 de klaip\\u00e9da
+LTU	comt\\u00e9 de marijampole
+LTU	panevezys
+LTU	siaulia\\u00ef
+LTU	comt\\u00e9 de taurage
+LTU	telsiai
+LTU	utena
+LTU	vilnius
+LTU	vilnius
+===	
+LUX	luxembourg
+LUX	luxembourg\\u00e9
+LUX	luxembourg
+LUX	wiltz
+LUX	vianden
+LUX	remich
+LUX	redanger
+LUX	merch
+LUX	luxembourg
+LUX	grevenmacher
+LUX	esch-sur-alzette
+LUX	echternach
+LUX	diekirch
+LUX	clervaux
+LUX	capellen
+===	
+LVA	lettonie
+LVA	letton
+LVA	municipalit\\u00e9 de ventspils
+LVA	ventspils
+LVA	valmi\\u00e9ra
+LVA	valka
+LVA	municipalit\\u00e9 de tukums
+LVA	municipalit\\u00e9 de talsi
+LVA	saldus rajons
+LVA	riga
+LVA	municipalit\\u00e9 de r\\u00e9zekne
+LVA	r\\u00e9zekne
+LVA	preilu novads
+LVA	ogre
+LVA	municipalit\\u00e9 de madona
+LVA	municipalit\\u00e9 de ludza
+LVA	municipalit\\u00e9 de limbazi
+LVA	liepaja
+LVA	municipalit\\u00e9 de kuldiga
+LVA	municipalit\\u00e9 de kraslava
+LVA	jurmala
+LVA	municipalit\\u00e9 de jelgava
+LVA	jelgava
+LVA	municipalit\\u00e9 de jekabpils
+LVA	municipalit\\u00e9 de gulb\\u00e8ne
+LVA	municipalit\\u00e9 de dob\\u00e9l\\u00e9
+LVA	daugavpils
+LVA	municipalit\\u00e9 de cesis
+LVA	municipalit\\u00e9 de bauska
+LVA	municipalit\\u00e9 de balvi
+LVA	municipalit\\u00e9 d'aluksne
+LVA	commune d'aizkraukle
+LVA	marup\\u00e9
+LVA	ola\\u00efne
+LVA	k\\u00e9kava
+LVA	municipalit\\u00e9 de salaspils
+LVA	adazi
+LVA	livani
+LVA	municipalit\\u00e9 de varaklani
+LVA	municipalit\\u00e9 de ropazi
+LVA	municipalit\\u00e9 de sigulda
+LVA	municipalit\\u00e9 de saulkrasti
+LVA	municipalit\\u00e9 de smiltene
+LVA	municipalit\\u00e9 de kurzeme du sud
+LVA	municipalit\\u00e9 d'augsdaugava
+LVA	riga
+===	
+MAR	maroc
+MAR	marocain
+MAR	maroc
+MAR	marocain
+MAR	tanger-tetouan-al hoceima
+MAR	oriental
+MAR	f\\u00e8s-mekn\\u00e8s
+MAR	rabat-vente-kenitra
+MAR	beni mellal-khenifra
+MAR	casablanca-settat
+MAR	marrakech-safi
+MAR	draa-tafilalet
+MAR	souss-massa
+MAR	guelmim-oued nom
+MAR	laayoune-sakia el hamra
+MAR	dakhla-oued ed-dahab
+MAR	casablanca
+MAR	rabat
+MAR	f\\u00e8s
+MAR	tanger
+MAR	marrakech
+MAR	vente
+MAR	agadir
+MAR	mekn\\u00e9s
+MAR	oujda
+===	
+MCO	monaco
+MCO	monacain
+MCO	monocco
+MCO	monacco
+MCO	commune de monaco
+===	
+MDA	moldavie
+MDA	moldovaine
+MDA	moldavie
+MDA	moldavie
+MDA	modolva
+MDA	raionul edinet
+MDA	ungheni
+MDA	t\\u00e9l\\u00e9nesti
+MDA	taraclie
+MDA	stefan voda
+MDA	stra\\u0219eni
+MDA	quartier de soroca
+MDA	riscani
+MDA	r\\u00e9zina
+MDA	orhei
+MDA	raionul ocnita
+MDA	anenii noi
+MDA	nisporeni
+MDA	l\\u00e9ova
+MDA	singerei
+MDA	criuleni
+MDA	ialoveni
+MDA	municipalit\\u00e9 de chi\\u0219inau
+MDA	causeni
+MDA	cant\\u00e9mir
+MDA	calarasi
+MDA	cahul
+MDA	glodeni
+MDA	floreti
+MDA	fale\\u0219ti
+MDA	quartier de dubasari
+MDA	drochie
+MDA	donduseni
+MDA	cimislie
+MDA	briceni
+MDA	basarabeasca
+MDA	hincesti
+MDA	soldanesti
+MDA	transnistrie
+MDA	gagaouzie
+MDA	municipalit\\u00e9 de bender
+MDA	balti
+MDA	chisinau
+===	
+MDG	madagascar
+MDG	madagascar
+MDG	diane
+MDG	sava
+MDG	sofia
+MDG	analanjirofo
+MDG	bo\\u00e9ny
+MDG	betsiboka
+MDG	alaotra mangoro
+MDG	m\\u00e9laky
+MDG	bongolava
+MDG	vakinankaratra
+MDG	itasy
+MDG	analamanga
+MDG	atsinanana
+MDG	menabe
+MDG	amoron'i mania
+MDG	matsiatra sup\\u00e9rieur
+MDG	ihorombe
+MDG	atsimo-atsinanana
+MDG	anosy
+MDG	andro\\u00ef
+MDG	atsimo-andr\\u00e9fana
+MDG	r\\u00e9gion de fitovinany
+MDG	r\\u00e9gion de vatovavy
+MDG	antananarivo
+===	
+MDV	maldives
+MDV	maldivan
+MDV	maldives
+MDV	les maldiviens
+MDV	vaavu atholhu
+MDV	thaa atholhu
+MDV	shaviyani atholhu
+MDV	senu
+MDV	atoll raa
+MDV	atoll de noonu
+MDV	atoll de gnyaviyani
+MDV	meemu atholhu
+MDV	atoll faadhippolhu
+MDV	laamu
+MDV	atoll de kaafu
+MDV	haa dhaalu atholhu
+MDV	haa alifu atholhu
+MDV	atoll de gaafu dhaalu
+MDV	atoll de gaafu alif
+MDV	faafu atholhu
+MDV	dhaalu atholhu
+MDV	baa atholhu
+MDV	atoll d'ari nord
+MDV	m\\u00e2le
+MDV	atoll d'ari sud
+===	
+MEX	mexique
+MEX	mexicain
+MEX	yucatan
+MEX	v\\u00e9racruz
+MEX	tlaxcala
+MEX	tamaulipas
+MEX	tabasco
+MEX	quintana roo
+MEX	qu\\u00e9r\\u00e9taro
+MEX	puebla
+MEX	oaxaca
+MEX	nuevo l\\u00e9on
+MEX	morelos
+MEX	mexique
+MEX	hidalgo
+MEX	guerrero
+MEX	ville de mexico
+MEX	chiapas
+MEX	campeche
+MEX	zacatecas
+MEX	sonore
+MEX	sinaloa
+MEX	san luis potosi
+MEX	nayarit
+MEX	michoacan
+MEX	jalisco
+MEX	guanajuato
+MEX	durango
+MEX	colima
+MEX	coahuila
+MEX	chihuahua
+MEX	baja californie du sud
+MEX	basse-californie
+MEX	aguascalientes
+MEX	ville de mexico
+MEX	tijuana
+MEX	iztapalapa
+MEX	l\\u00e9on de los aldama
+MEX	puebla
+MEX	ecatepec de morelos
+MEX	santiago de qu\\u00e9r\\u00e9taro
+MEX	ciudad juarez
+MEX	zapopan
+MEX	guadalajara
+MEX	m\\u00e9rida
+MEX	gustavo adolfo madero
+MEX	monterrey
+MEX	ciudad nezahualcoyotl
+MEX	mexicaux
+MEX	chihuahua
+MEX	hermosillo
+MEX	culiacan
+MEX	naucalpan de juarez
+MEX	mor\\u00e9lie
+MEX	torr\\u00e9\\u00f3n
+MEX	alvaro obreg\\u00f3n
+MEX	san luis potosi
+MEX	aguascalientes
+MEX	saltillo
+MEX	guadalupe
+MEX	acapulco de juarez
+MEX	tlalnepantla
+MEX	cancun
+MEX	coyoacan
+MEX	santa maria chimalhuacan
+MEX	tuxtla
+MEX	reynosa
+MEX	tlaquepaque
+MEX	tlalpan
+MEX	cuauhtemoc
+===	
+MHL	iles marshall
+MHL	marshallais
+MHL	\\u00eeles mar\\u00e9chals
+MHL	atoll d'ailinginae
+MHL	atoll d'ailinglaplap
+MHL	atoll d'ailuk
+MHL	atoll d'arno
+MHL	atoll d'aur
+MHL	atoll de bikar
+MHL	atoll de bikini
+MHL	atoll d'\\u00e9b\\u00e8ne
+MHL	atoll d'enewetak
+MHL	atoll d'\\u00e9rikub
+MHL	atoll de jaluit
+MHL	atoll de kwajalein
+MHL	lae atoll
+MHL	atoll de likiep
+MHL	atoll de majuro
+MHL	atoll de mal\\u00f4elap
+MHL	atoll de mili
+MHL	atoll de namdrik
+MHL	atoll de namu
+MHL	atoll de rongelap
+MHL	atoll de rongrik
+MHL	atoll de taka
+MHL	atoll de bokak
+MHL	atoll d'ujae
+MHL	ujelang
+MHL	atoll d'utrik
+MHL	atoll de wotho
+MHL	atoll de wotj\\u00e9
+MHL	\\u00eele de jabat
+MHL	\\u00eele j\\u00e9mo
+MHL	\\u00eele de kili
+MHL	\\u00eele lib
+MHL	\\u00eele mejit
+===	
+MKD	mac\\u00e9doine
+MKD	mac\\u00e9donien
+MKD	valandovo
+MKD	r\\u00e9senter
+MKD	kratovo
+MKD	pechtchevo
+MKD	novo s\\u00e9lo
+MKD	bosilovo
+MKD	vasilevo
+MKD	dojran
+MKD	bogdanci
+MKD	konche
+MKD	makedonska kamenica
+MKD	zrnovci
+MKD	karbinci
+MKD	demir kapija
+MKD	rosoman
+MKD	gradsko
+MKD	lozovo
+MKD	cesinovo-oblesevo
+MKD	novaci
+MKD	berovo
+MKD	bitola
+MKD	mogila
+MKD	arachinovo
+MKD	bogovinj\\u00e9
+MKD	brvenica
+MKD	tchachka
+MKD	centre zhupa
+MKD	chucher sandevo
+MKD	interdire
+MKD	delchevo
+MKD	demir hisar
+MKD	doln\\u00e9ni
+MKD	gu\\u00e9vguelija
+MKD	gostivar
+MKD	ilinden
+MKD	j\\u00e9gunovce
+MKD	kavadarci
+MKD	kichevo
+MKD	kochani
+MKD	kriva palanka
+MKD	krivogashtani
+MKD	krushevo
+MKD	koumanovo
+MKD	lipkovo
+MKD	makedonski brod
+MKD	n\\u00e9gotino
+MKD	ohrid
+MKD	petrovec
+MKD	plastique
+MKD	prilep
+MKD	conseil probish
+MKD	radovish
+MKD	rancovce
+MKD	mavrovo et rostusa
+MKD	sopiste
+MKD	staro nagorichane
+MKD	conseil
+MKD	struga
+MKD	strumica
+MKD	studienichani
+MKD	sveti nikol\\u00e9
+MKD	d\\u00e9chirure
+MKD	t\\u00e9tovo
+MKD	v\\u00e9les
+MKD	vevchani
+MKD	vinique
+MKD	vrapchisht\\u00e9
+MKD	z\\u00e9l\\u00e9nikovo
+MKD	zhelino
+MKD	debarca
+MKD	dipl\\u00f4m\\u00e9 skopje
+===	
+MLI	mali
+MLI	malien
+MLI	tombouctou
+MLI	sikasso
+MLI	s\\u00e9gou
+MLI	mopti
+MLI	koulikoro
+MLI	kaye
+MLI	gao
+MLI	bamako
+MLI	enfant
+MLI	taoud\\u00e9nit
+MLI	m\\u00e9naka
+MLI	bamako
+===	
+MLT	malte
+MLT	maltais
+MLT	attarder
+MLT	balzan
+MLT	il-birgu
+MLT	birkirkara
+MLT	birzebbu\\u0121a
+MLT	bormla
+MLT	dingli
+MLT	il-fgura
+MLT	florianne
+MLT	il-fontana
+MLT	g\\u0127ajnsielem
+MLT	l-g\\u0127arb
+MLT	\\u0127al g\\u0127arg\\u0127ur
+MLT	l-g\\u0127asri
+MLT	\\u0127al g\\u0127axaq
+MLT	il-gudja
+MLT	il-gzira
+MLT	il-\\u0127amrun
+MLT	l-iklin
+MLT	l-imdina
+MLT	l-im\\u0121arr
+MLT	l-imqabba
+MLT	l-imsida
+MLT	mtarfa
+MLT	senglea
+MLT	il-kalkara
+MLT	ta' ker\\u010bem
+MLT	kirkop
+MLT	lija
+MLT	luqa
+MLT	il-marsa
+MLT	marsaskala
+MLT	marsaxlokk
+MLT	il-mellie\\u0127a
+MLT	il-mosta
+MLT	il-munxar
+MLT	in-nadur
+MLT	in-naxxar
+MLT	paola
+MLT	pembroke
+MLT	tal-pi\\u00e9ta
+MLT	il-qala
+MLT	qormi
+MLT	il-qrendi
+MLT	ir-rabat
+MLT	victoria
+MLT	safi
+MLT	saint jean
+MLT	saint julien
+MLT	saint-laurent
+MLT	sainte-lucie
+MLT	baie saint paul
+MLT	sainte v\\u00e9n\\u00e8re
+MLT	sannat
+MLT	is-si\\u0121\\u0121iewi
+MLT	tas-sliema
+MLT	is-swieqi
+MLT	tarxien
+MLT	ta'xbiex
+MLT	ix-xag\\u0127ra
+MLT	ix-xewkija
+MLT	ix-xg\\u0127ajra
+MLT	\\u0127az-zabbar
+MLT	\\u0127az-zebbu\\u0121
+MLT	iz-zebbu\\u0121
+MLT	iz-zejtun
+MLT	iz-zurrieq
+MLT	la valette
+===	
+MMR	myanmar
+MMR	myanmarais
+MMR	birman
+MMR	birmanie
+MMR	r\\u00e9gion de tanintharyi
+MMR	\\u00e9tat shan
+MMR	r\\u00e9gion de sagaing
+MMR	yangon
+MMR	rakhine
+MMR	r\\u00e9gion de bago
+MMR	lun
+MMR	r\\u00e9gion de mandalay
+MMR	magway
+MMR	\\u00e9tat de kayah
+MMR	\\u00e9tat de kayin
+MMR	\\u00e9tat kachin
+MMR	ayeyarwady
+MMR	\\u00e9tat du menton
+MMR	nay pyi taw
+MMR	yangon
+MMR	mandalay
+MMR	nay pyi taw
+===	
+MNG	mongolie
+MNG	mongol
+MNG	mongol
+MNG	province uvs
+MNG	hovd
+MNG	province de govi-altai
+MNG	dzabkhan
+MNG	bayan-olgiy
+MNG	bayanhongor
+MNG	oulan-baatar
+MNG	aimak central
+MNG	souhbaatar
+MNG	province de s\\u00e9leng\\u00e9
+MNG	ovorhangay
+MNG	omnogovi
+MNG	province de khovsgol
+MNG	hentiy
+MNG	govi moyen
+MNG	gobi est aymag
+MNG	aimak est
+MNG	boulgan
+MNG	province d'arkhangai
+MNG	darhan uul
+MNG	govi-sumber
+MNG	orhon
+MNG	ulan bator
+===	
+MOZ	mozambique
+MOZ	mozambicain
+MOZ	province de zamb\\u00e9zie
+MOZ	tête
+MOZ	canap\\u00e9
+MOZ	province de niassa
+MOZ	nampula
+MOZ	province de maputo
+MOZ	manique
+MOZ	province d'inhambane
+MOZ	province de gaza
+MOZ	province de cabo delgado
+MOZ	ville de maputo
+MOZ	maputo
+MOZ	matola
+MOZ	nampula
+MOZ	beira
+===	
+MRT	mauritanie
+MRT	mauritanien
+MRT	traza
+MRT	tiris zemmour
+MRT	tagant
+MRT	inchiri
+MRT	hodh el gharbi
+MRT	hodh ech chargi
+MRT	guidimaka
+MRT	gorgol
+MRT	dakhlet nouadhibou
+MRT	brakna
+MRT	assaba
+MRT	adrar
+MRT	nouakchott ouest
+MRT	nouakchott-nord
+MRT	nouakchott sud
+MRT	nouakchott
+===	
+MUS	maurice
+MUS	mauricien
+MUS	iles agal\\u00e9ga
+MUS	savane
+MUS	rivi\\u00e8re du rempart
+MUS	port louis
+MUS	plaines wilhems
+MUS	pamplemousses
+MUS	moka
+MUS	grand-port
+MUS	flacq
+MUS	rivi\\u00e8re noire
+MUS	cargados carajos
+MUS	rodrigues
+===	
+MWI	malawi
+MWI	malawien
+MWI	r\\u00e9gion sud
+MWI	r\\u00e9gion du nord
+MWI	r\\u00e9gion centrale
+MWI	lilongwe
+MWI	blantyre
+===	
+MYS	malaisie
+MYS	malaisien
+MYS	m\\u00e9laka
+MYS	terengganu
+MYS	s\\u00e9langor
+MYS	sarawak
+MYS	sabah
+MYS	perlis
+MYS	perak
+MYS	pahang
+MYS	negeri sembilan
+MYS	k\\u00e9lantan
+MYS	kuala lumpur
+MYS	p\\u00e9nang
+MYS	k\\u00e9dah
+MYS	johor
+MYS	labuan
+MYS	putrajaya
+MYS	kuala lumpur
+MYS	petaling jaya
+MYS	klang
+MYS	johor bahru
+MYS	ipoh
+MYS	kampung baru subang
+MYS	shah alam
+MYS	subang jaya
+MYS	malacca
+MYS	kota bharu
+MYS	kuantan
+===	
+NAM	namibie
+NAM	namibien
+NAM	r\\u00e9gion du zamb\\u00e8ze
+NAM	r\\u00e9gion de khomas
+NAM	r\\u00e9gion d'erongo
+NAM	r\\u00e9gion hardap
+NAM	r\\u00e9gion de karas
+NAM	r\\u00e9gion de kunene
+NAM	r\\u00e9gion de l'ohangwena
+NAM	r\\u00e9gion d'omaheke
+NAM	r\\u00e9gion d'omusati
+NAM	r\\u00e9gion d'oshana
+NAM	r\\u00e9gion d'oshikoto
+NAM	r\\u00e9gion d'otjozondjupa
+NAM	kavango est
+NAM	kavango ouest
+===	
+NER	niger
+NER	nigerien
+NER	r\\u00e9gion de zinder
+NER	r\\u00e9gion de tahoua
+NER	r\\u00e9gion de maradi
+NER	r\\u00e9gion de dosso
+NER	diffa
+NER	agadez
+NER	r\\u00e9gion de tillab\\u00e9ri
+NER	niamey
+NER	niamey
+===	
+NGA	nigeria
+NGA	nig\\u00e9rien
+NGA	sokoto
+NGA	\\u00e9tat des rivi\\u00e8res
+NGA	\\u00e9tat du plateau
+NGA	\\u00e9tat d'oyo
+NGA	\\u00e9tat d'ondo
+NGA	\\u00e9tat d'ogun
+NGA	\\u00e9tat du niger
+NGA	lagos
+NGA	\\u00e9tat de kwara
+NGA	\\u00e9tat de katsina
+NGA	\\u00e9tat de kano
+NGA	\\u00e9tat de kaduna
+NGA	\\u00e9tat de l'omi
+NGA	\\u00e9tat de la rivi\\u00e8re cross
+NGA	\\u00e9tat de borno
+NGA	\\u00e9tat de b\\u00e9nue
+NGA	bauchi
+NGA	anambra
+NGA	\\u00e9tat d'akwa ibom
+NGA	fct
+NGA	\\u00e9tat d'abia
+NGA	adamawa
+NGA	\\u00e9tat d'edo
+NGA	\\u00e9tat d'enugu
+NGA	\\u00e9tat de jigawa
+NGA	\\u00e9tat de bayelsa
+NGA	\\u00e9tat d'\\u00e9bonyi
+NGA	\\u00e9tat d'ekiti
+NGA	\\u00e9tat de gombe
+NGA	\\u00e9tat de nasarawa
+NGA	\\u00e9tat de zamfara
+NGA	kebbi
+NGA	\\u00e9tat de kogi
+NGA	\\u00e9tat d'osun
+NGA	\\u00e9tat de taraba
+NGA	\\u00e9tat de yobe
+NGA	lagos
+NGA	kano
+NGA	ibadan
+NGA	abuja
+NGA	port-harcourt
+NGA	kaduna
+NGA	b\\u00e9nin ville
+NGA	onitsha
+NGA	maiduguri
+NGA	ilorine
+NGA	sokoto
+NGA	zaria
+NGA	enugu
+NGA	guerre
+NGA	abeokuta
+NGA	akure
+NGA	bauchi
+NGA	katsine
+NGA	osogbo
+NGA	ile-ife
+NGA	gombe
+NGA	owerri
+NGA	calabar
+NGA	ebute ikorodu
+===	
+NIC	nicaragua
+NIC	nicaraguayen
+NIC	d\\u00e9partement rivas
+NIC	d\\u00e9partement de rio san juan
+NIC	d\\u00e9partement de nueva segovia
+NIC	d\\u00e9partement de matagalpa
+NIC	d\\u00e9partement masaya
+NIC	d\\u00e9partement de managua
+NIC	d\\u00e9partement de madriz
+NIC	d\\u00e9partement de l\\u00e9on
+NIC	d\\u00e9partement jinotega
+NIC	d\\u00e9partement de grenade
+NIC	d\\u00e9partement esteli
+NIC	d\\u00e9partement de chontales
+NIC	d\\u00e9partement de chinandega
+NIC	d\\u00e9partement carazo
+NIC	d\\u00e9partement boaco
+NIC	c\\u00f4te nord des cara\\u00efbes
+NIC	c\\u00f4te des cara\\u00efbes sud
+NIC	managua
+===	
+NLD	pays-bas
+NLD	n\\u00e9erlandais
+NLD	hollande du sud
+NLD	z\\u00e9lande
+NLD	utrecht
+NLD	surveillance
+NLD	hollande du nord
+NLD	brabant du nord
+NLD	limbourg
+NLD	groningen
+NLD	gelderland
+NLD	frislande
+NLD	drenthe
+NLD	flevoland
+NLD	amsterdam
+NLD	rotterdam
+===	
+NLDANT	antilles n\\u00e9erlandaises
+NLDANT	antilles pays-bas
+NLDANT	antilles n\\u00e9erlandaises
+NLDANT	indes occidentales neerlandaises
+===	
+NOR	norv\\u00e8ge
+NOR	norv\\u00e9gien
+NOR	marque finlandaise
+NOR	giletfold
+NOR	tr\\u00f4ms
+NOR	t\\u00e9l\\u00e9marque
+NOR	rogaland
+NOR	\\u00f8stfold
+NOR	oslo
+NOR	pays du nord
+NOR	plus og romsdal
+NOR	buskerud
+NOR	akershus
+NOR	tr\\u00f8ndelag
+NOR	agder
+NOR	innlandet
+NOR	vestland
+NOR	oslo
+===	
+NPL	n\\u00e9pal
+NPL	n\\u00e9palais
+NPL	province 1
+NPL	province 2
+NPL	province de bagmati
+NPL	province 4
+NPL	province de lumbini
+NPL	karnali pradesh
+NPL	sudurpashchim pradesh
+NPL	katmandou
+===	
+NRU	nauru
+NRU	nauruan
+NRU	quartier de yaren
+NRU	district d'ouabo\\u00e9
+NRU	quartier de nibok
+NRU	quartier de m\\u00e9neng
+NRU	quartier ijuw
+NRU	quartier d'ewa
+NRU	quartier de denigomodu
+NRU	quartier de buada
+NRU	quartier de boe
+NRU	quartier de ba\\u00efti
+NRU	quartier d'anibare
+NRU	quartier d'anetan
+NRU	quartier d'anabar
+NRU	quartier d'aiwo
+===	
+NZL	nouvelle-z\\u00e9lande
+NZL	n\\u00e9o-z\\u00e9landais
+NZL	kiwi
+NZL	r\\u00e9gion de wellington
+NZL	manawatu-wanganui
+NZL	r\\u00e9gion de waikato
+NZL	quartier de tasman
+NZL	r\\u00e9gion de taranaki
+NZL	terre du sud
+NZL	baie d'abondance
+NZL	pays du nord
+NZL	marlborough
+NZL	r\\u00e9gion de la baie de hawke
+NZL	gisborne
+NZL	canterbury
+NZL	auckland
+NZL	\\u00eeles chatham
+NZL	r\\u00e9gion de nelson
+NZL	otago
+NZL	c\\u00f4te ouest
+===	
+NZLNIU	niue
+NZLNIU	niu\\u00e9en
+NZLNIU	nuie
+===	
+NZLTKL	tok\\u00e9laou
+NZLTKL	tok\\u00e9lauan
+NZLTKL	iles de l'union
+NZLTKL	tok\\u00e9alu
+NZLTKL	nukunono
+===	
+OMN	oman
+OMN	omani
+OMN	ad dakhiliyah
+OMN	al batinah sud
+OMN	gouvernorat d'al wusta
+OMN	gouvernorat du sud-est
+OMN	ad dhahirah
+OMN	muscat
+OMN	gouvernorat de musandam
+OMN	dhofar
+OMN	al buraimi
+OMN	gouvernorat du nord-est
+OMN	al batinah nord
+OMN	muscat
+===	
+PAK	pakistan
+PAK	pakistanais
+PAK	islamabad
+PAK	sindh
+PAK	pendjab
+PAK	khyber pakhtunkhwa
+PAK	gilgit-baltistan
+PAK	balouthistan
+PAK	azad cachemire
+PAK	karachi
+PAK	lahore
+PAK	faisalabad
+PAK	rawalpindi
+PAK	multan
+PAK	hyd\\u00e9rabad
+PAK	gujranwala
+PAK	peshawar
+PAK	rahim yar khan
+PAK	quetta
+PAK	muzaffarabad
+PAK	battagrame
+PAK	kotli
+PAK	islamabad
+PAK	bahawalpur
+PAK	sargodha
+===	
+PER	p\\u00e9rou
+PER	p\\u00e9ruvien
+PER	ucayali
+PER	tumb\\u00e9s
+PER	d\\u00e9partement de saint-martin
+PER	piura
+PER	loreto
+PER	lambayeque
+PER	la libert\\u00e9
+PER	d\\u00e9partement de huanuco
+PER	d\\u00e9partement de cajamarca
+PER	ancash
+PER	amazones
+PER	tacna
+PER	puno
+PER	pasco
+PER	d\\u00e9partement moquegua
+PER	madre de dios
+PER	province de lima
+PER	r\\u00e9gion de lima
+PER	juin
+PER	i ca
+PER	huancavelica
+PER	d\\u00e9partement de cuzco
+PER	callao
+PER	ayacucho
+PER	arequipa
+PER	d\\u00e9partement apurimac
+PER	lima
+PER	callao
+PER	arequipa
+PER	trujillo
+PER	chiclayo
+===	
+PHL	philippines
+PHL	philippin
+PHL	philippine
+PHL	philippines
+PHL	r\\u00e9gion autonome du mindanao musulman
+PHL	mindanao du nord
+PHL	mimaropa
+PHL	vall\\u00e9e de cagayan
+PHL	soccsksargen
+PHL	caraga
+PHL	cordill\\u00e8re
+PHL	ilocos
+PHL	calabarzon
+PHL	visayas de l'ouest
+PHL	lu\\u00e7on centrale
+PHL	visayas centraux
+PHL	visayas de l'est
+PHL	peninsule de zamboanga
+PHL	r\\u00e9gion de davao
+PHL	r\\u00e9gion de bicol
+PHL	m\\u00e9tro de manille
+PHL	ville de quezon
+PHL	davao
+PHL	manille
+PHL	ville de caloocan
+PHL	boudta
+PHL	malingao
+PHL	ville de cebu
+PHL	g\\u00e9n\\u00e9ral santos
+PHL	ville paranaque
+PHL	taguig
+PHL	ville de pasig
+PHL	las pinas
+PHL	antipolo
+PHL	calamba
+===	
+PLW	palao
+PLW	palaoune
+PLW	ngatpang
+PLW	sonsorol
+PLW	kayangel
+PLW	hatohobei
+PLW	aimeliik
+PLW	airai
+PLW	angaur
+PLW	coror
+PLW	m\\u00e9l\\u00e9k\\u00e9ok
+PLW	ngaraard
+PLW	ngchesar
+PLW	ngarchelong
+PLW	ngardmau
+PLW	ngeremlengui
+PLW	ngiwal
+PLW	p\\u00e9l\\u00e9liu
+===	
+PNG	papouasie nouvelle guin\\u00e9e
+PNG	papouasie-nouvelle-guin\\u00e9e
+PNG	province de l'ouest de la nouvelle-bretagne
+PNG	province de l'ouest
+PNG	province des hautes terres de l'ouest
+PNG	province des hautes terres du sud
+PNG	province de sandaun
+PNG	bougainville
+PNG	province d'oro
+PNG	nouvelle-irlande
+PNG	capitale nationale
+PNG	province de morobe
+PNG	province de manus
+PNG	province de madang
+PNG	province du golfe
+PNG	province d'enga
+PNG	province de sepik est
+PNG	province de l'est de la nouvelle-bretagne
+PNG	province des hautes terres de l'est
+PNG	province de chimbu
+PNG	province de la baie milne
+PNG	province centrale
+PNG	province d'h\\u00e9la
+PNG	province de jiwaka
+===	
+POL	pologne
+POL	polonais
+POL	p\\u00f4les
+POL	lublin
+POL	petite pologne
+POL	mazovie
+POL	sous-carpathie
+POL	podlasie
+POL	swiętokrzyskie
+POL	warmie-masurie
+POL	basse sil\\u00e9sie
+POL	vo\\u00efvodie de lodź
+POL	lubusz
+POL	vo\\u00efvodie d'opole
+POL	pom\\u00e9ranie
+POL	sil\\u00e9sie
+POL	grande pologne
+POL	pom\\u00e9ranie occidentale
+POL	coujawsko-pomoriskie
+POL	varsovie
+POL	lodz
+POL	cracovie
+POL	wroclaw
+POL	poznan
+===	
+PRK	cor\\u00e9e du nord
+PRK	nord cor\\u00e9en
+PRK	cor\\u00e9e du nord
+PRK	cor\\u00e9e du nord
+PRK	rpdc
+PRK	r\\u00e9publique populaire d\\u00e9mocratique de cor\\u00e9e
+PRK	d.p.r.k.
+PRK	pyongyang
+PRK	pyongan sud
+PRK	p'yongan-bukto
+PRK	kangwon-do
+PRK	hwanghae-namdo
+PRK	hwanghae-bukto
+PRK	hamgyong-namdo
+PRK	yanggang-do
+PRK	hambuk
+PRK	chagang-do
+PRK	rason
+PRK	pyongyang
+PRK	hamhung
+===	
+PRT	le portugal
+PRT	portugais
+PRT	set\\u00fabal
+PRT	santarem
+PRT	portalegre
+PRT	lisbonne
+PRT	leiria
+PRT	faro
+PRT	\\u00e9vora
+PRT	castelo branco
+PRT	beja
+PRT	mad\\u00e8re
+PRT	viseu
+PRT	vila r\\u00e9el
+PRT	viana do castelo
+PRT	porto
+PRT	garde
+PRT	coimbra
+PRT	bragance
+PRT	braga
+PRT	aveiro
+PRT	a\\u00e7ores
+===	
+PRY	paraguay
+PRY	paraguayais
+PRY	d\\u00e9partement de san p\\u00e9dro
+PRY	pr\\u00e9sident hayes
+PRY	paraguari
+PRY	\\u00f1eembucu
+PRY	d\\u00e9partement des missions
+PRY	itapua
+PRY	gua\\u00efra
+PRY	d\\u00e9partement de la cordill\\u00e8re
+PRY	conception
+PRY	d\\u00e9partement central
+PRY	canindeyu
+PRY	caazapa
+PRY	caaguazu
+PRY	d\\u00e9partement d'amambay
+PRY	haut parana
+PRY	haut-paraguay
+PRY	asuncion
+PRY	boqueron
+PRY	asuncion
+===	
+PSE	palestine
+PSE	palestinien
+PSE	banque de l'ouest
+PSE	plo
+PSE	p.lo
+PSE	pl.o
+PSE	gaza
+PSE	bande de gaza
+PSE	banque de l'ouest
+===	
+QAT	qatar
+QAT	qatarien
+QAT	madinat cendre shamal
+QAT	al khor
+QAT	municipalit\\u00e9 d'umm salal
+QAT	baladiyat ar rayyan
+QAT	baladiyat ad dawḩah
+QAT	al wakrah
+QAT	al daayen
+QAT	al-shahaniya
+===	
+ROU	roumanie
+ROU	roumain
+ROU	vrancea
+ROU	comt\\u00e9 de valcea
+ROU	comt\\u00e9 de vaslui
+ROU	comt\\u00e9 de tulcea
+ROU	comt\\u00e9 de timi\\u0219
+ROU	comt\\u00e9 de t\\u00e9l\\u00e9orman
+ROU	suceava
+ROU	comt\\u00e9 de sibiu
+ROU	comt\\u00e9 de satu mare
+ROU	comt\\u00e9 de salaj
+ROU	prahova
+ROU	bta
+ROU	comt\\u00e9 de neam\\u021b
+ROU	comt\\u00e9 de mure\\u0219
+ROU	comt\\u00e9 de mehedin\\u021bi
+ROU	maramur\\u00e9s
+ROU	comt\\u00e9 de ia\\u0219i
+ROU	comt\\u00e9 d'ialomi\\u021ba
+ROU	comt\\u00e9 de hunedoara
+ROU	comt\\u00e9 de harghita
+ROU	comt\\u00e9 de gorj
+ROU	comt\\u00e9 de giurgiu
+ROU	comt\\u00e9 de gala\\u021bi
+ROU	dolj
+ROU	comt\\u00e9 de dambovi\\u021ba
+ROU	comt\\u00e9 de covasna
+ROU	comt\\u00e9 de constan\\u021ba
+ROU	comt\\u00e9 de cluj
+ROU	comt\\u00e9 de cara\\u0219-severin
+ROU	comt\\u00e9 de calara\\u0219i
+ROU	comt\\u00e9 de buzau
+ROU	bucure\\u0219ti
+ROU	comt\\u00e9 de bra\\u0219ov
+ROU	comt\\u00e9 de bra\\u00efla
+ROU	comt\\u00e9 de boto\\u0219ani
+ROU	comt\\u00e9 de bistri\\u021ba-nasaud
+ROU	comt\\u00e9 de bihor
+ROU	comt\\u00e9 de bacau
+ROU	arges
+ROU	comt\\u00e9 d'arad
+ROU	comt\\u00e9 d'alba
+ROU	ilfov
+ROU	bucarest
+===	
+RUS	f\\u00e9d\\u00e9ration russe
+RUS	russe
+RUS	oblast de iaroslavl
+RUS	oblast de voronej
+RUS	oblast de vologda
+RUS	oblast de volgograd
+RUS	oulianovsk
+RUS	r\\u00e9publique d'oudmourtiya
+RUS	oblast de tver
+RUS	oblast de toula
+RUS	r\\u00e9publique du tatarstan
+RUS	oblast de tambov
+RUS	stavropol kray
+RUS	oblast de smolensk
+RUS	oblast de saratov
+RUS	oblast de samara
+RUS	oblast de riazan
+RUS	rostov
+RUS	oblast de pskov
+RUS	krai de perm
+RUS	oblast de penza
+RUS	oblast d'oryol
+RUS	oblast d'orenbourg
+RUS	oblast de novgorod
+RUS	ossetie du nord – alanie
+RUS	n\\u00e9n\\u00e8s
+RUS	mourmansk
+RUS	moscou
+RUS	oblast de moscou
+RUS	r\\u00e9publique de mordovie
+RUS	r\\u00e9publique de mariy-el
+RUS	oblast de lipetsk
+RUS	oblast de l\\u00e9ningradska\\u00efa
+RUS	saint-p\\u00e9tersbourg
+RUS	oblast de coursk
+RUS	krasnodar krai
+RUS	oblast de kostroma
+RUS	komi
+RUS	oblast de kirov
+RUS	car\\u00e9lie
+RUS	r\\u00e9publique karacha\\u00efevo-tcherk\\u00e9sie
+RUS	oblast de kalouga
+RUS	r\\u00e9publique kalmykiya
+RUS	oblast de kaliningrad
+RUS	r\\u00e9publique kabardino-balkariya
+RUS	oblast d'ivanovo
+RUS	r\\u00e9publique ingouchetiya
+RUS	oblast de nijni novgorod
+RUS	daghestan
+RUS	r\\u00e9publique tchouvachie
+RUS	tch\\u00e9tch\\u00e9nie
+RUS	oblast de briansk
+RUS	oblast de belgorod
+RUS	r\\u00e9publique du bachkortostan
+RUS	oblast d'astrakhan
+RUS	arkhangelska\\u00efa
+RUS	r\\u00e9publique adygu\\u00e9e
+RUS	oblast de vladimir
+RUS	yamalo-nenets
+RUS	oblast de tioumen
+RUS	r\\u00e9publique de tyva
+RUS	oblast de tomsk
+RUS	oblast de sverdlovsk
+RUS	oblast d'omsk
+RUS	oblast de novossibirsk
+RUS	oblast de korgan
+RUS	krai de krasnoyarsk
+RUS	khanty-mansie
+RUS	r\\u00e9publique de khakasiya
+RUS	kuzbass
+RUS	altai
+RUS	chelyabinsk
+RUS	krai de l'altai
+RUS	sakha
+RUS	primorye
+RUS	khabarovsk
+RUS	oblast d'irkoutsk
+RUS	oblast autonome juif
+RUS	oblast de l'amour
+RUS	r\\u00e9publique bouriatie
+RUS	oblast de sakhaline
+RUS	oblast de magadan
+RUS	kamchatka
+RUS	tchoukotka
+RUS	zabaykalskiy (transba\\u00efkal) kray
+RUS	moscou
+RUS	saint-p\\u00e9tersbourg
+RUS	novossibirsk
+RUS	ekaterinbourg
+RUS	nijni novgorod
+RUS	kazan
+RUS	chelyabinsk
+RUS	omsk
+RUS	samara
+RUS	rostov-na-donu
+RUS	ufa
+RUS	krasno\\u00efarsk
+RUS	voronej
+RUS	volgograd
+RUS	permanente
+RUS	krasnodar
+RUS	saratov
+RUS	tioumen
+RUS	tolyatti
+RUS	ijevsk
+RUS	barnaoul
+RUS	oulianovsk
+RUS	irkoutsk
+RUS	khabarovsk
+RUS	yaroslavl
+RUS	vladivostok
+RUS	makhachkala
+RUS	khabarovsk vtoroy
+RUS	tomsk
+RUS	orenbourg
+RUS	kemerovo
+RUS	novokuznetsk
+RUS	riazan
+RUS	astrakan
+RUS	penza
+===	
+RWA	rwanda
+RWA	rwandaise
+RWA	province de l'est
+RWA	kigali
+RWA	province du nord
+RWA	province de l'ouest
+RWA	province du sud
+RWA	kigali
+===	
+SAU	arabie saoudite
+SAU	arabie saoudite
+SAU	saoudien
+SAU	r\\u00e9gion de tabuk
+SAU	r\\u00e9gion de najran
+SAU	r\\u00e9gion de la mecque
+SAU	r\\u00e9gion de jazan
+SAU	r\\u00e9gion de ha'il
+SAU	r\\u00e9gion de l'asir
+SAU	province de l'est
+SAU	r\\u00e9gion de riyad
+SAU	r\\u00e9gion d'al-qassim
+SAU	r\\u00e9gion de la m\\u00e9dina
+SAU	r\\u00e9gion d'al jawf
+SAU	r\\u00e9gion fronti\\u00e8res nord
+SAU	r\\u00e9gion d'al bahah
+SAU	djeddah
+SAU	riyad
+SAU	mecque
+SAU	m\\u00e9dina
+SAU	dammam
+SAU	sultanah
+SAU	bouraydah
+SAU	ta'if
+SAU	tabuk
+SAU	grêle
+===	
+SDN	soudan
+SDN	soudanais
+SDN	\\u00e9tat du nord
+SDN	khartoum
+SDN	mer rouge
+SDN	al jazirah
+SDN	al qadarif
+SDN	nil blanc
+SDN	nil bleu
+SDN	darfour-ouest
+SDN	\\u00e9tat du kordofan de l'ouest
+SDN	darfour du sud
+SDN	kordofan du sud
+SDN	kassala
+SDN	nil
+SDN	darfour du nord
+SDN	kordofan du nord
+SDN	sinnar
+SDN	darfour oriental
+SDN	darfour central
+SDN	khartoum
+SDN	omdourman
+SDN	nyala
+===	
+SEN	s\\u00e9n\\u00e9gal
+SEN	s\\u00e9n\\u00e9galais
+SEN	ziguinchor
+SEN	thies
+SEN	tambacounda
+SEN	saint louis
+SEN	matam
+SEN	louga
+SEN	kolda
+SEN	kaolack
+SEN	fatick
+SEN	r\\u00e9gion de diourbel
+SEN	dakar
+SEN	kaffrine
+SEN	k\\u00e9dougou
+SEN	sedhiou
+SEN	dakar
+SEN	pikine
+SEN	touba
+===	
+SGP	singapour
+SGP	singapourien
+SGP	singapour
+===	
+SLB	les \\u00eeles salomon
+SLB	\\u00eele salomon
+SLB	salomon
+SLB	province de l'ouest
+SLB	province de mala\\u00efta
+SLB	province d'isabele
+SLB	province de guadalcanal
+SLB	province centrale
+SLB	province de t\\u00e9motu
+SLB	province de makira-ulawa
+SLB	province de choiseul
+SLB	province de rennel et bellona
+SLB	honiara
+===	
+SLE	sierra leone
+SLE	sierra l\\u00e9onien
+SLE	zone ouest
+SLE	province du sud
+SLE	province du nord
+SLE	province de l'est
+SLE	nord ouest
+SLE	ville libre
+===	
+SLV	le salvador
+SLV	salvador
+SLV	salvadorien
+SLV	usulutan
+SLV	d\\u00e9partement sonsonate
+SLV	d\\u00e9partement de san vicente
+SLV	d\\u00e9partement de santa ana
+SLV	d\\u00e9partement de san salvador
+SLV	d\\u00e9partement de san miguel
+SLV	morazan
+SLV	l'union
+SLV	d\\u00e9partement de la paz
+SLV	d\\u00e9partement de la libertad
+SLV	cuscatlan
+SLV	d\\u00e9partement de chalatenango
+SLV	cabanas
+SLV	ahuachapan
+SLV	san salvador
+===	
+SMR	saint marin
+SMR	saint-marinais
+SMR	serravalle
+SMR	chiesanuova
+SMR	saint marin
+SMR	acquaviva
+SMR	borgo maggiore
+SMR	domagnano
+SMR	fa\\u00e9tano
+SMR	fiorentino
+SMR	mont\\u00e9giardino
+===	
+SOM	somalie
+SOM	somali
+SOM	woqooyi galbeed
+SOM	togdh\\u00e9er
+SOM	shabeelle inf\\u00e9rieure
+SOM	shabele moyen
+SOM	sanaag
+SOM	nugaal
+SOM	boue
+SOM	juba inf\\u00e9rieur
+SOM	moyen juba
+SOM	hiiraan
+SOM	g\\u00e9do
+SOM	galguduud
+SOM	baie
+SOM	bari
+SOM	banaadir
+SOM	bakool
+SOM	awdal
+SOM	sol
+SOM	mogadiscio
+SOM	borama
+===	
+SRB	mont\\u00e9n\\u00e9gro
+SRB	serbe
+SRB	mont\\u00e9n\\u00e9grin
+SRB	serbe
+SRB	serbie
+SRB	vojvodine
+SRB	serbie centrale
+SRB	belgrade
+===	
+SSD	soudan
+SSD	soudan du sud
+SSD	soudanais du sud
+SSD	haut nil
+SSD	des lacs
+SSD	unit\\u00e9
+SSD	\\u00e9quatoria centrale
+SSD	\\u00e9quatoria occidentale
+SSD	bahr al ghazal ouest
+SSD	jonglei
+SSD	bahr al ghazal nord
+SSD	\\u00e9quatorie orientale
+SSD	guerre
+===	
+STP	sao tom\\u00e9 et principe
+STP	sao tom\\u00e9en
+STP	st. thomas et prince
+STP	saint thomas et prince
+STP	\\u00eele de sao tom\\u00e9
+STP	principe
+===	
+SUR	surinam
+SUR	surinamer
+SUR	surinam
+SUR	guyane n\\u00e9erlandaise
+SUR	guyane pays-bas
+SUR	guyane n\\u00e9erlandaise
+SUR	surinamais
+SUR	sranang
+SUR	quartier de wanica
+SUR	quartier de sipaliwini
+SUR	quartier de saramacca
+SUR	quartier de paramaribo
+SUR	quartier para
+SUR	quartier de nickerie
+SUR	quartier de marowijne
+SUR	quartier de la coronie
+SUR	quartier de commewijne
+SUR	quartier de brokopondo
+===	
+SVK	slovaquie
+SVK	slovaque
+SVK	slovaque
+SVK	r\\u00e9publique slovaque
+SVK	slov\\u00e8ne
+SVK	slovaquie
+SVK	slovaquie
+SVK	slovaquie
+SVK	szlovaquie
+SVK	eslovaquie
+SVK	eslovaca
+SVK	slov\\u00e8ne
+SVK	r\\u00e9gion de kosice
+SVK	r\\u00e9gion de pr\\u00e9sov
+SVK	r\\u00e9gion de zilina
+SVK	r\\u00e9gion de banska bystrica
+SVK	r\\u00e9gion de bratislava
+SVK	r\\u00e9gion de nitra
+SVK	r\\u00e9gion de trencin
+SVK	r\\u00e9gion de trnava
+===	
+SVN	slov\\u00e9nie
+SVN	slov\\u00e8ne
+SVN	slov\\u00e8ne
+SVN	zalec
+SVN	municipalit\\u00e9 de zagorje ob savi
+SVN	vrhnika
+SVN	trzic
+SVN	trebnj\\u00e9
+SVN	trbovlje
+SVN	tolmin
+SVN	velenje
+SVN	smarje pri jelsah
+SVN	slovenska konjice
+SVN	bistrica slovenska
+SVN	slov\\u00e9nj gradec
+SVN	skofja loka
+SVN	s\\u00e9zana
+SVN	municipalit\\u00e9 de sevnica
+SVN	sentjur
+SVN	ribnica
+SVN	radovljica
+SVN	radlje ob dravi
+SVN	ptuj
+SVN	postejna
+SVN	piran-pirano
+SVN	ormoz
+SVN	novo mesto
+SVN	nouvelle gorica
+SVN	murska sobota
+SVN	mozirj\\u00e9
+SVN	m\\u00e9tlika
+SVN	municipalit\\u00e9 de la ville de maribor
+SVN	logatec
+SVN	ljutomer
+SVN	litja
+SVN	l\\u00e9nart
+SVN	municipalit\\u00e9 de lasko
+SVN	krsko
+SVN	kranj
+SVN	koper-capodistrie
+SVN	kocevj\\u00e9
+SVN	kamnik
+SVN	jesenice
+SVN	izola-isola
+SVN	ilirska bistrica
+SVN	idrija
+SVN	municipalit\\u00e9 de hrastnik
+SVN	grosuplje
+SVN	gornja radgona
+SVN	dravograd
+SVN	domzale
+SVN	municipalit\\u00e9 de crnomelj
+SVN	cerknica
+SVN	celj\\u00e9
+SVN	br\\u00e9zice
+SVN	municipalit\\u00e9 d'ajdovscina
+SVN	hrpelje-kozina
+SVN	divaca
+SVN	pivka
+SVN	municipalit\\u00e9 de loska dolina
+SVN	loski potok
+SVN	osilnica
+SVN	velike lasce
+SVN	skofljica
+SVN	municipalit\\u00e9 ig
+SVN	brezovica
+SVN	borovnica
+SVN	vipava
+SVN	komen
+SVN	miren-kostanjevica
+SVN	brda
+SVN	kanal ob soci municipalit\\u00e9
+SVN	ziri
+SVN	cerkno
+SVN	municipalit\\u00e9 de zelezniki
+SVN	obcina gorenja vas-poljane
+SVN	dobrova-horjul-polhov gradec
+SVN	municipalit\\u00e9 de kobarid
+SVN	bovec
+SVN	municipalit\\u00e9 de bohinj
+SVN	saign\\u00e9
+SVN	naklo
+SVN	kranjska gora
+SVN	preddvor
+SVN	cerklje na gorenjskem
+SVN	sencur
+SVN	vodice
+SVN	medvode
+SVN	menges
+SVN	dol pri ljubljani
+SVN	moravce
+SVN	dipl\\u00f4m\\u00e9 de gornji
+SVN	luc\\u00e9
+SVN	ravne na koroskem
+SVN	m\\u00e9zique
+SVN	muta
+SVN	vuzenica
+SVN	municipalit\\u00e9 de crna na koroskem
+SVN	ljubno
+SVN	sostanj
+SVN	smartno ob paki
+SVN	lukovica
+SVN	commune de radece
+SVN	ivancna gorica
+SVN	dobrepolj\\u00e9
+SVN	s\\u00e9mique
+SVN	sentjernej
+SVN	skocjan
+SVN	magasin
+SVN	vojnik
+SVN	vitanj\\u00e9
+SVN	municipalit\\u00e9 de zrece
+SVN	mislinja
+SVN	municipalit\\u00e9 de ruse
+SVN	kungota
+SVN	sentilj
+SVN	pesnica
+SVN	duplek
+SVN	cadre de course
+SVN	\\u00e9toile
+SVN	kidricevo
+SVN	majsperk
+SVN	vid\\u00e9m
+SVN	rogaska slatine
+SVN	rogatec
+SVN	podcetrtek
+SVN	kozj\\u00e9
+SVN	gorisnica
+SVN	zavrc
+SVN	dornava
+SVN	jursinci
+SVN	sveti jurij
+SVN	radenci
+SVN	puconci
+SVN	rogasovci
+SVN	kouzma
+SVN	gornji petrovci
+SVN	moravske toplice
+SVN	kobilj\\u00e9
+SVN	beltinci
+SVN	tournis
+SVN	odranci
+SVN	crensovci
+SVN	nazarj\\u00e9
+SVN	ljubljana
+SVN	zirovnica
+SVN	jezersko
+SVN	municipalit\\u00e9 de solcava
+SVN	komenda
+SVN	horjul
+SVN	sempeter-vrtojba
+SVN	type
+SVN	sodrazique
+SVN	trzin
+SVN	prevalje
+SVN	vransko
+SVN	tambourin
+SVN	braslovce
+SVN	polzela
+SVN	pr\\u00e9gras
+SVN	kostel
+SVN	zouzemberk
+SVN	dolenjske toplice
+SVN	municipalit\\u00e9 de mirna pec
+SVN	bistrique ob sotli
+SVN	dobj\\u00e9
+SVN	dobrna
+SVN	municipalit\\u00e9 d'oplotnica
+SVN	podvelka
+SVN	ribnica na pohorju
+SVN	lovrenc na pohorju
+SVN	selnica ob dravi
+SVN	hoce-slivnica
+SVN	miklavz na dravskem polju
+SVN	hajdina
+SVN	z\\u00e9tale
+SVN	podlehnik
+SVN	markovci
+SVN	destrnik
+SVN	trnovska vas
+SVN	sveti andraz v slovenskih goricah
+SVN	cerkvenjak
+SVN	b\\u00e9n\\u00e9dikt
+SVN	municipalit\\u00e9 de sveta ana
+SVN	krizevci
+SVN	verzej
+SVN	velika polana
+SVN	lendava-lendva
+SVN	dobrovnik-dobronak
+SVN	tisina
+SVN	cankova
+SVN	dipl\\u00f4m\\u00e9
+SVN	hodos-hodos
+SVN	razkrizje
+SVN	smartno pri litiji
+SVN	salovci
+SVN	un rythme
+SVN	cirkulane
+SVN	kostanjevica na krki
+SVN	bûche-dragomer
+SVN	makole
+SVN	municipalit\\u00e9 de mokronog-trebelno
+SVN	polycane
+SVN	recica ob savinji
+SVN	rence-vogrsko
+SVN	sredisce ob dravi
+SVN	straza
+SVN	sv. trojica contre slov. goricah
+SVN	sveti tomaz
+SVN	sentrupert
+SVN	smarjeske toplice
+SVN	sveti jurij v slovenskih goricah
+SVN	gorj\\u00e9
+SVN	municipalit\\u00e9 d'ankaran
+SVN	mirna
+===	
+SWE	su\\u00e8de
+SWE	su\\u00e9dois
+SWE	norrbotten
+SWE	vastmanland
+SWE	vasternorrland
+SWE	vasterbotten
+SWE	varmland
+SWE	uppsala
+SWE	stockholm
+SWE	sodermanland
+SWE	östergotland
+SWE	orebre
+SWE	kronoberg
+SWE	dalarna
+SWE	kalmar
+SWE	jonkoping
+SWE	jamtland
+SWE	hallande
+SWE	gotland
+SWE	gavleborg
+SWE	blekinge
+SWE	skåne
+SWE	vastra gotaland
+SWE	stockholm
+SWE	goûteborg
+===	
+SWZ	swaziland
+SWZ	swazi
+SWZ	shiselweni
+SWZ	r\\u00e9gion de manzini
+SWZ	r\\u00e9gion de lubombo
+SWZ	r\\u00e9gion hhohho
+===	
+SYC	les seychelles
+SYC	seychellois
+SYC	iles seychelles
+SYC	takamaka
+SYC	saint louis
+SYC	port-glaud
+SYC	pointe-la-rue
+SYC	plaisir
+SYC	mont fleuri
+SYC	mont buxton
+SYC	la rivi\\u00e8re anglaise
+SYC	la digue et les \\u00eeles int\\u00e9rieures
+SYC	grand anse mah\\u00e9
+SYC	grand anse praslin
+SYC	glacis
+SYC	cascade
+SYC	bel ombre
+SYC	bel air
+SYC	beau-vallon
+SYC	baie sainte-anne
+SYC	baie-lazare
+SYC	anse royale
+SYC	anse \\u00e9toile
+SYC	anse-boileau
+SYC	anse-aux-pins
+SYC	les mamelles
+SYC	roche caiman
+SYC	ua cap
+SYC	\\u00eeles ext\\u00e9rieures
+SYC	ile pers\\u00e9v\\u00e9rance i
+SYC	ile pers\\u00e9v\\u00e9rance ii
+===	
+SYR	syrie
+SYR	syrien
+SYR	tartous
+SYR	dimashq
+SYR	idlib
+SYR	oms
+SYR	hama
+SYR	alep
+SYR	rif-dimashq
+SYR	deir ez-zor
+SYR	daraa
+SYR	as-suwayda
+SYR	ar-raqqah
+SYR	quneitra
+SYR	lataquie
+SYR	al-hasakah
+SYR	alep
+SYR	damas
+SYR	oms
+SYR	lataquie
+SYR	ar raqqah
+===	
+TCD	tchad
+TCD	tchadien
+TCD	salamat
+TCD	ouada\\u00ef
+TCD	oued fira
+TCD	tandjile
+TCD	moyen-chari
+TCD	mayo-kebbi est
+TCD	logone oriental
+TCD	logone occidental
+TCD	lac
+TCD	kanem
+TCD	gu\\u00e9ra
+TCD	chari-baguirmi
+TCD	bain
+TCD	borkou
+TCD	hadjer-lamis
+TCD	mandoul
+TCD	mayo-kebbi ouest
+TCD	n'djamena
+TCD	barh el gazel
+TCD	sila
+TCD	tibesti
+TCD	ennedi-ouest
+TCD	ennedi-est
+TCD	n'djamena
+===	
+TGO	aller
+TGO	togolais
+TGO	savane
+TGO	plateaux
+TGO	maritime
+TGO	centrale
+TGO	kara
+TGO	lom\\u00e9
+===	
+THA	tha\\u00eflande
+THA	tha\\u00eflandais
+THA	siam
+THA	uthai thani
+THA	trang
+THA	prendre
+THA	surat thani
+THA	sukhothai
+THA	ratchaburi
+THA	province de ranong
+THA	prachuap khiri khan
+THA	phuket
+THA	phetchaburi
+THA	phang-nga
+THA	mae hong fils
+THA	lamphun
+THA	lampang
+THA	krabi
+THA	kanchanaburi
+THA	kamphaeng phet
+THA	chumphon
+THA	chian rai
+THA	chiangmai
+THA	yasothon
+THA	yala
+THA	uttaradit
+THA	trat
+THA	surin
+THA	suphan buri
+THA	songkhla
+THA	si sa ket
+THA	sing buri
+THA	satun
+THA	saraburi
+THA	samut songkhram
+THA	samut sakhon
+THA	samut prakan
+THA	sakon nakhon
+THA	roi et
+THA	rayong
+THA	phra nakhon si ayutthaya
+THA	phra\\u00e9
+THA	phitsanulok
+THA	phichit
+THA	phetchabun
+THA	phayao
+THA	phattalung
+THA	pattani
+THA	pathum thani
+THA	nonthaburi
+THA	nong khai
+THA	narathiwat
+THA	nan
+THA	nakhon si thammarat
+THA	nakhon sawan
+THA	nakhon ratchasima
+THA	nakhon phanom
+THA	chemin de nakhon
+THA	nakhon nayok
+THA	mukdahan
+THA	maha sarakham
+THA	lopburi
+THA	loei
+THA	bangkok
+THA	khon kaen
+THA	kalasin
+THA	chon bouri
+THA	chanthaburi
+THA	chaiyaphum
+THA	cha\\u00ef nat
+THA	chachoengsao
+THA	buriram
+THA	un string
+THA	udon thani
+THA	prachin buri
+THA	ubon ratchathani
+THA	amnat charoen
+THA	nong bua lamphu
+THA	sa ka\\u00e9o
+THA	bueng kan
+THA	bangkok
+===	
+TJK	tadjikistan
+TJK	tadjik
+TJK	sughd
+TJK	gorno-badakhshan
+TJK	province de khatlon
+TJK	subordination r\\u00e9publicaine
+TJK	douchanb\\u00e9
+TJK	douchanb\\u00e9
+===	
+TKM	turkm\\u00e9nistan
+TKM	turkm\\u00e8nes
+TKM	balkanique
+TKM	ahal
+TKM	achgabat
+TKM	dasoguz
+TKM	marie
+TKM	l\\u00e9bap
+TKM	achgabat
+===	
+TMP	timor-leste
+TMP	timorais
+TMP	timor oriental
+TMP	timor l'este
+===	
+TON	tonga
+TON	tongaien
+TON	vava'u
+TON	tongatapu
+TON	ha'apai
+TON	'eua
+TON	niuas
+===	
+TTO	trinit\\u00e9-et-tobago
+TTO	trinidadien
+TTO	trinit\\u00e9
+TTO	tobago
+TTO	tobago
+TTO	san fernando
+TTO	port d'espagne
+TTO	mayaro
+TTO	arrondissement d'arima
+TTO	chaguanas
+TTO	couva-tabaquite-talparo
+TTO	soci\\u00e9t\\u00e9 r\\u00e9gionale diego martin
+TTO	p\\u00e9nal/debe
+TTO	ville des princes
+TTO	pointe fortin
+TTO	soci\\u00e9t\\u00e9 r\\u00e9gionale de sangre grande
+TTO	soci\\u00e9t\\u00e9 r\\u00e9gionale de siparia
+TTO	san juan/laventille
+TTO	thon/piarco
+===	
+TUN	tunisie
+TUN	tunisien
+TUN	gouvernorat de zaghouan
+TUN	gouvernorat de tunis
+TUN	gouvernorat de tozeur
+TUN	tataouine
+TUN	gouvernorat de sousse
+TUN	gouvernorat de siliana
+TUN	gouvernorat de sidi bouzid
+TUN	gouvernorat de sfax
+TUN	gouvernorat de k\\u00e9bili
+TUN	gafsa
+TUN	gouvernorat de gab\\u00e8s
+TUN	gouvernorat de nabeul
+TUN	gouvernorat de m\\u00e9denine
+TUN	gouvernorat de jendouba
+TUN	gouvernorat de ben arous
+TUN	gouvernorat de bizerte
+TUN	gouvernorat de beja
+TUN	gouvernorat de l'ariana
+TUN	kairouan
+TUN	gouvernorat de kasserine
+TUN	gouvernorat de monastir
+TUN	gouvernorat de mahdia
+TUN	gouvernorat du kef
+TUN	manouba
+TUN	tunis
+===	
+TUR	dinde
+TUR	turc
+TUR	turc
+TUR	yozgat
+TUR	van
+TUR	usak
+TUR	sanliurfa
+TUR	tunc\\u00e9li
+TUR	sivas
+TUR	siirt
+TUR	province de niğde
+TUR	province de nevsehir
+TUR	mus
+TUR	mugla
+TUR	mardon
+TUR	manisa
+TUR	malate
+TUR	kutahya
+TUR	koya
+TUR	kirsehir
+TUR	kayseri
+TUR	kahramanmaras
+TUR	province d'izmir
+TUR	isparte
+TUR	mersin
+TUR	hatay
+TUR	hakkari
+TUR	gaziantep
+TUR	eskisehir
+TUR	erzurum
+TUR	erzincan
+TUR	elaziğ
+TUR	province de diyarbakir
+TUR	denizli
+TUR	burdur
+TUR	bitlis
+TUR	bingol
+TUR	bil\\u00e9cik
+TUR	baikesir
+TUR	aydin
+TUR	antalya
+TUR	ankara
+TUR	agri
+TUR	province d'afyonkarahisar
+TUR	province d'adiyaman
+TUR	adana
+TUR	osmaniye
+TUR	iğdir
+TUR	aksaray
+TUR	homme chauve-souris
+TUR	karaman
+TUR	kirikkale
+TUR	sirnak
+TUR	kilis
+TUR	province de zonguldak
+TUR	trabzon
+TUR	province de tokat
+TUR	tekirdağ
+TUR	sinop
+TUR	samsun
+TUR	sakarya
+TUR	province de rize
+TUR	ordu
+TUR	kocaeli
+TUR	kirklareli
+TUR	kastamonu
+TUR	province de kars
+TUR	istanbul
+TUR	province de gumushane
+TUR	giresun
+TUR	\\u00e9dirne
+TUR	corum
+TUR	cankiri
+TUR	canakkale
+TUR	province de bursa
+TUR	bolu
+TUR	artvin
+TUR	amasya
+TUR	bartin
+TUR	province de karabo\\u00efk
+TUR	yalova
+TUR	ardahan
+TUR	province de ba\\u00efbourt
+TUR	duz\\u00e7\\u00e9
+TUR	istanbul
+TUR	ankara
+TUR	bourse
+TUR	izmir
+TUR	gaziantep
+TUR	diyarbakir
+TUR	adana
+TUR	koya
+TUR	antalya
+TUR	kayseri
+TUR	eskisehir
+TUR	malate
+TUR	cankaya
+TUR	erzurum
+TUR	bagcilar
+TUR	bahcelievler
+TUR	umraniye
+TUR	mersin
+TUR	van
+TUR	ueskuedar
+===	
+TUV	tuvalu
+TUV	tuvaluan
+TUV	nui
+TUV	nanum\\u00e9a
+TUV	funafuti
+TUV	niutao
+TUV	nanumanga
+TUV	vaitupu
+TUV	nukufetau
+TUV	nukulaelae
+===	
+TWN	ta\\u00efwan
+TWN	ta\\u00efwanais
+TWN	fukien
+TWN	takao
+TWN	taip\\u00e9i
+TWN	ta\\u00efwan
+TWN	taip\\u00e9i
+TWN	kaohsiung
+TWN	taichung
+TWN	ta\\u00efnan
+TWN	banqiao
+===	
+TZA	r\\u00e9publique-unie de tanzanie
+TZA	tanzanien
+TZA	tanzanie
+TZA	kagera
+TZA	zanzibar urbain/ouest
+TZA	zanzibar nord
+TZA	zanzibar centre/sud
+TZA	tanga
+TZA	tabora
+TZA	singida
+TZA	shinyanga
+TZA	rukwa
+TZA	pwani
+TZA	pemba sud
+TZA	pemba nord
+TZA	mwanza
+TZA	morogoro
+TZA	mbeya
+TZA	mara
+TZA	lindi
+TZA	kilimandjaro
+TZA	kigoma
+TZA	iringa
+TZA	dodoma
+TZA	r\\u00e9gion de dar es salaam
+TZA	arusha
+TZA	manyara
+TZA	ruvuma
+TZA	mtwara
+TZA	simiyu
+TZA	g\\u00e9ita
+TZA	katavi
+TZA	njombe
+TZA	songwe
+TZA	dar es salam
+TZA	mwanza
+TZA	arusha
+TZA	mbeya
+===	
+UGA	ouganda
+UGA	ougandais
+UGA	r\\u00e9gion centrale
+UGA	r\\u00e9gion orientale
+UGA	r\\u00e9gion du nord
+UGA	r\\u00e9gion de l'ouest
+UGA	kampala
+===	
+UKR	ukraine
+UKR	ukrainien
+UKR	jhytomyr
+UKR	zaporizzhie
+UKR	transcarpathie
+UKR	volyne
+UKR	vinnytsia
+UKR	ternopil
+UKR	sumy
+UKR	ville de s\\u00e9bastopol
+UKR	rivne
+UKR	poltava
+UKR	odessa
+UKR	mykolaiv
+UKR	lviv
+UKR	louhansk
+UKR	kiev
+UKR	ville de kiev
+UKR	crim\\u00e9e
+UKR	kirovohrad
+UKR	khmelnytski
+UKR	kherson
+UKR	kharkiv
+UKR	ivano-frankivsk
+UKR	donetsk
+UKR	dnipropetrovsk
+UKR	tchernivtsi
+UKR	tchernihiv
+UKR	tcherkassy
+UKR	kyiv
+UKR	kharkiv
+UKR	odesa
+UKR	dnipro
+UKR	donetsk
+UKR	lviv
+UKR	zaporizjya
+UKR	kryvyy rih
+UKR	s\\u00e9bastopol
+===	
+URY	uruguay
+URY	uruguayen
+URY	d\\u00e9partement treinta y tres
+URY	d\\u00e9partement de tacuarembo
+URY	soriano
+URY	d\\u00e9partement de san jos\\u00e9
+URY	d\\u00e9partement salto
+URY	d\\u00e9partement rocha
+URY	d\\u00e9partement de rivera
+URY	d\\u00e9partement de rio n\\u00e9gro
+URY	d\\u00e9partement du paysandu
+URY	d\\u00e9partement mont\\u00e9vid\\u00e9o
+URY	maldonado
+URY	lavalleja
+URY	floride
+URY	d\\u00e9partement de flores
+URY	d\\u00e9partement de durazno
+URY	colonie
+URY	cerro largo
+URY	canelons
+URY	artigas
+URY	mont\\u00e9vid\\u00e9o
+===	
+USA	les \\u00e9tats-unis d'am\\u00e9rique
+USA	am\\u00e9ricain
+USA	u.s.
+USA	u. s. a.
+USA	etats-unis
+USA	\\u00e9tats-unis
+USA	arkansas
+USA	washington dc.
+USA	delaware
+USA	floride
+USA	g\\u00e9orgie
+USA	kansas
+USA	louisiane
+USA	maryland
+USA	missouri
+USA	mississippi
+USA	caroline du nord
+USA	oklahoma
+USA	caroline du sud
+USA	tennessee
+USA	texas
+USA	virginie de l'ouest
+USA	alabama
+USA	connecticut
+USA	iowa
+USA	illinois
+USA	indiana
+USA	maine
+USA	michigan
+USA	minnesota
+USA	nebraska
+USA	new hampshire
+USA	new jersey
+USA	new york
+USA	ohio
+USA	rhode island
+USA	vermont
+USA	wisconsin
+USA	californie
+USA	colorado
+USA	nouveau mexique
+USA	nevada
+USA	utah
+USA	arizona
+USA	idaho
+USA	montana
+USA	dakota du nord
+USA	oregon
+USA	dakota du sud
+USA	washington
+USA	wyoming
+USA	hawaii
+USA	alaska
+USA	kentucky
+USA	massachusetts
+USA	pennsylvanie
+USA	virginie
+USA	la ville de new york
+USA	los angeles
+USA	brooklyn
+USA	chicago
+USA	houston
+USA	reines
+USA	ph\\u00e9nix
+USA	crême philadelphia
+USA	manhattan
+USA	san antonio
+USA	san diego
+USA	le bronx
+USA	dallas
+USA	san jos\\u00e9
+USA	jacksonville
+USA	austin
+USA	fort valant
+USA	colomb
+USA	indianapolis
+USA	charlotte
+USA	san francisco
+USA	seattle
+USA	denver
+USA	washington
+USA	nashville
+USA	el paso
+USA	la ville d'oklahoma
+USA	d\\u00e9troit
+USA	boston
+USA	portland
+USA	nouveau memphis sud
+USA	memphis
+USA	las v\\u00e9gas
+USA	milwaukee
+USA	baltimore
+USA	boston sud
+USA	albuquerque
+USA	tucson
+===	
+USAASM	samoa am\\u00e9ricaines
+USAASM	samoan
+===	
+USAGUM	guam
+USAGUM	guamanien
+===	
+USAPRI	porto rico
+USAPRI	portoricain
+===	
+USAVIR	\\u00eeles vierges des \\u00e9tats-unis
+USAVIR	\\u00eele vierge
+USAVIR	les iles vierges
+===	
+UZB	ouzb\\u00e9kistan
+UZB	ouzbek
+UZB	ouzb\\u00e9kistani
+UZB	karakalpakstan
+UZB	r\\u00e9gion de surxondaryo
+UZB	r\\u00e9gion de samarqand
+UZB	qashqadaryo
+UZB	boukhara
+UZB	r\\u00e9gion de tachkent
+UZB	tachkent
+UZB	r\\u00e9gion de sirdaryo
+UZB	r\\u00e9gion de la navoi
+UZB	namangan
+UZB	r\\u00e9gion de xorazm
+UZB	r\\u00e9gion de jizzakh
+UZB	fergane
+UZB	r\\u00e9gion d'andijan
+UZB	tachkent
+UZB	namangan
+===	
+VCT	saint-vincent-et-les-grenadines
+VCT	vincentien
+VCT	saint-vincent
+VCT	grenadines
+VCT	saint-vincent
+VCT	st. vincent
+VCT	san vicente et las granadinas
+VCT	saint-vincent
+VCT	paroisse saint-patrick
+VCT	paroisse saint-george
+VCT	paroisse saint-david
+VCT	paroisse saint-andr\\u00e9
+VCT	paroisse des grenadines
+VCT	paroisse charlotte
+===	
+VEN	venezuela
+VEN	v\\u00e9n\\u00e9zu\\u00e9lien
+VEN	zulia
+VEN	yaracuy
+VEN	trujillo
+VEN	tachira
+VEN	sucr\\u00e9
+VEN	portugais
+VEN	nueva esparta
+VEN	monagas
+VEN	miranda
+VEN	m\\u00e9rida
+VEN	lara
+VEN	guarico
+VEN	d\\u00e9pendances f\\u00e9d\\u00e9rales
+VEN	district f\\u00e9d\\u00e9ral
+VEN	faucon
+VEN	delta amacuro
+VEN	coj\\u00e8des
+VEN	carabobo
+VEN	bolivar
+VEN	barinas
+VEN	aragua
+VEN	apure
+VEN	anzoategui
+VEN	amazones
+VEN	vargas
+VEN	caracas
+VEN	maracaibo
+VEN	maracay
+VEN	valence
+VEN	barquisimeto
+VEN	ciudad guayane
+VEN	barcelone
+VEN	maturine
+===	
+VNM	vietnam
+VNM	vietnamien
+VNM	vietnam
+VNM	vietnam
+VNM	province de nghe-an
+VNM	province de ninh binh
+VNM	province de ninh thuan
+VNM	province de soc trang
+VNM	province de tra vinh
+VNM	province de tuyen quang
+VNM	province de vinh long
+VNM	province de yen bai
+VNM	province de lao cai
+VNM	tien giang
+VNM	province de th\\u1eeba thien hue
+VNM	kon tum
+VNM	province de hanh hoa
+VNM	province de thai binh
+VNM	province de tay ninh
+VNM	son la province
+VNM	province de quang tri
+VNM	quang ninh
+VNM	province de quang ngai
+VNM	province de quang binh
+VNM	province de phu yen
+VNM	province de hoa binh
+VNM	longtemps une povince
+VNM	province de l\\u1ea1ng son
+VNM	province de lam dong
+VNM	province de lai chau
+VNM	province de kien giang
+VNM	province de khanh hoa
+VNM	ho chi minh
+VNM	province de ha tinh
+VNM	province de ha giang
+VNM	province de gia lai
+VNM	hano\\u00ef
+VNM	can tho
+VNM	ha\\u00efphong
+VNM	province de binh thuan
+VNM	province de dongthap
+VNM	province de dong nai
+VNM	dak-lak
+VNM	province de ba ria-vung tau
+VNM	province de cao bang
+VNM	province d'inh dinh
+VNM	province de ben tre
+VNM	une province de giang
+VNM	province de dak nong
+VNM	province de dien bien
+VNM	province de bac ninh
+VNM	province de bac giang
+VNM	da nang
+VNM	province de binh duong
+VNM	province de binh phuoc
+VNM	province de thai nguyen
+VNM	province de quang nam
+VNM	province de phu thọ
+VNM	province du nam dinh
+VNM	province de ha nam
+VNM	province de bac k\\u1ea1n
+VNM	province de b\\u1ea1c lieu
+VNM	province de ca mau
+VNM	province de hai duong
+VNM	province de hong yen
+VNM	province de vinh phuc
+VNM	hau giang
+VNM	ho chi minh-ville
+VNM	hano\\u00ef
+VNM	da nang
+VNM	ha\\u00efphong
+VNM	bien hoa
+VNM	can tho
+VNM	thuan an
+===	
+VUT	vanuatu
+VUT	taf\\u00e9a
+VUT	sanma
+VUT	torba
+VUT	malampa
+VUT	p\\u00e9nama
+VUT	sh\\u00e9fa
+===	
+WSM	samoa
+WSM	samoan
+WSM	vaisigano
+WSM	va'a-o-fonoti
+WSM	tuamasaga
+WSM	satupa'itea
+WSM	palauli
+WSM	gaga'ifomauga
+WSM	gaga'emauga
+WSM	fa'asaleleaga
+WSM	atua
+WSM	aiga-i-le-tai
+WSM	a'ana
+===	
+X-BO	territoire britannique de l'oc\\u00e9an indien
+X-BO	\\u00eele britannique de l'oc\\u00e9an indien
+X-BO	oc\\u00e9an indien britannique
+===	
+X-CC	iles cocos
+X-CC	\\u00eele de keeling
+X-CC	atoll de keeling
+===	
+X-TURCYP	r\\u00e9publique turque de chypre du nord
+X-TURCYP	rtcn
+X-TURCYP	chypre du nord
+X-TURCYP	chypre du nord
+X-TURCYP	chypriote turc
+X-TURCYP	chypre turc
+X-TURCYP	kuzey kibris
+X-TURCYP	chypre occup\\u00e9e
+X-TURCYP	nord de chypre
+X-TURCYP	r\\u00e9publique turque de chypre
+===	
+X-XMAS	l'\\u00eele de no\\u00ebl
+X-XMAS	territoire australien de l'\\u00eele no\\u00ebl
+X-XMAS	\\u00eele de no\\u00ebl
+===	
+YEM	y\\u00e9men
+YEM	y\\u00e9m\\u00e9nien
+YEM	y\\u00e9m\\u00e9nite
+YEM	ta'izz
+YEM	chabwah
+YEM	gouvernorat de sanaa
+YEM	sa'dah
+YEM	raymah
+YEM	ma'rib
+YEM	gouvernorat d'al mahwit
+YEM	al jawf
+YEM	muhafazat hadramaout
+YEM	dhamar
+YEM	gouvernorat d'al mahrah
+YEM	al hodaydah
+YEM	al-bayda
+YEM	ad\\u00e9n
+YEM	gouvernorat d'abyan
+YEM	aḑ dali'
+YEM	omran
+YEM	ḩajjah
+YEM	gouvernorat de l'ibb
+YEM	laḩij
+YEM	amanat alasimah
+YEM	soqatra
+YEM	sanaa
+YEM	ad\\u00e9n
+YEM	al hodaydah
+YEM	taiz
+YEM	mukalla
+===	
+ZAF	r\\u00e9publique d'afrique du sud
+ZAF	sud africain
+ZAF	\\u00e9tat libre d'orange
+ZAF	kwazulu-natal
+ZAF	cap oriental
+ZAF	gauteng
+ZAF	mpumalanga
+ZAF	cap nord
+ZAF	limpopo
+ZAF	nord ouest
+ZAF	cape de western
+ZAF	johannesbourg
+ZAF	le cap
+ZAF	durban
+ZAF	soweto
+ZAF	pr\\u00e9toria
+ZAF	port-\\u00e9lisabeth
+ZAF	pietermaritzbourg
+ZAF	benoni
+ZAF	bloemfontein
+===	
+ZMB	zambie
+ZMB	zambien
+ZMB	province de l'ouest
+ZMB	province du sud
+ZMB	nord-ouest
+ZMB	province du nord
+ZMB	province de lusaka
+ZMB	province de luapula
+ZMB	province de l'est
+ZMB	ceinture de cuivre
+ZMB	province centrale
+ZMB	muchinga
+ZMB	lusaka
+===	
+ZWE	zimbabwe
+ZWE	zimbabw\\u00e9en
+ZWE	zimbabwa\\u00e9
+ZWE	zimbabwien
+ZWE	zimbabw\\u00e9i
+ZWE	province des midlands
+ZWE	province du sud du matabeleland
+ZWE	matabeleland nord
+ZWE	province de masvingo
+ZWE	mashonaland ouest
+ZWE	province de l'est du mashonaland
+ZWE	mashonaland centre
+ZWE	manicaland
+ZWE	bulawayo
+ZWE	harare
+ZWE	harare
+ZWE	bulawayo
+===	
+ASM	quartier ouest
+ASM	\\u00eele swains
+ASM	quartier est
+ASM	manu'a
+ASM	\\u00eele des rose
+===	
+ALA	mariehamns stad
+ALA	ålands landsbygd
+ALA	ålands skargård
+===	
+BES	bonaire
+BES	saba
+BES	saint-eustate
+===	
+FRO	vagar
+FRO	suðuroy
+FRO	streamoy
+FRO	sandoy
+FRO	norðoyar
+FRO	eysturoy
+===	
+GUF	guyane
+===	
+GRL	kujalleq
+GRL	qeqqata
+GRL	sermersooq
+GRL	qeqertalik
+GRL	avanaata
+===	
+GLP	guadeloupe
+===	
+GUM	piti
+GUM	p\\u00e8re no\\u00ebl rita
+GUM	sinajana
+GUM	talofofo
+GUM	appr\\u00e9ciation
+GUM	umatac
+GUM	yigo
+GUM	yona
+GUM	m\\u00e9rizo
+GUM	mangilao
+GUM	hauteurs d'agana
+GUM	chalan pago-ordot
+GUM	asan
+GUM	agat
+GUM	d\\u00e9d\\u00e9do
+GUM	barrigada
+GUM	hagatna
+GUM	inarajan
+GUM	mongmong-toto-maite
+===	
+IMN	andr\\u00e9as
+IMN	arboire
+IMN	ballaugh
+IMN	braddan
+IMN	mari\\u00e9e
+IMN	ch\\u00e2teau-ville
+IMN	douglas
+IMN	allemand
+IMN	jurby
+IMN	laxey
+IMN	l\\u00e9zayre
+IMN	lonan
+IMN	malou
+IMN	marown
+IMN	maughold
+IMN	michael
+IMN	onchan
+IMN	patrick
+IMN	peler
+IMN	port-erin
+IMN	port saint-marie
+IMN	ramsey
+IMN	rushen
+IMN	santon
+===	
+JEY	saint cl\\u00e9ment
+JEY	saint sauveur
+JEY	st. br\\u00e9lade
+JEY	grouville
+JEY	st marie
+JEY	saint-laurent
+JEY	saint pierre
+JEY	saint-ouen
+JEY	st-jean
+JEY	trinit\\u00e9
+JEY	saint-martin
+JEY	saint h\\u00e9lier
+===	
+MNE	municipalit\\u00e9 de rozaje
+MNE	opstina zabljak
+MNE	ulcinj
+MNE	tivat
+MNE	podgorica
+MNE	opstina savnik
+MNE	opstina pluzine
+MNE	pljevlja
+MNE	opstina plav
+MNE	opstina niksić
+MNE	mojkovac
+MNE	kotor
+MNE	opstina kolasin
+MNE	b\\u00e9rane
+MNE	herceg novi
+MNE	danilovgrad
+MNE	cetinj\\u00e9
+MNE	boudva
+MNE	bijelo polj\\u00e9
+MNE	bar
+MNE	andrijevica
+MNE	municipalit\\u00e9 de gusinje
+MNE	municipalit\\u00e9 de petnjica
+MNE	municipalit\\u00e9 de tuzi
+MNE	zêta
+===	
+MAC	nossa senhora de fatima
+MAC	saint-antonio
+MAC	sao lazar\\u00f4
+MAC	se
+MAC	sao louren\\u00e7o
+MAC	nossa senhora do carmo
+MAC	cota\\u00ef
+MAC	sao francisco xavier
+MAC	macao
+===	
+MNP	route
+MNP	saipan
+MNP	tinien
+MNP	iles du nord
+===	
+MTQ	martinique
+===	
+MSR	saint pierre
+MSR	saint georges
+MSR	saint antoine
+===	
+NCL	province sud
+NCL	province du nord
+NCL	\\u00eeles loyaut\\u00e9
+===	
+PAN	province de veraguas
+PAN	guna yala
+PAN	panama
+PAN	province de los santos
+PAN	province de herrera
+PAN	darienne
+PAN	c\\u00f4lon
+PAN	cocl\\u00e9
+PAN	province de chiriqui
+PAN	province de bocas del toro
+PAN	embera
+PAN	ngobe-bugle comarca
+PAN	province de panama-oeste
+PAN	naso tj\\u00ebr di
+===	
+PYF	\\u00eeles marquises
+PYF	\\u00eeles tuamotu-gambier
+PYF	\\u00eeles sous-sous-sous-vent
+PYF	\\u00eeles du vent
+PYF	\\u00eeles australes
+===	
+SPM	saint pierre
+SPM	miquelon-langlade
+===	
+PRI	adjuntas
+PRI	aguada
+PRI	aguadille
+PRI	\\u00e1guas buenas
+PRI	aibonito
+PRI	anasco
+PRI	arecibo
+PRI	arroyo
+PRI	barcelone
+PRI	barranquitas
+PRI	bayamon
+PRI	cabo rojo
+PRI	caguas
+PRI	camuy
+PRI	canovanas
+PRI	caroline
+PRI	catano
+PRI	cayey
+PRI	ceiba
+PRI	ciales
+PRI	cidra
+PRI	coamo
+PRI	com\\u00e9rio
+PRI	corozal
+PRI	culebra
+PRI	dor\\u00e9
+PRI	fajardo
+PRI	floride
+PRI	guanique
+PRI	guayama
+PRI	guayanille
+PRI	guaynabo
+PRI	gurabo
+PRI	hatillo
+PRI	hormigueros
+PRI	humacao
+PRI	isabelle
+PRI	jayuya
+PRI	juana d\\u00edaz
+PRI	juncos
+PRI	lajas
+PRI	lares
+PRI	las marias
+PRI	las piedras
+PRI	loiza
+PRI	luquillo
+PRI	manati
+PRI	mari\\u00e7ao
+PRI	maunabo
+PRI	mayaguez
+PRI	moca
+PRI	morovis
+PRI	naguabo
+PRI	naranjito
+PRI	orocovis
+PRI	patilles
+PRI	penuelas
+PRI	maquereau
+PRI	rincon
+PRI	qu\\u00e9bradillas
+PRI	rio grande
+PRI	sabana grande
+PRI	salinas
+PRI	san allemand
+PRI	san juan
+PRI	san lorenzo
+PRI	saint-s\\u00e9bastien
+PRI	p\\u00e8re isabel
+PRI	toa alta
+PRI	toa baja
+PRI	trujillo haut
+PRI	utuado
+PRI	vega haute
+PRI	vega baja
+PRI	villalba
+PRI	yabucoa
+PRI	yauco
+PRI	vi\\u00e8ques
+===	
+REU	r\\u00e9union
+===	
+SHN	ascension
+SHN	tristan da cunha
+SHN	sainte-h\\u00e9l\\u00e8ne
+===	
+SJM	jan mayen
+SJM	svalbard
+===	
+ATF	crozet
+ATF	kerguelen
+ATF	saint-paul-et-amsterdam
+ATF	\\u00eeles \\u00e9parses
+ATF	terre-ad\\u00e9lie
+===	
+TKL	nukunonu
+TKL	fakaofo
+TKL	atafu
+===	
+TLS	viqueque
+TLS	manufahi
+TLS	manatuto
+TLS	liquica
+TLS	lautem
+TLS	cova-lima
+TLS	ermera
+TLS	municipalit\\u00e9 de dili
+TLS	bobonaro
+TLS	baucau
+TLS	oecusse
+TLS	ainaro
+TLS	aileu
+===	
+UMI	\\u00eele de r\\u00e9veil
+UMI	\\u00eele navassa
+UMI	\\u00eele baker
+UMI	\\u00eele howland
+UMI	\\u00eele jarvis
+UMI	atoll johnston
+UMI	r\\u00e9cif kingman
+UMI	\\u00eeles moyennes
+UMI	atoll de palmyre
+===	
+VIR	\\u00eele sainte-croix
+VIR	\\u00eele saint-jean
+VIR	\\u00eele saint-thomas
+===	
+WLF	uvea
+WLF	sigave
+WLF	alo
+===	
+XKX	ferizaj
+XKX	gjakova
+XKX	gjilan
+XKX	mitrovica
+XKX	pec
+XKX	pristine
+XKX	prizren
+XKX	pristine
+===	
+MYT	acoua
+MYT	bandraboua
+MYT	bandel\\u00e9
+MYT	bou\\u00e9ni
+MYT	chiconi
+MYT	chirongui
+MYT	dembeni
+MYT	dzaoudzi
+MYT	kani-keli
+MYT	koungo
+MYT	mamoudzou
+MYT	mtsamboro
+MYT	m'tsangamouji
+MYT	ouangani
+MYT	pamandzi
+MYT	sada
+MYT	tsingoni
